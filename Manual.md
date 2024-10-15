@@ -1,4 +1,4 @@
-## FIRST CAMPAIGN SETUp (page 4)
+## FIRST CAMPAIGN SETUP (page 4)
  
 To set up their first campaign of *Journeys* in *Middle-earth*, players follow the steps presented in this section.
 
