@@ -178,7 +178,7 @@ The hero also must choose one enemy group that is in range. If an enemy group is
 
 After the hero chooses an item and enemy group, they resolve an attack test against that enemy group. Tests are described later in "Tests" on page 10.
 
-#### INTERACT Action (page 7)
+#### INTERACT ACTION (page 7)
 
 The interact action allows heroes to encounter points of interest on the map, which are indicated by search, person, and threat tokens. Interacting with these tokens is how heroes progress the adventure, discover items, gain experience, and neutralize threats.
 
@@ -204,7 +204,7 @@ If a hero is in the same space as one of these tokens, that hero can perform an 
 
 Players can inspect tokens in the app at any time by selecting them and reading their text, which usually describes what the token represents. Inspecting is not an action, and the player can select the "Cancel" button to close the token's description. However, if a player selects the button preceded by the  icon, they are performing an interact action and must meet the requirements for doing so. Similarly, while inspecting an exploration token, they should not select the "Confirm" button unless their hero is exploring that token.
 
-### ADDING MAP TILES
+### ADDING MAP TILES (page 7)
 
 The app instructs players to place new map tiles when certain conditions are met—these conditions include exploring and interacting with tokens, defeating enemies, etc. When the app instructs the players to place a tile, it highlights the alphanumeric code on that tile. The players should use this highlight to help orient the tile with the rest of the map.
 
@@ -284,7 +284,7 @@ Additionally, some effects can cause threat to increase during other game phases
 
 *This threshold activates during the threat step if threat is 15 or higher.*
 
-### RALLY PHASE
+### RALLY PHASE (page 9)'
 
 After the shadow phase, the app instructs the heroes to plan for the next round.
 
