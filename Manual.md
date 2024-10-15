@@ -42,7 +42,7 @@ If playing single-player, the player chooses two heroes and controls both of the
 
 - **Legolas:** Hunter
 
- ### ROLES
+ ### ROLES (page 4)
 
 A hero's role during an adventure determines some of that hero's capabilities. Each role has a general purpose
 
@@ -308,7 +308,7 @@ After scouting, the heroes select the "Continue" button and proceed to a new rou
 
 The party of heroes wins or loses an adventure together. Winning an adventure provides the heroes with greater rewards; however, whether they win or lose, all of the heroes proceed to the next adventure of the campaign. After completing their first adventure, players should read the "Campaign Rules" section in the Rules Reference—these rules describe how heroes can upgrade their items and purchase new skills before the next adventure begins.
 
-#### OOBJECTIVES (page 9)
+#### OBJECTIVES (page 9)
 
 Each adventure provides the heroes with a series of objectives. During an adventure, the heroes' current objective is displayed beneath the threat bar. After the heroes complete one objective, the app provides the heroes with a new objective automatically.
 
@@ -452,7 +452,7 @@ inputting five hits into the app
 
 Middle-earth is rife with dangerous enemies and other threats that imperil the intrepid heroes. As a result of these threats, the heroes may suffer damage () and fear (). If a hero suffers too much damage or fear, they are on the verge of being defeated and must perform a last- stand test to determine if they succumb to the threats of Middle-earth or rally and continue their adventure.
 
-When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it faceup in their play area. Then, they resolve the card's effect. Many of these cards instruct the hero to flip the card facedown or discard it. If a hero is instructed to keep the card faceup, it has a persistent effect that continues to apply to that hero. If a hero suffers multiple damage or fear at the same time, they reveal each card one at a time, resolving the card completely before revealing another card.
+When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it **faceup** in their play area. Then, they resolve the card's effect. Many of these cards instruct the hero to flip the card facedown or discard it. If a hero is instructed to keep the card faceup, it has a persistent effect that continues to apply to that hero. If a hero suffers multiple damage or fear at the same time, they reveal each card **one at a time**, resolving the card completely before revealing another card.
 
 Occasionally, a hero is specifically instructed to suffer facedown damage or fear. When this occurs, the hero places that damage or fear facedown next to their hero card without reading the card's text.
 
@@ -474,7 +474,7 @@ After a hero has suffered damage or fear, if they have a number of damage (faceu
 
 If a hero reaches both of their limits, they perform two last stands in the order of their choice.
 
-A last stand includes a test—if the hero fails the test, they are defeated. The hero is removed from the board and the party loses the adventure in the next shadow phase unless they complete the final objective. If the hero passes the test, they follow the instructions provided by the app.
+A last stand includes a test—if the hero fails the test, they are **defeated**. The hero is removed from the board and the party loses the adventure in the next shadow phase unless they complete the final objective. If the hero passes the test, they follow the instructions provided by the app.
 
 ## SUFFERING DAMAGE EXAMPLE ( page 12)
 
@@ -518,7 +518,7 @@ Exhausted enemies cannot activate, counterattack, or be provoked. The app readie
 
 #### PROVOKING ENEMIES (page 13)
 
-While a hero is in the same space as a readied enemy group, certain actions will provoke that enemy, causing it to attack. A hero must provoke an enemy during each of the following situations: 
+While a hero is in the same space as a readied enemy group, certain actions will **provoke** that enemy, causing it to attack. A hero must provoke an enemy during each of the following situations: 
 
 - before a hero moves out of a space that has a readied enemy
 
@@ -576,15 +576,15 @@ Each card ability describes when the ability can be used. To use an ability, the
 
 Most skill cards contain one or more bolded keywords, such as "**Sprint 1.**" Keywords are a shorthand for abilities that appear on cards frequently. The rules for each of the keywords can be found in the Quick Reference on the back page of this rulebook.
 
-#### Traits (page 14)
+#### TRAITS (page 14)
 
 Some skill cards (and item cards) contain italicized traits such as "Dwarf " and "Tactic." Traits have no inherent effects; however, other game effects may refer to cards that have traits.
 
-#### Nearby (page 14)
+#### NEARLY (page 14)
 
-Some abilities and rules refer to **nearby** components or spaces. A component is nearby another component if they share the same space or are in spaces that are adjacent to each other. A nearby space refers to that space and all spaces adjacent to it. A component is not nearby itself.
+Some abilities and rules refer to **nearby** components or spaces. A component is nearby another component if they share the same space or are in spaces that are adjacent to each other. A nearby space refers to that space and all spaces adjacent to it. A component is **not** nearby itself.
 
-#### Apply (page 14)
+#### APPLY (page 14)
 
 Abilities that "apply" hits and modifiers to enemies are **not** attacks. To resolve these abilities, the hero inputs hits and modifiers in the enemy's menu and selects "Apply," but the hero always selects "No" if the app prompts a counterattack.
 
@@ -620,13 +620,15 @@ Heroes can become hidden, emboldened, or determined. These are boons that improv
 
 Heroes may find trinkets during their adventures. Trinkets are item cards that have the trinket () icon along the bottom. When a hero gains a trinket, they search the unused item cards for the specified card and place it faceup next to their other items. Then, they place a number of depletion tokens on the trinket equal to the number in the lower-left corner of the card.
 
+*Starting Number of Depletion Token*
+
 > A portrait of boots showing the starting number of depletion tokens and other tokens
 
 *The trinket "Boots" starts with two depletion tokens.*
 
-If a hero is instructed to deplete a trinket, they must spend one depletion token by removing it from that trinket's card. After a trinket's last depletion token is spent, the trinket is flipped facedown and cannot be used again during that adventure. Trinkets receive their starting number of depletion tokens at the beginning of each adventure.
+If a hero is instructed to **deplete** a trinket, they must spend one depletion token by removing it from that trinket's card. After a trinket's last depletion token is spent, the trinket is flipped facedown and cannot be used again during that adventure. Trinkets receive their starting number of depletion tokens at the beginning of each adventure.
 
-### DUAL_WIELDING (page 14)
+### DUAL-WIELDING (page 14)
 
 A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes () to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged () icon.
 
