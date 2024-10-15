@@ -658,62 +658,6 @@ Now you are ready to play your first adventure, so launch the app and carefully 
 
 After you complete your first adventure, read the "Advanced Rules" and "Campaign Rules" sections of the Rules Reference. These sections explain the rules for battle map tiles, terrain tokens, and upgrading your heroes' skills and items. Then, you will be ready to start your next adventure!
 
-## CREDITS (page 15)
-
-**Game Design and Development:** Nathan Hajek and Grace Holdinghaus 
-
-**Additional Development:** Kara Centell-Dunk, Daniel Lovat Clark, Brandon Perdue, Colin Phelps, and Yu-Chi Wang 
-
-**Technical Writing:** Adam Baker 
-
-**Producer:** Molly Glover 
-
-**Editing:** Justin Hoeger 
-
-**Board Game Manager:** Andrew Fischer 
-
-**Graphic Design:** Edge Studios and Toujer Moua with Monica Helland, Duane Nichols, and Wil Springer 
-
-**Graphic Design Manager:** Christopher Hosch 
-
-**Cover Art:** Chris Rahn 
-
-**Map Tile Art:** Yoann Boissonnet 
-
-**Interior Art:** Nate Abell, Even Amundsen, Igor Artyokmenko, Cristi Balanescu, Ryan Barger, Juan Carlos Barquet, Tiziano Baracchi, Arden Beckwith, Sara Betsy, Sara Biddle, Dimitri Bielak, Gabriela Birchal, Grzegorz Bobrowski, Yoann Boissonnet, Marius Bota, Eric Braddock, Noah Bradley, Jake Bullock, Joshua Cairos, Caravan Studio, Sidharth Chaturvedi, Jason Cheeseman, Carmen Cianelli, Carlos Palma Cruchagaa, Alexandre Dainche, Christina Davis, David Demaret, Tristan Denecke, Sara Diesel, Lino Drieghe, Guillaume Ducos, Carolina Eade, Alexandr Elichev, Emrah Elmasil, Alvaro Calvo Escudero, Tony Foti, Mariusz Gandzel, Tom Garden, Marica George-Bogdan, Sebastian Giacobino, Sergey Glushakov, Michael Anthony Gonzales, Nicholas Gregory, Katy Grierson, Nikolas Hagialas, Ilich Henriquez, David Hollowell, Rafal Hrynkiewicz, Aurelien Hubert, Amelie Hutt, Taylor Ingvarsson, Lukasz Jaskolski, Toni Justamante, Aleksander Karcz, Romana Kendelic, Igor Kieryluk, Drazenka Kimpel, Alexander Kozachenko, Adam Lane, Diego Gisbert Llorens, Henning Ludvigsen, Titus Lunter, Stephen M. Mabee, Melanie Maier, Javier Charro Martinez, Ken Mccuen, Nacho Molina, Brendan C. Murphy, Jacob Murray, Mike Nash, Winona Nelson, Will O'Brien, Anthony Palumbo, Borja Pindado, Gabrielle Portal, Claudio Pozas, Rick Price, Dmitry Prosvirnin, Chris Rahn, Jose Manuel Rey, Silver Saaremel, Amanda Sartor, Adam Schumpert, Lucas Staniec, Anna Steinbauer, Florian Stitz, Tropa Entertainment, Andreia Ugrai, Charles Urbach, Brian Valenzuela, Jose Vega, Cristina Vela, Gabriel Verdon, Magali Villeneuve, Piya Wannachaiwong, Jason Ward, Kara Williams, Darek Zabrocki, and Ben Zweifel 
-
-**Art Direction:** Tim Flanders Managing 
-
-**Art Director:** Melissa Shetler 
-
-**Sculpting:** Bhushan Arekar, Robert Brantseg, Brian Dugas, Rowena Frenzel, Ben Lodge, Adam Martin, Derek Miller, Niklas Norman, Luigi Terzi, and Dave Whitaker 
-
-**Sculpting Lead:** Cory Devore Sculpting Manager: Derrick Fuchs 
-
-**Software Development:** Mark Jones, Nathan Karpinksi, Paul Klecker, and Xavier Marleau 
-
-**Digital Artist:** Gary Storkamp Software Executive Producer: Keith Hurley 
-
-**Quality Assurance:** Andrew Janeba and Zach Tewalthomas 
-
-**Licensing Coordinators:** Sherry Anisi and Long Moua 
-
-**Licensing Manager:** Simone Elliott 
-
-**Production Management:** Jason Glawe and Dylan Tierney 
-
-**Visual Creative Director:** Brian Schomburg 
-
-**Senior Project Manager:** John Franz-Wichlacz 
-
-**Senior Manager of Product Development:** Chris Gerber Executive Game Designer: Corey Konieczka 
-
-**Publisher:** Andrew Navaro 
-
-**Playtesters:** Tim Bailey, Adam Bart, Zachary Bart, J-F Beaudoin, Martin Beauregard, Jens van den Berg, Michael Bernabo, Joe Bielecki, Kathy Bishop, Mary Jane Boeser, Michael Boggs, Frans Bongers, Joseph Bozarth, John Bradford, Isaac Brist, Chris Browne, Jim Cartwright, Carl Coffey, Michelle Coffey, Caterina D'Agostini, Laura Deben, Andrea Dell'Agnese, Wes Divin, Gavin Duffy, Emeric Dwyer, Luke Eddy, Richard A. Edwards, Julia Faeta, Deborah Garcia, Ian Gillings, Caitlin Ginther, Caleb Grace, Elizabeth Amy Hajek, Philip Henry, Mary Hershey, Sterling Hershey, Jason Horner, Julien Horner, Daniel Jay-Dixon, Joe Jay-Dixon, Michael Lawrence, Réjean Lebel, Jamie Lewis, Matt Mcgovern, Megan Mcgovern, Chris Mogensen, Steve Mumford, André Nordstrand, Robert Quillen II, Nick Ruivo, John Shaffer, Hannie Shih, Joel Slotman, Preston Stone, Ian Thomas, Matt Tyler, Kevin Van Sloun, Todd Verge, Jason Walden, Todd Wall, Steinar Watne, Andrew Willsher, and Megan Willsher
-
-©2018 Fantasy Flight Games. No part of this product may be reproduced without specific permission. Apple and the Apple logo are trademarks of Apple Inc., registered in the United States and/or foreign countries. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC. Amazon and all related logos are trademarks of Amazon. com, Inc. or its affiliates. ©2018 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries. Middle- earth, The Lord of the Rings, and the characters, events, items and places therein, are trademarks or registered trademarks of The Saul Zaentz Company d/b/a Middle-earth Enterprises and are used, under license, by Fantasy Flight Games. Fantasy Flight Supply is a trademark of Fantasy Flight Games. Fantasy Flight Games, the FFG logo are registered trademarks of Fantasy Flight Games. All rights reserved to their respective owners. Fantasy Flight Games is located at 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Actual components may vary from those shown. Made in China. THIS PRODUCT IS NOT A TOY. NOT INTENDED FOR USE BY PERSONS 13 YEARS OF AGE OR YOUNGER.
-
 ## QUICK REFERENCE (page 16)
 
 ### ROUND STRUCTURE (page 16)
