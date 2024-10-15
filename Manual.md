@@ -70,7 +70,7 @@ Role selection is not permanent, heros can changes roles between adventures
 
 - one weakness card from the top of the weakness deck
 
-> Image showing 6 cards showing various use of each card designated with Basic at the bottom of the card
+> Image showing 6 cards showing various use of each card designated with Basic at the bottom of the card.
 
 > Image of 5 cards showing the name of a chosen hero at the bottom with an inscription of the use fo the card
 
