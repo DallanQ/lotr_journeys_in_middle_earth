@@ -230,7 +230,7 @@ If the enemy can get in range of a target, the "Attack" button is selected and t
 
 > Image showing the 3 damage strikes of the enemy and the 1 fear that the hero might suffer.
 
-*The Enemy Attacks For 3 Damage (> icon of 3 claw scratches of a cat ) And 1 Fear (> icon a devil-like face with two curved horns).*
+*The Enemy Attacks For 3 Damage (> icon of 3 claw scratches of a cat ) And 1 Fear (> icon of a devil-like face with two curved horns).*
 
 If the enemy group cannot get in range of any target, **it ignores the entire instruction**, and the "No Target" button is selected. This provides the enemy with a new instruction, which usually moves the enemy closer to a hero.
 
@@ -290,11 +290,11 @@ After the shadow phase, the app instructs the heroes to plan for the next round.
 
 First, each hero resets their skill deck by shuffling their discard pile into their deck. Then, the app instructs the heroes to "**Scout 2.**" A hero does this by revealing the top two cards of their skill deck. Then, the hero may prepare one of them by placing it below their hero card. If a card is prepared, the abilities on that card are available to be used.
 
-> image of a hero player card showing a the hero Elena
+> image of a hero player card showing the hero Elena
 
-> Player stats of Elena showing all the various strengths and weakness she posses
+> Player stats of Elena showing all the various strengths and weaknesses she possesses
 
-> card image showing the elven light Elena prepares which the user places below her hero player card with other ataacks that are already there
+> card image showing the elven light Elena prepares which the user places below her hero player card with other attacks that are already there
 
 *When Elena prepares Elven Light, she places it below her hero card.*
 
@@ -362,15 +362,15 @@ When a hero gains inspiration, they take an inspiration token from the supply an
 
 1. Bilbo performs an interact action on a search token in his space. He is prompted to test agility (> icon of a 3-pointed spiral) with a goal of two successes.
 
-> a card image of Bilbo's agility
+> A card image of Bilbo's agility
 
-> 3 revealed cards of Bilbo that show the total of one success icon and two fate icons
+> 3 revealed cards of Bilbo that show a total of one success icon and two fate icons
    
 2. Bilbo's agility is "3," so he reveals three cards from the top of his skill deck. The revealed cards have a total of one success (> snow emoji icon) icon and two fate (> leaf icon) icons.
 
 > Bilbo's here card showing his stats and also an insipration token he intends to spend to covert to speed to pass the test
 
-> inspirational token displayed
+> Inspirational token displayed
 
 3. Bilbo wants to pass the test, so he spends an inspiration token to convert one > leaf icon to >snow emoji icon. Now he has two > snow emoji icon, enough to pass the test.
 
@@ -403,13 +403,13 @@ In addition to applying hits, abilities may provide heroes with attack modifiers
 
 The enemy menu displays a health value for **each figure** in the enemy group as well as each figure's armor or sorcery value. If an enemy has armor or sorcery, hits reduce those values first. If an enemy does not have armor or sorcery, hits reduce the enemy's health.
 
-> An image of a progress bar of health, sorcery and armor, showing 4 health, 2 sorcery and i armor
+> An image of a progress bar of health, sorcery, and armor, showing 4 health, 2 sorcery, and 1 armor stats
 
 After inputting all hits and modifiers, the hero selects the "Apply" button to apply the hits to the enemies (even if the hero had no hits). If an enemy's health is reduced to zero, that enemy is defeated and the app instructs the heroes to remove the enemy's figure from the board.
 
 If an enemy is not defeated, it regains all of its armor and sorcery, and it may be prompted to counterattack. The enemy group can attack if it is in the hero's space or in an adjacent space and has the ranged (> right-pointed dart with a white-shaped right-pointed arrow in it) icon on its portrait. If the enemy can attack, the hero selects the "Yes" button and resolves an attack as described in "Enemy Activation Step" on page 8.
 
-> image of ranged icon on a part of a portrait
+> image of a ranged icon on a part of a portrait
 
 *Ranged Icon on Portrait*
 
@@ -417,7 +417,7 @@ If an enemy is not defeated, it regains all of its armor and sorcery, and it may
 
 > Image of Aragorn attacking a group of wights figures on the map tile
 
-> The Fate-Bender card showing test of either might or wisdom.
+> The Fate-Bender card shows a test of either might or wisdom.
 
 1. Aragorn attacks a group of Wights in his space with his Fate-Bender. Fate-Bender tests either might (> icon of a horn) or wisdom (> icon of a tree); Aragorn's wisdom is higher, so he chooses wisdom.
 
@@ -427,7 +427,7 @@ If an enemy is not defeated, it regains all of its armor and sorcery, and it may
 
 2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (> snow emoji icon) and two fate (> leaf icon).
 
-> image of the spending of 2 success token and a 5 hit count from Aragorn
+> image of the spending of 2 success tokens and a 5 hit count from Aragorn
 
 > Image showing the inputs of 5 hits in the app
 
@@ -482,15 +482,15 @@ A last stand includes a test—if the hero fails the test, they are **defeated**
 
 1. A group of Goblins attacks Elena for three damage (> icon of 3 claw scratches of a cat) and one fear (> icon of a devil-like face with two curved horns). For this attack, a might (> icon of a horn) test negates damage and fear.
 
-> 2 cards of Elena revealed that show 2 success which show she can prevent a total of two damages
+> 2 cards of Elena revealed that show 2 success token icons which show she can prevent a total of two damages
 
 2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (> snow emoji icon), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
 
-> a Feeble damage card and Elena hero card picture shown
+> A feeble damage card and Elena's hero card picture shown
 
 3. The first damage card she reveals is "Feeble," which instructs her to suffer a facedown fear card and flip "Feeble" facedown.
 
-> An Entangled card shown with Elena's hero player card
+> An Entangled card is shown with Elena's hero player card
 
 4. The second damage card Elena reveals is "Entangled." "Entangled" instructs Elena to keep the card faceup. It will continue to impede her movement during this adventure until she is able to discard it or flip it facedown.
 
@@ -552,7 +552,7 @@ Elite enemy groups are stronger than standard enemies, and they have special bon
 
 An elite enemy group's bonuses are listed in its enemy menu. The app automatically applies all enemy bonuses, but the heroes can select bonuses in the enemy menu to view their effects. In addition to their listed bonuses, all elite enemies are able to perform counterattacks **even when they are exhausted.**
 
-> a portrait of bonuses given in an elite group
+> An image portrait of bonuses given in an elite group
 
 *An Elite Group'S Bonuses*
 
@@ -560,7 +560,7 @@ An elite enemy group's bonuses are listed in its enemy menu. The app automatical
 
 It is possible for there to be multiple enemy groups of the same type that are not elite. When this happens, each additional enemy group is automatically assigned an enemy banner, which is presented next to that enemy's portrait in the app. When the heroes place the duplicate enemy group on the board, they place the matching enemy banner token next to that group's figures.
 
-> a portrait showing the first orc group  with no enemy banner and the second orc group using a blue enemy banner on the map tiles.
+> An image portrait showing the first orc group  with no enemy banner and the second orc group using a blue enemy banner on the map tiles.
 
 *The first Orc group has no enemy banner. The second Orc group uses the blue enemy banner.*
 
