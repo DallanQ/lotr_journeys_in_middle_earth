@@ -172,7 +172,7 @@ To perform an attack, the hero chooses an item to attack with. The item must hav
 
 > Image of 5 stat icons available for the user which look like the 5 elements
 
-The hero also must choose one enemy group that is in range. If an enemy group is in the same space as the hero, that enemy group is in range. Enemy groups in spaces adjacent to the hero are also in range if the hero is attacking with an item card that has the ranged (> right-pointed dart with a white-shape right-pointed arrow in it ) icon in the upper-right corner.
+The hero also must choose one enemy group that is in range. If an enemy group is in the same space as the hero, that enemy group is in range. Enemy groups in spaces adjacent to the hero are also in range if the hero is attacking with an item card that has the ranged (right-pointed dart with a white-shape right-pointed arrow in it) icon in the upper-right corner.
 
 > Image of item card displaying the ranged icon in the upper-right corner of the card.
 
@@ -194,7 +194,7 @@ The interactive action allows heroes to encounter points of interest on the map,
 
 *Threat Token*
 
-If a hero is in the same space as one of these tokens, that hero can perform an interact action by selecting the token in the app and then selecting the button with the action (> icon of two right-faced arrow) icon. When performing an interact action, the app provides the hero with instructions to follow. Then, the hero continues their turn.
+If a hero is in the same space as one of these tokens, that hero can perform an interact action by selecting the token in the app and then selecting the button with the action (icon of two right-faced arrow) icon. When performing an interact action, the app provides the hero with instructions to follow. Then, the hero continues their turn.
 
 > Image showing a request with two action buttons cancel and search
 
@@ -202,7 +202,7 @@ If a hero is in the same space as one of these tokens, that hero can perform an 
 
 ### INSPECTING TOKENS IN THE APP (page 7)
 
-Players can inspect tokens in the app at any time by selecting them and reading their text, which usually describes what the token represents. Inspecting is not an action, and the player can select the "Cancel" button to close the token's description. However, if a player selects the button preceded by the > icon of two right-faced arrows, they are performing an interact action and must meet the requirements for doing so. Similarly, while inspecting an exploration token, they should not select the "Confirm" button unless their hero is exploring that token.
+Players can inspect tokens in the app at any time by selecting them and reading their text, which usually describes what the token represents. Inspecting is not an action, and the player can select the "Cancel" button to close the token's description. However, if a player selects the button preceded by the (icon of two right-faced arrows), they are performing an interact action and must meet the requirements for doing so. Similarly, while inspecting an exploration token, they should not select the "Confirm" button unless their hero is exploring that token.
 
 ### ADDING MAP TILES (page 7)
 
@@ -218,7 +218,7 @@ During the enemy activation step, each enemy group attempts to move and attack. 
 
 > Image of activation request showing two action buttons of "attack" and no "target".
 
-First, the enemy group moves up to the indicated number of spaces toward the targeted hero, taking the shortest path of spaces possible. The enemy group stops when it is in range of that hero. The enemy is in range if it is in the hero's space or if it is in an adjacent space **and** has the ranged (> right-pointed dart with a white-shaped right-pointed arrow in it ) icon on its enemy portrait.
+First, the enemy group moves up to the indicated number of spaces toward the targeted hero, taking the shortest path of spaces possible. The enemy group stops when it is in range of that hero. The enemy is in range if it is in the hero's space or if it is in an adjacent space **and** has the ranged ( icon of a right-pointed dart with a white-shaped right-pointed arrow in it ) icon on its enemy portrait.
 
 > image of a ranged icon on a portrait.
 
@@ -226,11 +226,11 @@ First, the enemy group moves up to the indicated number of spaces toward the tar
 
 If the enemy group cannot get in range of its target but can get in range of another hero, that closer hero **becomes the new target**. If multiple heroes satisfy this condition, the heroes choose which one becomes the new target.
 
-If the enemy can get in range of a target, the "Attack" button is selected and the app displays the amount of damage (> icon of 3 claw scratches of a cat) and fear (> icon of a devil-like face with two curved horns) that the hero might suffer. Suffering damage and fear are described on page 12.
+If the enemy can get in range of a target, the "Attack" button is selected and the app displays the amount of damage (icon of 3 claw scratches of a cat) and fear (icon of a devil-like face with two curved horns) that the hero might suffer. Suffering damage and fear are described on page 12.
 
 > Image showing the 3 damage strikes of the enemy and the 1 fear that the hero might suffer.
 
-*The Enemy Attacks For 3 Damage (> icon of 3 claw scratches of a cat ) And 1 Fear (> icon of a devil-like face with two curved horns).*
+*The Enemy Attacks For 3 Damage (icon of 3 claw scratches of a cat ) And 1 Fear (icon of a devil-like face with two curved horns).*
 
 If the enemy group cannot get in range of any target, **it ignores the entire instruction**, and the "No Target" button is selected. This provides the enemy with a new instruction, which usually moves the enemy closer to a hero.
 
@@ -320,13 +320,13 @@ If the heroes complete the final objective before the threat bar is full, they w
 
 Tests are the primary way that heroes interact with the world and attack enemies. Heroes regularly perform tests when they are exploring, encountering threats, attacking enemies, and interacting with the people of Middle-earth.
 
-Each test requires a hero to use one of their stats, which are listed on their hero card: agility (> icon of a 3-pointed spiral), might (> icon of a horn), spirit (> icon of a blazing fire), wisdom (> icon of a tree), or wit (> speed motion icon). To perform a test, a hero reveals cards from the top of their skill deck. The number of cards they reveal is equal to the value of the stat being tested.
+Each test requires a hero to use one of their stats, which are listed on their hero card: agility (icon of a 3-pointed spiral), might (icon of a horn), spirit (icon of a blazing fire), wisdom (icon of a tree), or wit (speed motion icon). To perform a test, a hero reveals cards from the top of their skill deck. The number of cards they reveal is equal to the value of the stat being tested.
 
 > images of cards showing the might of a hero when they perform a test.
 
-*Beravor's might (> icon of a horn) is "3." When she performs a > icon of a horn test, she reveals three cards from her deck.*
+*Beravor's might (icon of a horn) is "3." When she performs a (icon of a horn) test, she reveals three cards from her deck.*
 
-After revealing cards, the hero determines the number of successes (> icon of snow emoji) they have. Each success (> snow emoji) icon on the upper-left corner of revealed cards provides one success. The text on the revealed cards is ignored—it has no effect during tests.
+After revealing cards, the hero determines the number of successes (snow emoji icon) they have. Each success (snow emoji icon) icon on the upper-left corner of revealed cards provides one success. The text on the revealed cards is ignored—it has no effect during tests.
 
 > Image of a Success Icon
 
@@ -340,7 +340,7 @@ The hero uses successes differently depending on the test:
 
 *If a hero has two successes, they select the "+" twice.*
 
-- Some tests provide a number that indicates how many successes are required to pass (e.g., "Test > icon of a blazing fire; 1"). If the hero has successes equal to or greater than the required number, they pass the test. Otherwise, they fail the test. In either situation, the app provides the hero with further instructions.
+- Some tests provide a number that indicates how many successes are required to pass (e.g., "Test (icon of a blazing fire); 1"). If the hero has successes equal to or greater than the required number, they pass the test. Otherwise, they fail the test. In either situation, the app provides the hero with further instructions.
 
 - Successes are used in different ways when attacking enemies and when negating damage and fear, both of which are described later.
 
@@ -348,7 +348,7 @@ After completing the test, the hero places all the cards they revealed during th
 
 #### FATE AND INSPIRATION (page 10)
 
-During a test, a hero's revealed cards may contain fate (> leaf icon) icons. Fate icons have no inherent effect; however, the hero can spend inspiration tokens to convert fate icons to success (> snow emoji icon) icons. Each inspiration spent converts a **single** fate icon. To spend an inspiration, the hero takes an inspiration from their hero card and returns it to the supply.
+During a test, a hero's revealed cards may contain fate (leaf icon) icons. Fate icons have no inherent effect; however, the hero can spend inspiration tokens to convert fate icons to success (snow emoji icon) icons. Each inspiration spent converts a **single** fate icon. To spend an inspiration, the hero takes an inspiration from their hero card and returns it to the supply.
 
 When a hero gains inspiration, they take an inspiration token from the supply and place it on their hero card. The hero cannot have more inspiration tokens than the inspiration limit indicated on their hero card.
 
@@ -360,32 +360,31 @@ When a hero gains inspiration, they take an inspiration token from the supply an
 
 > Image of an interact action with 2 action buttons of fail and pass
 
-1. Bilbo performs an interact action on a search token in his space. He is prompted to test agility (> icon of a 3-pointed spiral) with a goal of two successes.
+1. Bilbo performs an interact action on a search token in his space. He is prompted to test agility (icon of a 3-pointed spiral) with a goal of two successes.
 
 > A card image of Bilbo's agility
 
 > 3 revealed cards of Bilbo that show a total of one success icon and two fate icons
    
-2. Bilbo's agility is "3," so he reveals three cards from the top of his skill deck. The revealed cards have a total of one success (> snow emoji icon) icon and two fate (> leaf icon) icons.
+2. Bilbo's agility is "3," so he reveals three cards from the top of his skill deck. The revealed cards have a total of one success (snow emoji icon) icon and two fate (leaf icon) icons.
 
 > Bilbo's here card showing his stats and also an insipration token he intends to spend to covert to speed to pass the test
 
 > Inspirational token displayed
 
-3. Bilbo wants to pass the test, so he spends an inspiration token to convert one > leaf icon to >snow emoji icon. Now he has two > snow emoji icon, enough to pass the test.
+3. Bilbo wants to pass the test, so he spends an inspiration token to convert one (leaf icon) to (snow emoji icon). Now he has two (snow emoji icon), enough to pass the test.
 
 > Card showing Pass selected and instructions to follow.
 
 > Images of 3 cards Bilbo drew to test his skill to be discarded
 
 4. Bilbo selects "Pass" and resolves the instructions that appear. Then, he discards the cards he drew for the test to his skill deck discard pile.
-Before you interact, look at the top card of your deck. If it is a card with , gain 1 inspiration. You can equip only 1 .
-
+   
 ### ATTACk TESTS (page 11)
 
-Attack tests are performed during a hero's attack after the hero chooses an enemy group to attack and an item to attack with. To perform an attack test, the hero chooses one of the stats listed in the upper-left corner of the item card they are attacking with and tests that stat. Then, the hero spends successes (> snow emoji icon) to resolve one or more of that item's abilities. Each ability indicates how many successes must be spent to resolve it, and each ability can be resolved only once per attack.
+Attack tests are performed during a hero's attack after the hero chooses an enemy group to attack and an item to attack with. To perform an attack test, the hero chooses one of the stats listed in the upper-left corner of the item card they are attacking with and tests that stat. Then, the hero spends successes (snow emoji icon) to resolve one or more of that item's abilities. Each ability indicates how many successes must be spent to resolve it, and each ability can be resolved only once per attack.
 
-*A hero using "Sword" tests > icon of a horn. One > snow emoji icon can be spent to apply two hits, and two > snow emoji icon applies five hits.*
+*A hero using "Sword" tests (icon of a horn). One (snow emoji icon) can be spent to apply two hits, and two (snow emoji) icon applies five hits.*
 
 > Image showing the sword test and the hits it delivers
 
@@ -407,7 +406,7 @@ The enemy menu displays a health value for **each figure** in the enemy group as
 
 After inputting all hits and modifiers, the hero selects the "Apply" button to apply the hits to the enemies (even if the hero had no hits). If an enemy's health is reduced to zero, that enemy is defeated and the app instructs the heroes to remove the enemy's figure from the board.
 
-If an enemy is not defeated, it regains all of its armor and sorcery, and it may be prompted to counterattack. The enemy group can attack if it is in the hero's space or in an adjacent space and has the ranged (> right-pointed dart with a white-shaped right-pointed arrow in it) icon on its portrait. If the enemy can attack, the hero selects the "Yes" button and resolves an attack as described in "Enemy Activation Step" on page 8.
+If an enemy is not defeated, it regains all of its armor and sorcery, and it may be prompted to counterattack. The enemy group can attack if it is in the hero's space or in an adjacent space and has the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon on its portrait. If the enemy can attack, the hero selects the "Yes" button and resolves an attack as described in "Enemy Activation Step" on page 8.
 
 > image of a ranged icon on a part of a portrait
 
@@ -419,26 +418,26 @@ If an enemy is not defeated, it regains all of its armor and sorcery, and it may
 
 > The Fate-Bender card shows a test of either might or wisdom.
 
-1. Aragorn attacks a group of Wights in his space with his Fate-Bender. Fate-Bender tests either might (> icon of a horn) or wisdom (> icon of a tree); Aragorn's wisdom is higher, so he chooses wisdom.
+1. Aragorn attacks a group of Wights in his space with his Fate-Bender. Fate-Bender tests either might (icon of a horn) or wisdom (icon of a tree); Aragorn's wisdom is higher, so he chooses wisdom.
 
 >The wisdom level of the hero Aragorn displayed.
 
 > Four cards of Aragorn revealed from his deck
 
-2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (> snow emoji icon) and two fate (> leaf icon).
+2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (snow emoji icon) and two fate (leaf icon).
 
 > image of the spending of 2 success tokens and a 5 hit count from Aragorn
 
 > Image showing the inputs of 5 hits in the app
 
-3. Aragorn spends two > snow emoji icon (success token) to resolve Fate-Bender's third effect,
+3. Aragorn spends two success (snow emoji icon) to resolve Fate-Bender's third effect,
 inputting five hits into the app
 
 > Image of conversion of an inspiration to give 2 hits and also a smite
 
 > The Fate-Bender adds two hits and selects "smite".
 
-4. Aragorn spends an inspiration to convert one >leaf icon (fate token) to > snow emoji icon (success token). He spends that >snow emoji icon(success token) on Fate-Bender's first effect, adding two more hits and selecting "Smite." Then, he selects "Apply."
+4. Aragorn spends an inspiration to convert one fate (leaf icon) to success(snow emoji icon). He spends that success (snow emoji icon)on Fate-Bender's first effect, adding two more hits and selecting "Smite." Then, he selects "Apply."
 
 > An image showing the effect of the hit of Aragorn on the Wights
 
@@ -450,14 +449,14 @@ inputting five hits into the app
 
 ## DAMAGE AND FEAR (page 12)
 
-Middle-earth is rife with dangerous enemies and other threats that imperil the intrepid heroes. As a result of these threats, the heroes may suffer damage (> icon of 3 claw scratches of a cat) and fear (> icon of a devil-like face with two curved horns). If a hero suffers too much damage or fear, they are on the verge of being defeated and must perform a last- stand test to determine if they succumb to the threats of Middle-earth or rally and continue their adventure.
+Middle-earth is rife with dangerous enemies and other threats that imperil the intrepid heroes. As a result of these threats, the heroes may suffer damage (icon of 3 claw scratches of a cat) and fear (icon of a devil-like face with two curved horns). If a hero suffers too much damage or fear, they are on the verge of being defeated and must perform a last- stand test to determine if they succumb to the threats of Middle-earth or rally and continue their adventure.
 
 When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it **faceup** in their play area. Then, they resolve the card's effect. Many of these cards instruct the hero to flip the card facedown or discard it. If a hero is instructed to keep the card faceup, it has a persistent effect that continues to apply to that hero. If a hero suffers multiple damage or fear at the same time, they reveal each card **one at a time**, resolving the card completely before revealing another card.
 
 Occasionally, a hero is specifically instructed to suffer facedown damage or fear. When this occurs, the hero places that damage or fear facedown next to their hero card without reading the card's text.
 
 ### NEGATING DAMAGE AND FEAR
-A hero may be granted a chance to negate damage or fear before they suffer it. When this occurs, the hero is presented with a stat to test (e.g., "Each hero in darkness suffers 2 fear; > icon of blazing fire negates."). Before suffering the damage or fear, the hero may test the indicated stat, and each success (> snow emoji icon) icon produced during that test prevents one damage or fear.
+A hero may be granted a chance to negate damage or fear before they suffer it. When this occurs, the hero is presented with a stat to test (e.g., "Each hero in darkness suffers 2 fear; (icon of blazing fire) negates."). Before suffering the damage or fear, the hero may test the indicated stat, and each success (snow emoji icon) icon produced during that test prevents one damage or fear.
 
 ### LAST STANDS 
 Through their trials and ordeals, the heroes may be brought to the limits of what their bodies and spirits can endure. Each hero has damage and fear limits on their hero card:
@@ -480,11 +479,11 @@ A last stand includes a test—if the hero fails the test, they are **defeated**
 
 > A picture of three damages and 1 fear that Elena was attacked by goblins for
 
-1. A group of Goblins attacks Elena for three damage (> icon of 3 claw scratches of a cat) and one fear (> icon of a devil-like face with two curved horns). For this attack, a might (> icon of a horn) test negates damage and fear.
+1. A group of Goblins attacks Elena for three damage (icon of 3 claw scratches of a cat) and one fear (icon of a devil-like face with two curved horns). For this attack, a might (icon of a horn) test negates damage and fear.
 
 > 2 cards of Elena revealed that show 2 success token icons which show she can prevent a total of two damages
 
-2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (> snow emoji icon), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
+2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (snow emoji icon), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
 
 > A feeble damage card and Elena's hero card picture shown
 
@@ -618,7 +617,7 @@ Heroes can become hidden, emboldened, or determined. These are boons that improv
 
 ### TRINKET ITEM CARDS (page 14)
 
-Heroes may find trinkets during their adventures. Trinkets are item cards that have the trinket (> sack of coins icon) icon along the bottom. When a hero gains a trinket, they search the unused item cards for the specified card and place it faceup next to their other items. Then, they place a number of depletion tokens on the trinket equal to the number in the lower-left corner of the card.
+Heroes may find trinkets during their adventures. Trinkets are item cards that have the trinket (sack of coins icon) icon along the bottom. When a hero gains a trinket, they search the unused item cards for the specified card and place it faceup next to their other items. Then, they place a number of depletion tokens on the trinket equal to the number in the lower-left corner of the card.
 
 *Starting Number of Depletion Tokens*
 
@@ -630,13 +629,13 @@ If a hero is instructed to **deplete** a trinket, they must spend one depletion 
 
 ### DUAL-WIELDING (page 14)
 
-A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes (> snow emoji icon) to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged (> right-pointed dart with a white-shaped right-pointed arrow in it) icon.
+A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes (snow emoji icon) to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon.
 
 > A portrait showing a hero's sword statistics
 
 > A portrait showing a hero's war-maker statistics
 
-*A hero with "Sword" and "War-Maker" can use both items during an attack if testing might (> icon of a horn).*
+*A hero with "Sword" and "War-Maker" can use both items during an attack if testing might (icon of a horn).*
  
 ### APP ELEMENTS (page 15)
 
@@ -736,38 +735,38 @@ There are six modifiers that can benefit heroes during an attack:
 
 ### ICONS (page 16)
 
-(> snow emoji icon) Success
+(snow emoji icon) Success
 
-(> leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > snow emoji icon)
+(leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > snow emoji icon)
 
-(> icon of 3 scratch claws of a cat) Damage
+(icon of 3 scratch claws of a cat) Damage
 
-(> Icon of devil-like face with two curved horns) Fear
+(Icon of devil-like face with two curved horns) Fear
 
-(> right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
+(icon of a right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
 
-(> icon of a circle with a 4-side star in it ) Lore
+(icon of a circle with a 4-side star in it ) Lore
 
-(> 2 right pointed arrows) Interact Action
+(2 right-pointed arrows icon) Interact Action
 
 ##### HERO STATS (page 16)
 
-(> icon of a 3-pointed spiral) Agility
+(icon of a 3-pointed spiral) Agility
 
-(> icon of a blazing fire) Spirit
+(icon of a blazing fire) Spirit
 
-(> speed motion icon) Wit
+(speed motion icon) Wit
 
-(> icon of a horn) Might
+(icon of a horn) Might
 
-(> icon of a tree) Wisdom
+(icon of a tree) Wisdom
 
 ##### ITEMS (page 16)
 
-(> sack of coins icon) Trinket
+(sack of coins icon) Trinket
 
-(> icon of left hand raised) One-Handed Item
+(icon of left hand raised) One-Handed Item
 
-(> icon of knight armor) Armor
+(icon of knight armor) Armor
 
-(> icon of left and right hands raised together ) Two-Handed Item
+(icon of left and right hands raised together ) Two-Handed Item
