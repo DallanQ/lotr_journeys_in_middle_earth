@@ -2,19 +2,17 @@
  
 To set up their first campaign of *Journeys* in *Middle-earth*, players follow the steps presented in this section.
 
-1. **Select Campaign and Difficulty:** Select the "New Game" button on the app's title screen. Then, the app will guide the players through a series of screens for selecting a campaign, a difficulty, and a save slot. It is recommended that players select the "Bones of Arnor" campaign and "Normal" difficulty. 1: 2 hits 1: 2 hits 2: 3 hits, stun
-
-> a figure of a hero player in the game
+1. **Select Campaign and Difficulty:** Select the "New Game" button on the app's title screen. Then, the app will guide the players through a series of screens for selecting a campaign, a difficulty, and a save slot. It is recommended that players select the "Bones of Arnor" campaign and "Normal" difficulty.
 
 2. **Create Party and Select Heroes:** Each player selects a hero in the app, takes their hero's corresponding figure and hero card, and places them in their play area. These heroes will be used for the duration of the campaign, which spans several adventures. 
 
 If playing single-player, the player chooses two heroes and controls both of them.
 
-> Image of 2 cards and a hero card displaying stats of hero for your choice
+> Image of 2 cards (starting items) and a hero card displaying stats of hero for your choice
 
 3. **Gather Starting Items:** The app assigns starting items for each hero. Each player finds the item cards that match the name and tier displayed in the app and places them near their hero card. Players may select different starting items in the app if they wish.
 
-> Image displays a staff item as a Tier 1 on item Card
+> Image displays a staff item with a 1 in the lower right corner indicating Tier 1 on item Card
 
 4. **Create Damage, Fear, and Weakness Decks:** Shuffle the damage cards, fear cards, and weakness skill cards (only weakness skill cards, not other skill cards) into separate decks and place them in the center of the play area where all players can reach them.
 
@@ -42,7 +40,7 @@ If playing single-player, the player chooses two heroes and controls both of the
 
 - **Legolas:** Hunter
 
- ### ROLES (page 4)
+### ROLES (page 4)
 
 A hero's role during an adventure determines some of that hero's capabilities. Each role has a general purpose
 
@@ -74,15 +72,15 @@ Role selection is not permanent, heroes can change roles between adventures
 
 > Image of 5 cards showing the name of a chosen hero at the bottom with an inscription of the use of the card
 
-> Image of a deck of cards displaying the weakness of the hero chosen
+> Image of a card displaying the weakness of the hero chosen
 
-> Image of 3 cards showing green colored text boxes for easy identification by players
+> Image of 3 cards showing green colored text boxes containing the role of the card
 
 *if Beravor chooses the Pathfinder role, her skill deck consists of basic 1-6, Beravor 1-5, Pathfinder 1-3, and one random weakness.*
 
 9. **Prepare Role Card and Create Skill Decks:** Each hero finds the starting skill card for their role. Each starting skill card has the number “1” after the role name at the bottom of the card and has stars next to the card name. Each hero prepares their starting skill card by placing it face up below their hero card. Then, each player shuffles their remaining 14 cards together to create their skill deck and places it facedown in their play area.
 
-> Image of a card showing the starting skill of the chosen hero, a skill deck platform for a user to know about a hero.
+> Image of a card showing the starting skill of the chosen hero being placed below the hero card
 
 *If Beravor is a Pathfinder, she places "Trailblazer" below her hero card*
 
@@ -92,9 +90,7 @@ A unique alphanumeric code is printed on each map tile to make it easy both to f
 
 After following all the instructions in the app, the player begins their adventure.
 
-> Image showing map tiles added together to show the player where to go and space allowed for more map tiles to be added.
-
-*Code on Map Tile*
+> Image showing map tiles added together to show the player where to go and space allowed for more map tiles to be added. Each map tile has a code.
 
 ## PLAYING THE GAME (page 6)
 
@@ -122,7 +118,7 @@ During a hero's turn, they can perform two actions, which may be the same action
 
 After all heroes have taken a turn, they select the hourglass button in the lower-right corner of the app screen to proceed to the shadow phase.
 
-> Image of a sand timer
+> Image of an hourglass
 
 #### TRAVEL ACTION (page 6)
 
@@ -142,15 +138,13 @@ A hero can interrupt their two moves to perform the second action of their turn.
 
 Each journey map tile has a square box where an exploration token may be placed, as indicated by the app. A map tile that has an exploration token on it is **unexplored**. When a hero moves into any space on an unexplored tile, they must immediately explore the tile.
 
-> Image of a star badge with is an exploration token
-
-*Exploration Token*
+> Image of a star badge is an exploration token
 
 To explore a tile, the hero selects the appropriate exploration token in the app and then selects the "Confirm" button. The app instructs the hero to discard the exploration token and gain one inspiration. To do this, the hero can simply flip the exploration token and place it on their hero card. Inspiration is described later.
 
 Exploring a tile is **not** a separate action; it is simply the result of a hero moving onto a tile that has an exploration token.
 
-> Image showing the exploration token of the player on a greyed-out map tile and a moving arrow indicating it is being placed on the chosen hero's stats card
+> Image showing the exploration token of the player on a greyed-out map tile and a moving arrow indicating it is flipped over to an insipiration token and placed on the chosen hero's stats card
 
 *Legolas moved into an unexplored tile. so he must explore it. He discards the exploration token and gains one inspiration, which he places on his hero card*
 
@@ -172,7 +166,7 @@ To perform an attack, the hero chooses an item to attack with. The item must hav
 
 > Image of 5 stat icons available for the user which look like the 5 elements
 
-The hero also must choose one enemy group that is in range. If an enemy group is in the same space as the hero, that enemy group is in range. Enemy groups in spaces adjacent to the hero are also in range if the hero is attacking with an item card that has the ranged (right-pointed dart with a white-shape right-pointed arrow in it) icon in the upper-right corner.
+The hero also must choose one enemy group that is in range. If an enemy group is in the same space as the hero, that enemy group is in range. Enemy groups in spaces adjacent to the hero are also in range if the hero is attacking with an item card that has the ranged (icon of a right-pointed dart with a white-shape right-pointed arrow in it) icon in the upper-right corner.
 
 > Image of item card displaying the ranged icon in the upper-right corner of the card.
 
@@ -284,7 +278,7 @@ Additionally, some effects can cause threat to increase during other game phases
 
 *This threshold activates during the threat step if threat is 15 or higher.*
 
-### RALLY PHASE (page 9)'
+### RALLY PHASE (page 9)
 
 After the shadow phase, the app instructs the heroes to plan for the next round.
 
@@ -455,10 +449,12 @@ When a hero suffers a damage or fear, they reveal a damage or fear card from the
 
 Occasionally, a hero is specifically instructed to suffer facedown damage or fear. When this occurs, the hero places that damage or fear facedown next to their hero card without reading the card's text.
 
-### NEGATING DAMAGE AND FEAR
+### NEGATING DAMAGE AND FEAR (page 12)
+
 A hero may be granted a chance to negate damage or fear before they suffer it. When this occurs, the hero is presented with a stat to test (e.g., "Each hero in darkness suffers 2 fear; (icon of blazing fire) negates."). Before suffering the damage or fear, the hero may test the indicated stat, and each success (snow emoji icon) icon produced during that test prevents one damage or fear.
 
-### LAST STANDS 
+### LAST STANDS (page 12)
+
 Through their trials and ordeals, the heroes may be brought to the limits of what their bodies and spirits can endure. Each hero has damage and fear limits on their hero card:
 
 >  image of stats showing agility(3), spirit(3), wit(2), fear(5), and damage(5).
@@ -475,7 +471,7 @@ If a hero reaches both of their limits, they perform two last stands in the orde
 
 A last stand includes a test—if the hero fails the test, they are **defeated**. The hero is removed from the board and the party loses the adventure in the next shadow phase unless they complete the final objective. If the hero passes the test, they follow the instructions provided by the app.
 
-## SUFFERING DAMAGE EXAMPLE ( page 12)
+### SUFFERING DAMAGE EXAMPLE (page 12)
 
 > A picture of three damages and 1 fear that Elena was attacked by goblins for
 
@@ -693,7 +689,7 @@ A hero must reset their deck at the following times:
 
 A hero resets their deck by shuffling their discard pile with any remaining cards from their deck and placing the newly shuffled deck facedown. Prepared cards are not shuffled into the deck.
 
-### FREQUENTLY OVERLOOKED RULES
+### FREQUENTLY OVERLOOKED RULES (page 16)
 
 - When instructed to move and attack, if an enemy cannot get in range of any target, it ignores that entire instruction (including movement). The "No Target" button is selected and the enemy receives a new instruction.
 
@@ -735,38 +731,38 @@ There are six modifiers that can benefit heroes during an attack:
 
 ### ICONS (page 16)
 
-(snow emoji icon) Success
+- (snow emoji icon) Success
 
-(leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > snow emoji icon)
+- (leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > snow emoji icon)
 
-(icon of 3 scratch claws of a cat) Damage
+- (icon of 3 scratch claws of a cat) Damage
 
-(Icon of devil-like face with two curved horns) Fear
+- (Icon of devil-like face with two curved horns) Fear
 
-(icon of a right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
+- (icon of a right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
 
-(icon of a circle with a 4-side star in it ) Lore
+- (icon of a circle with a 4-side star in it ) Lore
 
-(2 right-pointed arrows icon) Interact Action
+- (2 right-pointed arrows icon) Interact Action
 
 ##### HERO STATS (page 16)
 
-(icon of a 3-pointed spiral) Agility
+- (icon of a 3-pointed spiral) Agility
 
-(icon of a blazing fire) Spirit
+- (icon of a blazing fire) Spirit
 
-(speed motion icon) Wit
+- (speed motion icon) Wit
 
-(icon of a horn) Might
+- (icon of a horn) Might
 
-(icon of a tree) Wisdom
+- (icon of a tree) Wisdom
 
 ##### ITEMS (page 16)
 
-(sack of coins icon) Trinket
+- (sack of coins icon) Trinket
 
-(icon of left hand raised) One-Handed Item
+- (icon of left hand raised) One-Handed Item
 
-(icon of knight armor) Armor
+- (icon of knight armor) Armor
 
-(icon of left and right hands raised together ) Two-Handed Item
+- (icon of left and right hands raised together ) Two-Handed Item
