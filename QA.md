@@ -1,8 +1,24 @@
 [discard-prepared-cards-at-any-time-plus-guard](https://boardgamegeek.com/thread/2713289/discard-prepared-cards-at-any-time-plus-guard)
 
+> Are you allowed to discard a prepared skill card at any time?
+
+No, you cannot discard a prepared skill card at any time.
+
+> Are you allowed to replace a prepared skill card when you have less than 4 prepared skill cards?
+
+No. The rules for discarding cards mention only doing so when you have over 4.
+
+> Are you allowed to use Guard without any damage or fear to prevent?
+
+No, you are not allowed to use Guard without any damage or fear.
+
 [official-faq-errata-when](https://boardgamegeek.com/thread/2202786/official-faq-errata-when)
 
 [enemy-placed-during-shadow-phase-and-child-of-lhun](https://boardgamegeek.com/thread/2190815/enemy-placed-during-shadow-phase-and-child-of-lhun)
+
+> If the app instructs you to place an enemy figure during the Shadow phase and it’s in a space where someone has Child of Lhun prepared, can the damage be applied to the enemy as if they “moved” into the space?
+
+I would say that placing the enemy figure during Shadow Face is not a „move”. Enemies are moving only when the app specifically uses the word "move” during the enemy’s activation.
 
 [changing-characters](https://boardgamegeek.com/thread/3268871/changing-characters)
 
