@@ -22,41 +22,143 @@ I would say that placing the enemy figure during Shadow Face is not a „move”
 
 [changing-characters](https://boardgamegeek.com/thread/3268871/changing-characters)
 
+> Can I change the characters in the middle of the campaign?
+
+No, you can't change characters mid-game
+
 [time-of-need-and-inspiration](https://boardgamegeek.com/thread/2194290/time-of-need-and-inspiration)
+
+> Can I double dip with Time of Need and inspiration?
+
+You can convert fate tokens using either inspiration tokens or a "Time of Need" card. You can't use both to double the number of successes.
+
+> If a player draws 2 fate cards, uses "Time of Need" and uses 2 inspiration tokens, that would be 4 successes. OR are they mutually exclusive?
+
+If a player is using Time of Need to convert Fate into Successes that means that it is one of his/her prepared cards and therefore not part of his/her draw. Symbols are only relevant and able to be converted when drawn as part of a test. So the player would gain 2 Successes from the 2 Fate he/she drew as part of the test.
 
 [attackstrike-question](https://boardgamegeek.com/thread/2207926/attackstrike-question)
 
+> I have two prepared cards that have the skill of Strike 2. The goblin I am attacking has a health meter of 4. Do I need to do an attack skill test using my weapon to kill him? Or can I use the two "Strike 2" cards without testing?
+
+The text on strike says "during an attack test" which means that you must be making the test. You are required to reveal cards for the test so it seems you must make the test to spend the prepared cards.
+
 [around-every-corner-wall-streams-trench-fence](https://boardgamegeek.com/thread/3033503/around-every-corner-wall-streams-trench-fence)
+
+> The space where the hero enters has touched the stream and the wall. Can this effect be activated?
+
+The terrain tokens are placed between spaces. They are not in any of the spaces that share that edge.
 
 [scout-action-must-you-prepare](https://boardgamegeek.com/thread/2594135/scout-action-must-you-prepare)
 
+> If you prepare a card that you were planning to use that round but you did not use it and you want that card back to the deck (because it is a success for example). Can you voluntarily discard a prepared card during your turn?
+
+No, you cannot voluntarily discard a card once prepared. you can't just discard a card for no reason but most Success cards generally have a secondary keyword on them for you to use in just such an occasion, disposing of the card in a much less impactful way but allowing you to put it back in your deck faster. How easy that secondary function is to use varies from card to card with keywords like Sprint, Hide, and Rest being very easy to use this way and can act as a major piece of criteria when evaluating an individual card's quality. So if you permit me I could talk about it all day.
+
+When a card LACKS that secondary function or an easy way to get it back in the deck yet still has a valuable symbol it makes the card very VERY difficult to use. We have a name for such cards and that name is Elven Light. The only way to discard cards like this is by preparing more than four cards or by discarding them to an external effect such as Master Tactician. However, cards like this tend to be the exception and the vast majority of cards will have some sort of keyword on them for you to chuck the thing.
+
+> When you find a title, is it mandatory to prepare it? We play that you have to based on the language of the app "you find x and prepare it" even if you already have all 4 slots full and make you discard one.
+
+I'd go with whatever the app instructs you. Sometimes it says to prepare it immediately, sometimes it gives other instructions. If the app tells you to prepare it immediately and you already have 4 cards you'd rather have prepared, you can always choose to prepare, and then immediately discard the title.
+
 [darkness-during-chapter-x](https://boardgamegeek.com/thread/2213871/darkness-during-chapter-x)
+
+> At the beginning of this chapter it says it is nighttime. Does this mean the entire map is in darkness?
+
+You'll have the Darkness token icon in front of the threat bar when it is (and an explicit "The map is in Darkness" type message will have announced it at some point).
 
 [combining-hits-vs-armor](https://boardgamegeek.com/thread/2366844/combining-hits-vs-armor)
 
+> You have a staff that says 1: 2 hits, 1: 2 hits, 2: 3 hits and a stun. If you get 4 successes, do you do 2 hits, 2 hits, and 3 hits stun in discrete packets or 7 hits and stun? This is a meaningful distinction because of the armor
+
+If you got 4 successes you would do one hit for 7 hits and Stun. Armor only applies once per attack. The same goes for any Strike keywords you use on the attack, they increase it and don't separately plink off the armor.
+
 [combined-weapon-and-abilities](https://boardgamegeek.com/thread/3020254/combined-weapon-and-abilities)
+
+> I am attacking with the Throat Seeker at range using Agility. In this case, I am not able to use Lassemaica either the ability "Before you attack..." or the success abilities since it is a ranged attack.
+
+You cannot use the Success abilities, but any ability on a weapon that is not a Success ability is not subject to the same restriction. They are simply abilities with a trigger like any other. Sometimes the trigger will be "when you use this item in an attack" (See the tier 3 Sword, Sun-Silver) in which case, yes you need to use that item in the attack to use the ability. However absent such language, the attack may trigger the ability even if Lassemacia is not directly used in the attack.
+
+The only trigger Lassemaica cares about is if you’re attacking. Nothing else about the attack matters. If you attack in any way, the ability triggers.
+
+> I am in the same space as the enemy, I chose to attack with the Throat Seeker using Agility, I am still able to use Lassemaica Success-skills, but am I still able to use its non-success skill since I initially declared my attack with the Throat Seeker?
+
+Lassemacia's ability does not rely on it being used in the attack. However, I'm not sure why this question would ever be relevant since if this situation ever arises, there is no reason not to simply attack with both weapons. You don't gain any benefit from only declaring the Hatchet. Indeed, you cannot change items once the attack has begun, but I don't see what's stopping you from simply declaring both items here.
 
 [using-prepared-cards](https://boardgamegeek.com/thread/2767678/using-prepared-cards)
 
+> When I have a card prepared, do I have to discard it when played? Or do I discard it only when it tells me to?
+> A) Hunter 6 - Quick Snare "Tactic - Before you Strike with this skill, add stun to the attack. Strike 1" Always keep prepared? Don't discard at all?
+> B) Burglar 1 - Self Sufficient (top part) "When you test, if there are no nearby heroes, you may convert 2 inspiration to 1 success. (bottom part) Hide (After you test, discard to become hidden.)" Top part keep prepared? Only discard if I do the bottom part?
+
+You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card.
+
+For Self-Sufficient, it's exactly like you think. The effect is persistent and you can keep using the top part so long as you meet the conditions. Only the bottom part discards.
+
+For Quick-Snare it follows the same rules, you only discard if the card tells you to. However, Quick Snare is a bit sneaky about how it tells you to discard because of the word Strike. Strike, like all keywords, requires a discard. It's part of the definition of the word in this game. Even though the reminder text isn't present on Quick Snare, Strike still requires a discard whether the reminder text is present or not, and since the top ability of Quick Snare requires you to Strike with it, there's no way to use either of effects without discarding it.
+
 [upgrading-equipment](https://boardgamegeek.com/thread/3075689/upgrading-equipment)
+
+> Can a player simply keep playing with all my equipment at level III and skip the upgrade of 1 piece at level IV? More in general, if, for example, for whatever reason a player prefers to keep using one item at level II up to the moment he/she has enough points to upgrade the item at level IV, can the player do it?
+
+A player doesn’t have to upgrade if he/she doesn’t want to. This is true for every upgrade level, so if a player wanted to remain at level 2 he/she could. A player isn’t able to downgrade once the selection is made, but nothing stops him/her from simply never upgrading in the first place.
 
 [creatures-in-my-play-area-how](https://boardgamegeek.com/thread/3384120/creatures-in-my-play-area-how)
 
+> The app says that I gain 1 inspiration token for each creature in my play area. I have searched all the cards from the core box and only found 1 card with the creature keyword. How can I then get creatures in my play area?
+
+If you only own the base game, then there is only 1 card available with the creature trait, but there are expansions for the game and in particular, one of them has a new role that's based around creatures. So you'd have a lot more creatures available if you had those expansions.
+
 [can-i-use-all-4-prepped-cards-in-a-turn](https://boardgamegeek.com/thread/2507527/can-i-use-all-4-prepped-cards-in-a-turn)
+
+> If I have 4 prepped cards that each give me many Strike. Can I use all of them in an attack and add the hits together or is there some limit?
+
+Yes, that is allowed.
 
 [limits-to-enemies-per-location](https://boardgamegeek.com/thread/2712638/limits-to-enemies-per-location)
 
+> Is there a limit to how many enemy groups that can be in a location?
+
+Yes. The number of figures in the box.
+
 [about-bounders-map-card](https://boardgamegeek.com/thread/2189608/about-bounders-map-card)
+
+> What does "deplete this item" mean?
+
+"Deplete this item" just means removing 1 depletion token from the item. 
 
 [hope-renewed-situations](https://boardgamegeek.com/thread/3168973/hope-renewed-situations)
 
+> When Using Hope Renewed, if I can get it back, can I use it again right away, or is the "end of your turn" window closed?
+
+As long as the means you had to get the card back was via an effect with "end of turn" timing, then yes, you may use it right away again.
+
+> If I am using the 2 actions from HR, and I cross a river, do I get to continue with my bonus actions, or am I finished? Rivers state that my "turn ends" but my turn was already over and HR activates at the end of my turn.
+
+Since you were already at the end of your turn, you get to continue with the 2 additional actions from HR, even if you cross a stream with one of them.
+
 [what-does-a-skull-counter-under-a-hero-signify-whe](https://boardgamegeek.com/thread/2188082/what-does-a-skull-counter-under-a-hero-signify-whe)
+
+> What does a skull counter under a hero signify when doing a last stand?
+
+When you do your first last stand you need one success. The skull under the hero lets you know how many successes you will need for your next last-stand action to be successful.
 
 [resourceful](https://boardgamegeek.com/thread/2924239/resourceful)
 
+> When I prep Resourceful for my Hunter at the start of a round, do they get one Inspiration?
+
+Yes, you do. Technically you are prepping at the end of a round as The Scout phase is the last thing. Action phase, Shadow phase then Scout phase. The Scout phase is not the beginning of a round it is the last thing in a round. There are Cards/effects that allow you to do things in that scout phase that would require it to be the last thing in a round.
+
 [determined](https://boardgamegeek.com/thread/2248183/determined)
 
+> Several times, I've gotten a note saying 'You become Determined', Is that a Keyword?
+
+It is a Boon card. Has a green back.
+
 [can-you-guard-before-testing-for-negate-dmgfear](https://boardgamegeek.com/thread/2195975/can-you-guard-before-testing-for-negate-dmgfear)
+
+> Do you think that you have to test when the app tells you to negate? Let's say you want to use a Guard ability instead, because you want your successes for later use. Can you then ignore the negate option?
+
+Abilities that explicitly use the word “prevent” always reduce damage or fear without the hero needing to perform a test. Guard is a keyword that allows a hero to **prevent** damage or fear. You're never required to perform a **'negate'** test if you'd rather keep successes on the top of your deck (i.e. for attacks). The Learn to Play rules clearly state that you **'may'** negate.
 
 [breaking-up-a-sprint](https://boardgamegeek.com/thread/2781715/breaking-up-a-sprint)
 
