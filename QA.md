@@ -2,15 +2,11 @@
 
 > Are you allowed to discard a prepared skill card at any time?
 
-No, you cannot discard a prepared skill card at any time.
-
-> Are you allowed to replace a prepared skill card when you have less than 4 prepared skill cards?
-
-No. The rules for discarding cards mention only doing so when you have over 4.
+No, you cannot discard a prepared skill card at any time. The rules for discarding cards mention only doing so when you have over 4.
 
 > Are you allowed to use Guard without any damage or fear to prevent?
 
-No, you are not allowed to use Guard without any damage or fear.
+No, you are not allowed to use Guard without any damage or fear to prevent.
 
 [official-faq-errata-when](https://boardgamegeek.com/thread/2202786/official-faq-errata-when)
 
@@ -18,7 +14,7 @@ No, you are not allowed to use Guard without any damage or fear.
 
 > If the app instructs you to place an enemy figure during the Shadow phase and it’s in a space where someone has Child of Lhun prepared, can the damage be applied to the enemy as if they “moved” into the space?
 
-I would say that placing the enemy figure during Shadow Face is not a „move”. Enemies are moving only when the app specifically uses the word "move” during the enemy’s activation.
+I would say that placing the enemy figure during Shadow Face is not a "move". Enemies are moving only when the app specifically uses the word "move” during the enemy’s activation.
 
 [changing-characters](https://boardgamegeek.com/thread/3268871/changing-characters)
 
@@ -29,10 +25,15 @@ No, you can't change characters mid-game
 [time-of-need-and-inspiration](https://boardgamegeek.com/thread/2194290/time-of-need-and-inspiration)
 
 > Can I double dip with Time of Need and inspiration?
+> Time of Need: When you test, if you do not reveal any (*) [successes], you may discard this skill to convert all [fate] to (*) [successes].
+> Inspiration: During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate icon on their revealed skill cards to one success (*) icon.
+> So, if I draw 2 fate cards, and use "Time of Need" and use 2 inspiration tokens, that would be 4 successes. OR are they mutually exclusive?
+
+After a fate () icon is converted to a success () icon, the fate () icon cannot be used for any other purpose and is no longer treated as a fate () icon.
 
 You can convert fate tokens using either inspiration tokens or a "Time of Need" card. You can't use both to double the number of successes.
 
-> If a player draws 2 fate cards, uses "Time of Need" and uses 2 inspiration tokens, that would be 4 successes. OR are they mutually exclusive?
+> if you draw 2 fate icons, And you use "time of need" does this mean you can convert 2 fate icons into 2 succes or only the one fate icon which is in the left corner on the "time of need" card?
 
 If a player is using Time of Need to convert Fate into Successes that means that it is one of his/her prepared cards and therefore not part of his/her draw. Symbols are only relevant and able to be converted when drawn as part of a test. So the player would gain 2 Successes from the 2 Fate he/she drew as part of the test.
 
@@ -44,21 +45,20 @@ The text on strike says "during an attack test" which means that you must be mak
 
 [around-every-corner-wall-streams-trench-fence](https://boardgamegeek.com/thread/3033503/around-every-corner-wall-streams-trench-fence)
 
+> Around Every Corner includes the text "Once per round, after you move into a space with a person, search, or terrain token, you may scout 1. Sprint 1"
 > The space where the hero enters has touched the stream and the wall. Can this effect be activated?
 
 The terrain tokens are placed between spaces. They are not in any of the spaces that share that edge.
 
 [scout-action-must-you-prepare](https://boardgamegeek.com/thread/2594135/scout-action-must-you-prepare)
 
+> When you scoute, do you have to prepare a card?
+
+You do not need to prepare a card when you Scout. The rules say "That hero may prepare one of those cards"
+
 > If you prepare a card that you were planning to use that round but you did not use it and you want that card back to the deck (because it is a success for example). Can you voluntarily discard a prepared card during your turn?
 
-No, you cannot voluntarily discard a card once prepared. you can't just discard a card for no reason but most Success cards generally have a secondary keyword on them for you to use in just such an occasion, disposing of the card in a much less impactful way but allowing you to put it back in your deck faster. How easy that secondary function is to use varies from card to card with keywords like Sprint, Hide, and Rest being very easy to use this way and can act as a major piece of criteria when evaluating an individual card's quality. So if you permit me I could talk about it all day.
-
-When a card LACKS that secondary function or an easy way to get it back in the deck yet still has a valuable symbol it makes the card very VERY difficult to use. We have a name for such cards and that name is Elven Light. The only way to discard cards like this is by preparing more than four cards or by discarding them to an external effect such as Master Tactician. However, cards like this tend to be the exception and the vast majority of cards will have some sort of keyword on them for you to chuck the thing.
-
-> When you find a title, is it mandatory to prepare it? We play that you have to based on the language of the app "you find x and prepare it" even if you already have all 4 slots full and make you discard one.
-
-I'd go with whatever the app instructs you. Sometimes it says to prepare it immediately, sometimes it gives other instructions. If the app tells you to prepare it immediately and you already have 4 cards you'd rather have prepared, you can always choose to prepare, and then immediately discard the title.
+No, you cannot voluntarily discard a card once prepared. you can't just discard a card for no reason. 
 
 [darkness-during-chapter-x](https://boardgamegeek.com/thread/2213871/darkness-during-chapter-x)
 
@@ -86,11 +86,11 @@ Lassemacia's ability does not rely on it being used in the attack. However, I'm 
 
 [using-prepared-cards](https://boardgamegeek.com/thread/2767678/using-prepared-cards)
 
-> When I have a card prepared, do I have to discard it when played? Or do I discard it only when it tells me to?
+> When I have a card prepared, do I have to discard it when played? Or do I discard it only when it tells me to? 
 > A) Hunter 6 - Quick Snare "Tactic - Before you Strike with this skill, add stun to the attack. Strike 1" Always keep prepared? Don't discard at all?
 > B) Burglar 1 - Self Sufficient (top part) "When you test, if there are no nearby heroes, you may convert 2 inspiration to 1 success. (bottom part) Hide (After you test, discard to become hidden.)" Top part keep prepared? Only discard if I do the bottom part?
 
-You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card.
+You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card. Strike is an example; here are the rules for that keyword: "Strike X: During your attack test, you may discard a card that has the “Strike X” keyword to add X hits to the attack."
 
 For Self-Sufficient, it's exactly like you think. The effect is persistent and you can keep using the top part so long as you meet the conditions. Only the bottom part discards.
 
