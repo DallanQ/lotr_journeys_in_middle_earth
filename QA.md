@@ -25,8 +25,11 @@ No, you can't change characters mid-game
 [time-of-need-and-inspiration](https://boardgamegeek.com/thread/2194290/time-of-need-and-inspiration)
 
 > Can I double dip with Time of Need and inspiration?
+
 > Time of Need: When you test, if you do not reveal any (*) [successes], you may discard this skill to convert all [fate] to (*) [successes].
+
 > Inspiration: During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate icon on their revealed skill cards to one success (*) icon.
+
 > So, if I draw 2 fate cards, and use "Time of Need" and use 2 inspiration tokens, that would be 4 successes. OR are they mutually exclusive?
 
 After a fate () icon is converted to a success () icon, the fate () icon cannot be used for any other purpose and is no longer treated as a fate () icon.
@@ -46,6 +49,7 @@ The text on strike says "during an attack test" which means that you must be mak
 [around-every-corner-wall-streams-trench-fence](https://boardgamegeek.com/thread/3033503/around-every-corner-wall-streams-trench-fence)
 
 > Around Every Corner includes the text "Once per round, after you move into a space with a person, search, or terrain token, you may scout 1. Sprint 1"
+
 > The space where the hero enters has touched the stream and the wall. Can this effect be activated?
 
 The terrain tokens are placed between spaces. They are not in any of the spaces that share that edge.
@@ -86,8 +90,10 @@ Lassemacia's ability does not rely on it being used in the attack. However, I'm 
 
 [using-prepared-cards](https://boardgamegeek.com/thread/2767678/using-prepared-cards)
 
-> When I have a card prepared, do I have to discard it when played? Or do I discard it only when it tells me to? 
+> When I have a card prepared, do I have to discard it when played? Or do I discard it only when it tells me to?
+
 > A) Hunter 6 - Quick Snare "Tactic - Before you Strike with this skill, add stun to the attack. Strike 1" Always keep prepared? Don't discard at all?
+
 > B) Burglar 1 - Self Sufficient (top part) "When you test, if there are no nearby heroes, you may convert 2 inspiration to 1 success. (bottom part) Hide (After you test, discard to become hidden.)" Top part keep prepared? Only discard if I do the bottom part?
 
 You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card. Strike is an example; here are the rules for that keyword: "Strike X: During your attack test, you may discard a card that has the “Strike X” keyword to add X hits to the attack."
@@ -175,8 +181,10 @@ Being hidden in this game is not being invisible. Since the enemy can attack you
 [does-negating-enemy-damage-also-negate-an-addition](https://boardgamegeek.com/thread/2301648/does-negating-enemy-damage-also-negate-an-addition)
 
 > Does negating enemy damage also negate an additional penalty?
+
 > Let's say that an orc attack says something along the lines of:
 >Three damage + discard all boons / Might negates
+
 >And the player pulls enough successes to completely negate the damage portion of the attack - do they still suffer the extra penalty (the losing boons portion in this example)?
 
 By negating all the damage from the original source (the attack), you do not have to discard any inspiration. The 1 damage from the fear is considered a separate source. 
@@ -186,11 +194,12 @@ It depends on the exact wording. If it reads "Three damage, might negate. If you
 [ways-of-old](https://boardgamegeek.com/thread/2220948/ways-of-old)
 
 > Is it possible to do both the top and bottom parts of this card (i.e. scout & sprint)?
+
 > Will discarding allow you to do both and the text inside the brackets is just to clarify Sprint and that you can just use the Sprint outside of a test or are the 2 entirely separate abilities and only 1 can be activated?
 
 They're separate abilities with the same cost (discarding the card), so you have to choose one or the other.
 
-A cost of discarding can only be paid once. If you pay it for the first ability the card is no longer there to be discarded for the second ability. The example I usually give is if you walk into a store with a single $5 bill, grab two different items that each cost $5, and attempt to pay at the register using the single bill for both items you'd get a lot of funny looks.
+The cost of discarding can only be paid once. If you pay it for the first ability the card is no longer there to be discarded for the second ability. The example I usually give is if you walk into a store with a single $5 bill, grab two different items that each cost $5, and attempt to pay at the register using the single bill for both items you'd get a lot of funny looks.
 
 [black-and-grey-hexsides](https://boardgamegeek.com/thread/2227861/black-and-grey-hexsides)
 
@@ -225,7 +234,9 @@ An attack is a multistep process which is broken down like this in the rules:
 Since the Rending Claws are available for step 1, we choose them for the attack. Everything proceeds normally until we get halfway through step 3. At this point when we discard The First Beorning, it will happen simultaneously with the rest of the results from the test. So Rending Claws leaves your play space at the same moment that it applies however many hits you did with it during the attack. You won't be able to use your man-form weapon in the attack since it wasn't selected during step 1. During the counterattack, you will be in man-form since you change at the end of step 3.
 
 > If Beorn use Boasting (one way to make the bear usefull in the end game), how do the timing of the hoary coat (after taking ... prepare one card from discard) interact with the above timing sequence?
+
 > Is the **"after"** still anywhere you want in "3. Test and results" or is it a separate sequencing that somehow interact with the above sequence?
+
 > What happens if you discard the bear to get +2 hit in relation to the above?
 
 **“After”** occurs immediately after the trigger in question. In the case of Boasting, you would use it and convert all your Fates to success after you draw the cards for the test, but before you confirm the results. Immediately after that you suffer the Fear and trigger Hoary Coat to prepare a card from discard. If the card you prepare is useful in the attack, you could use it if you want.
@@ -253,13 +264,16 @@ Inspiration does not carry over from adventure to adventure. Per RAW you would d
 
 > The skill in references reads, “You can strike with this skill when another hero in your space attacks.
 Strike 2 (When you attack, discard to add 2 hits.)”
+
 > The way I read it is, if your character who has this card prepared is in a space with an ally and that ally attacks an enemy in the same space, you can strike to that ally’s attack and add 2 hits. Then the card is discarded. Or, you can use it on your own attack to strike and add two hits and discard the card.
+
 > Is the interpretation correct and are there any other ways to use the ability?
 
 Yes, the interpretation is correct. if it added another attack it would use the word "attack." It only lets you add 2 hits to an ally's attack already in progress. It has no other use. The enemy's placement is also irrelevant, so long as the ally attacking is in your space.
 
 > You had 2 hits to an ally's attack in progress if this ally is in your space, but you don't discard the skill.
 Am I right?
+
 > You discard it only if you use it for one of your attacks.
 
 The wording is essentially stating that you may use the Strike ability to help someone else's attack instead of yours. You are still using Strike and Strike discards the card being used. So the card is discarded either way.
@@ -293,8 +307,11 @@ Yes, it still attacks the named hero.
 [stacking-success-for-different-attacks-and-a-more](https://boardgamegeek.com/thread/2237751/stacking-success-for-different-attacks-and-a-more)
 
 > Let's say I have a weapon that makes 2 dmg + pierce with 1 success and 5 plain damage with 2 successes. I'm lucky enough to get 3 successes with my cards.
+
 > Does that mean that I can perform BOTH attacks?
+
 > Does the "pierce" effect apply to all 7 total damage? It doesn't seem to exist another way to inflict both attacks + effect in the app. So in that case, should I just apply 7+pierce on the app?
+
 > If I got enough successes to kill the monster before revealing all the cards I can, do I need to keep "wasting" successes if they happen to be in the top of the deck?
 
 Yes, if you can pay for both, you can do both. Each effect can be applied once per attack. You add up all the hits and you stack all the modifiers before hitting the apply button. So yes, 7 hits and "pierce" is correct in the example.
@@ -306,6 +323,7 @@ You must draw all the necessary cards for the test before you start counting suc
 it is imperative to Stun enemies or otherwise restrict their movement so that you can still be active even with them on the board. If the enemy wastes their turn moving two spaces you don't care after all an exhausted enemy doesn't get to move anywhere. When you decide you need to thin the horde somewhat, ranged attacks and Stun attacks are key to preventing the counterattack. You have limited Inspiration to spend and you'd rather not spend it on negate tests but taking hits can easily chain and spiral into a disaster depending on what you draw from the Damage/Fear deck.
 
 > We are having really bad results on our campaign as we are usually getting swarmed by A LOT of enemies and not struggling a lot to be alive and complete out objectives even though we are playing in normal mode. We normally try to explore first with the "weakest" characters and fight with the strong ones. But as we explore, more and more enemies come.
+
 > Must we explore quickly to accomplish the final objective before the red bar is full?
 
 Yes, you do have to explore quite quickly. You want to keep your Threat generation low at all times to keep the Threat events coming as slowly as possible. This means Threat tokens are priority 1. If you can explore multiple unexplored zones in one turn, do it. However keep in mind what tiles you explore as tiles near the edge are likely to reveal even more unexplored tiles, sometimes resulting in a net negative.
@@ -313,6 +331,7 @@ Yes, you do have to explore quite quickly. You want to keep your Threat generati
 [nightingale-beast-friend-2](https://boardgamegeek.com/thread/3336366/nightingale-beast-friend-2)
 
 > Nightingale has the following effect: "Before you test, you may discard this skill to scout 2, revealing 1 additional card for each creature in your play area."
+
 > Will  Nightingale count itself?
 
 As you just discarded it it is no longer in your play area so no it wouldn't count as the "cost" was to discard it to Scout. The cost must be paid before beginning to resolve the effect. So once the effect resolves, Nightingale is no longer in the play area.
@@ -349,7 +368,9 @@ When given a target for the move, the enemy will move towards that target as far
 [movement-stop-or-pass-field-with-opponent](https://boardgamegeek.com/thread/2761471/movement-stop-or-pass-field-with-opponent)
 
 > Can I go through a field where an enemy is standing?
+
 > Example: An opponent is standing on a neighboring field. To get to the fields that have not yet been discovered, my hero has to pass the field with the opponent. Since I can walk at least two fields, I want to pass the opponent’s field and then go to the next field (without an opponent).
+
 > Do I have to stop or can I pass?
 
 Each movement from one space to an adjacent space is considered a separate movement. If you encounter one or more enemy groups in the space you're moving to you have to provoke each enemy group in that space before you can move to the unexplored tile.
