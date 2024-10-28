@@ -267,11 +267,52 @@ The wording is essentially stating that you may use the Strike ability to help s
 
 [can-i-use-my-move-remaining-move-points-after-an-a](https://boardgamegeek.com/thread/2506460/can-i-use-my-move-remaining-move-points-after-an-a)
 
+> If I use a travel action and sprint 3 skill, I then can move 5 tiles. If I stop after the third tile and iteract with a token or attack an enemy, can I use my remaining 2 tile moves after that?
+
+Yes, you may.
+
+From the rules reference:
+89.2 A hero can perform other actions and resolve other game effects between each movement that is provided by the “Sprint X” keyword.
+
+108.2 If the first action during a hero’s turn is a travel action, they can perform their second action and resolve other game effects between each of their moves.
+
 [why-the-app-ask-to-attack-a-named-character](https://boardgamegeek.com/thread/2615784/why-the-app-ask-to-attack-a-named-character)
+
+> Why does the app ask to attack a named character when we always go to the closest or if is the same distance, we can choose?
+
+ It does that because if it can attack the named character, it always does so. Only if it cannot do you go to another character it can attack.
+
+> Does the attack happen even if the enemies are in a space with another hero?
+
+Yes. If the enemy can reach their named target they will move and attack that target regardless of the state of anything else on the board. They will only attack the closest hero if their named target is unreachable.
+
+> If the named hero is in range, but another hero is closer, does it still attack the named hero?
+
+Yes, it still attacks the named hero.
 
 [stacking-success-for-different-attacks-and-a-more](https://boardgamegeek.com/thread/2237751/stacking-success-for-different-attacks-and-a-more)
 
+> Let's say I have a weapon that makes 2 dmg + pierce with 1 success and 5 plain damage with 2 successes. I'm lucky enough to get 3 successes with my cards.
+> Does that mean that I can perform BOTH attacks?
+> Does the "pierce" effect apply to all 7 total damage? It doesn't seem to exist another way to inflict both attacks + effect in the app. So in that case, should I just apply 7+pierce on the app?
+> If I got enough successes to kill the monster before revealing all the cards I can, do I need to keep "wasting" successes if they happen to be in the top of the deck?
+
+Yes, if you can pay for both, you can do both. Each effect can be applied once per attack. You add up all the hits and you stack all the modifiers before hitting the apply button. So yes, 7 hits and "pierce" is correct in the example.
+
+if the test results in 3 successes then you may pay 2 of those successes for the 5 plain hits and 1 success for the 2 hits plus pierce for a total of 7 hits plus pierce. In the app, you would apply 7 hits plus pierce.
+
+You must draw all the necessary cards for the test before you start counting successes or converting fate icons via inspiration. They are not drawn one at a time and you cannot choose to draw fewer than your stat indicates you should draw even if you know you don't need them. This is true for any type of test, not only attack tests.
+
+it is imperative to Stun enemies or otherwise restrict their movement so that you can still be active even with them on the board. If the enemy wastes their turn moving two spaces you don't care after all an exhausted enemy doesn't get to move anywhere. When you decide you need to thin the horde somewhat, ranged attacks and Stun attacks are key to preventing the counterattack. You have limited Inspiration to spend and you'd rather not spend it on negate tests but taking hits can easily chain and spiral into a disaster depending on what you draw from the Damage/Fear deck.
+
+> We are having really bad results on our campaign as we are usually getting swarmed by A LOT of enemies and not struggling a lot to be alive and complete out objectives even though we are playing in normal mode. We normally try to explore first with the "weakest" characters and fight with the strong ones. But as we explore, more and more enemies come.
+> Must we explore quickly to accomplish the final objective before the red bar is full?
+
+Yes, you do have to explore quite quickly. You want to keep your Threat generation low at all times to keep the Threat events coming as slowly as possible. This means Threat tokens are priority 1. If you can explore multiple unexplored zones in one turn, do it. However keep in mind what tiles you explore as tiles near the edge are likely to reveal even more unexplored tiles, sometimes resulting in a net negative.
+
 [nightingale-beast-friend-2](https://boardgamegeek.com/thread/3336366/nightingale-beast-friend-2)
+
+
 
 [inspiring-presence](https://boardgamegeek.com/thread/2230603/inspiring-presence)
 
