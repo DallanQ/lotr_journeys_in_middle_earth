@@ -481,15 +481,21 @@ Nothing in the app or the rules allows you to move tokens from one hero's play a
 [timing-cannot](https://boardgamegeek.com/thread/2941464/timing-cannot)
 
 > Trickster's Merry Chase: before you sprint with this skill you may move an enemy 1 space.
+
 > Quickbeam: You cannot sprint.
+
 > Golden Rule: if a card ability uses the word "cannot" it is absolute and cannot be overridden by other abilities.
+
 > When does the Sprint on Merry Chase (which was prepared in setup the same as Quickbeam mount) fizzle?
+
 > Is it intended that the "before you sprint" is also part of the "cannot sprint"?
+
 > Is the timing such that a player can do the "before you sprint" part of the card, then attempt to Sprint, but that is prevented by the "cannot"?
 
 If you have Quickbeam equipped then you can never attempt to Sprint which means that “before you Sprint” effects can never be triggered. Pretend that the Sprint keyword isn’t even on the card.
 
 > When a card combo like Merry Chase/Quickbeam is in effect at the start of the game, does that mean the player has to wait till he/she prepares a 5th skill (or have some other game effect cost a prepared skill) before he/she can discard it?
+
 > If a player can do the "before you Sprint" and then try to sprint and it fizzles, May the player then discard that prepared card? (which otherwise would just sit there useless till I would gain a 5th prepared card or have to discard one.)
 
 if a card has no other way listed on the card to discard it then you must wait until you have another game effect to discard it. This could be over-prepared or it could be another game effect such as a Damage/Fear card or a skill card like Master Tactician. However, it is not a very big deal given that Merry Chase has no symbols and it’s not like having it prepared stops the player from preparing other cards. It’s probably better to have it prepared since it means a player can’t draw it in tests, same reason players need to regularly prepare their Weakness cards.
