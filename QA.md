@@ -162,23 +162,108 @@ Abilities that explicitly use the word “prevent” always reduce damage or fea
 
 [breaking-up-a-sprint](https://boardgamegeek.com/thread/2781715/breaking-up-a-sprint)
 
+> Can a Sprint 2 (or 3) be broken up the same way a travel action can? So can I Sprint 1, attack/interact, then Sprint 1 more? Or does a Sprint 2 have to be all at once?
+
+You can break up sprint as well. Think about it like it adds movement points.
+
 [seems-like-if-you-become-hidden-while-in-a-space-w](https://boardgamegeek.com/thread/2222224/seems-like-if-you-become-hidden-while-in-a-space-w)
+
+>  If you become Hidden while in a space with enemies, you should be able to move out of that space without Provoking. Or at least test to skip Provoking?
+
+Being hidden in this game is not being invisible. Since the enemy can attack you, it is just reasonable to assume that the enemy knows you are around and is able to hunt/attack you. It’s just that they know you’re around but not precisely where you are. If they do attack, they guess where your location is and miss (hence no physical damage) but it was so close that it scares the hell out of you (therefore the fear).
 
 [does-negating-enemy-damage-also-negate-an-addition](https://boardgamegeek.com/thread/2301648/does-negating-enemy-damage-also-negate-an-addition)
 
+> Does negating enemy damage also negate an additional penalty?
+> Let's say that an orc attack says something along the lines of:
+>Three damage + discard all boons / Might negates
+>And the player pulls enough successes to completely negate the damage portion of the attack - do they still suffer the extra penalty (the losing boons portion in this example)?
+
+By negating all the damage from the original source (the attack), you do not have to discard any inspiration. The 1 damage from the fear is considered a separate source. 
+
+It depends on the exact wording. If it reads "Three damage, might negate. If you suffer any damage, discard all boons." then no, you will not suffer the effect if you negate all the damage. If it just reads "Three damage, might negate. Discard all boons." then they are two independent effects and you still lose all boons whether or not you take damage.
+
 [ways-of-old](https://boardgamegeek.com/thread/2220948/ways-of-old)
+
+> Is it possible to do both the top and bottom parts of this card (i.e. scout & sprint)?
+> Will discarding allow you to do both and the text inside the brackets is just to clarify Sprint and that you can just use the Sprint outside of a test or are the 2 entirely separate abilities and only 1 can be activated?
+
+They're separate abilities with the same cost (discarding the card), so you have to choose one or the other.
+
+A cost of discarding can only be paid once. If you pay it for the first ability the card is no longer there to be discarded for the second ability. The example I usually give is if you walk into a store with a single $5 bill, grab two different items that each cost $5, and attempt to pay at the register using the single bill for both items you'd get a lot of funny looks.
 
 [black-and-grey-hexsides](https://boardgamegeek.com/thread/2227861/black-and-grey-hexsides)
 
+> What is the effect of black and grey hexsides on movement, and identifying which are blocked?
+
+Grey hexside is needed to allow movement from an approved underground location. Spaces separated by black borders are not adjacent unless they are
+connected by gray borders that are aligned together. Arrows point to gray borders to help players identify them—when two gray borders are
+aligned, the arrows on each side of the aligned borders point toward each other. If two spaces are separated by black borders and their gray borders are
+not aligned (in other words, if a gray border meets a black border), those spaces are not adjacent.
+
 [cavalry-combat-plus-fighting-advance-the-first-beo](https://boardgamegeek.com/thread/2768561/cavalry-combat-plus-fighting-advance-the-first-beo)
+
+> What happens when you use calvary combat and fighting advance to cause you to move away from the grid before you provoke the enemy or attack?
+
+You would move away after the negate but then no longer be able to perform the Interact test, forfeiting the Interact and taking a Provoke for nothing.
+
+> What is the time when you attack with World's Burden and spend a successful to scout 2? (before/ when/after attack)
+
+It happens at the same time as you're inputting hits/modifiers on the enemy. Per the simultaneous resolution rule, this means the players may decide if they want to do the Scout before or after inputting the rest of the attack on the enemy.
+
+> Is Fighting Advance designed for items with ranged icons?
+
+No, you can use it to move from a space where you cannot attack an enemy to one where you can and then attack them. So if you have a melee weapon and are in a space with no enemies, but there is an enemy in the space next to you, you may use Fighting Advance to move into that enemy’s space and attack them.
+
+>  If I attack with rending claws and discard TFB I become Beorn only after the attack, even thought I loose the card during the attack, which makes me loose the rending claws?
+
+An attack is a multistep process which is broken down like this in the rules:
+1. Choose item and stat
+2. Choose target
+3. Test and results
+4. Counterattack (if applicable).
+Since the Rending Claws are available for step 1, we choose them for the attack. Everything proceeds normally until we get halfway through step 3. At this point when we discard The First Beorning, it will happen simultaneously with the rest of the results from the test. So Rending Claws leaves your play space at the same moment that it applies however many hits you did with it during the attack. You won't be able to use your man-form weapon in the attack since it wasn't selected during step 1. During the counterattack, you will be in man-form since you change at the end of step 3.
+
+> If Beorn use Boasting (one way to make the bear usefull in the end game), how do the timing of the hoary coat (after taking ... prepare one card from discard) interact with the above timing sequence?
+> Is the **"after"** still anywhere you want in "3. Test and results" or is it a separate sequencing that somehow interact with the above sequence?
+> What happens if you discard the bear to get +2 hit in relation to the above?
+
+**“After”** occurs immediately after the trigger in question. In the case of Boasting, you would use it and convert all your Fates to success after you draw the cards for the test, but before you confirm the results. Immediately after that you suffer the Fear and trigger Hoary Coat to prepare a card from discard. If the card you prepare is useful in the attack, you could use it if you want.
 
 [voluntary-discard-of-first-beorning-beorn-4-5](https://boardgamegeek.com/thread/3327532/voluntary-discard-of-first-beorning-beorn-4-5)
 
+> Is it possible to voluntarily discard a card that doesn’t have its own discard mechanics? For example discard card First Beorning (Beorn 4-5) It’s text claim:
+Change to The Great Bear. When this card is discarded, change to Beorn. (When you change, replace your hero card, figure, and equipped items.)
+
+You cannot voluntarily discard prepared cards. The Great Bear's ability forces you to discard a card when you interact so you could always use that to discard The First Beorning.
+
 [weapons-at-maximum-lore-level](https://boardgamegeek.com/thread/2300687/weapons-at-maximum-lore-level)
+
+> Why do weapons and other objects that have already reached level three keep showing a lore amount as if they could reach a new level?
+
+It’s future-proofing so that they can release further upgrades for longer campaigns later if they want. The sensible length for a campaign is 6 to 12 scenarios, but they can go insane and release 30 to 40 scenario campaigns and further item development would be nice to have.
 
 [inspiration-between-adventures](https://boardgamegeek.com/thread/2190190/inspiration-between-adventures)
 
+> Are the inspiration tokens discarded between adventures?
+
+Inspiration does not carry over from adventure to adventure. Per RAW you would discard all weaknesses at the end of the game, and then draw a new one from the top of the stack at the beginning of the next game.
+
 [thrice-forged-steel](https://boardgamegeek.com/thread/2637157/thrice-forged-steel)
+
+> The skill in references reads, “You can strike with this skill when another hero in your space attacks.
+Strike 2 (When you attack, discard to add 2 hits.)”
+> The way I read it is, if your character who has this card prepared is in a space with an ally and that ally attacks an enemy in the same space, you can strike to that ally’s attack and add 2 hits. Then the card is discarded. Or, you can use it on your own attack to strike and add two hits and discard the card.
+> Is the interpretation correct and are there any other ways to use the ability?
+
+Yes, the interpretation is correct. if it added another attack it would use the word "attack." It only lets you add 2 hits to an ally's attack already in progress. It has no other use. The enemy's placement is also irrelevant, so long as the ally attacking is in your space.
+
+> You had 2 hits to an ally's attack in progress if this ally is in your space, but you don't discard the skill.
+Am I right?
+> You discard it only if you use it for one of your attacks.
+
+The wording is essentially stating that you may use the Strike ability to help someone else's attack instead of yours. You are still using Strike and Strike discards the card being used. So the card is discarded either way.
+
 
 [can-i-use-my-move-remaining-move-points-after-an-a](https://boardgamegeek.com/thread/2506460/can-i-use-my-move-remaining-move-points-after-an-a)
 
