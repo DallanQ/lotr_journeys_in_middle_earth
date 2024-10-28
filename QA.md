@@ -312,17 +312,61 @@ Yes, you do have to explore quite quickly. You want to keep your Threat generati
 
 [nightingale-beast-friend-2](https://boardgamegeek.com/thread/3336366/nightingale-beast-friend-2)
 
+> Nightingale has the following effect: "Before you test, you may discard this skill to scout 2, revealing 1 additional card for each creature in your play area."
+> Will  Nightingale count itself?
 
+As you just discarded it it is no longer in your play area so no it wouldn't count as the "cost" was to discard it to Scout. The cost must be paid before beginning to resolve the effect. So once the effect resolves, Nightingale is no longer in the play area.
 
 [inspiring-presence](https://boardgamegeek.com/thread/2230603/inspiring-presence)
 
+> If you have the card Inspiring Presence prepared, do you have to discard it for the nearby hero to scout or discard facedown damage or fear instead of gaining inspiration?
+
+The card text for Inspiring Presence does not say to discard it. Thus, you do not discard it. 
+
+The card does not specify any cost for invoking it once the trigger condition is met so no cost need be paid. (And for clarity's sake discarding the card would be a cost)
+
 [scout-clarification](https://boardgamegeek.com/thread/2210523/scout-clarification)
+
+> If you scout 3 and select one card to prepare, now you have 2 cards left. I understand that you can place both of them on top of the deck in any order. I also understand that you can place both of them on the bottom of the library in any order.
+> Can he place one of them on top and the other on the bottom of the deck?
+
+Yes, you can place one on the top and the other on the bottom.
 
 [movement-with-range-enemies](https://boardgamegeek.com/thread/2190115/movement-with-range-enemies)
 
+> When a ranged enemy is one field away from Aragorn, the app displays: Move 1 and attack Aragorn. Do I have to move the Ranged Enemy on the board to the field of Aragorn, or does the ranged enemy stand still and not move?
+
+First, the enemy group moves up to the indicated number of spaces toward the targeted hero, taking the shortest path of spaces possible. The enemy group stops when it is in range of that hero.
+
+> If one ranged enemy has an instruction to move 1 and attack the hero, did he move away from 1 case and attack me after?
+
+If he is already in your space then he will already be in range and simply attack you without moving at all. Enemies can only use movement to decrease the distance between themselves and their target.
+
+> After choosing “no target” for a ranged enemy it says “Move 6 spaces toward the closest hero” not “to the nearest space adjacent”. So, what happens then? Still adjacent or on top?
+
+When given a target for the move, the enemy will move towards that target as far as it can, so it will enter the space. Enemies generally only stop at ranged distance when moving to attack, or when given instructions.
+
 [movement-stop-or-pass-field-with-opponent](https://boardgamegeek.com/thread/2761471/movement-stop-or-pass-field-with-opponent)
 
+> Can I go through a field where an enemy is standing?
+> Example: An opponent is standing on a neighboring field. To get to the fields that have not yet been discovered, my hero has to pass the field with the opponent. Since I can walk at least two fields, I want to pass the opponent’s field and then go to the next field (without an opponent).
+> Do I have to stop or can I pass?
+
+Each movement from one space to an adjacent space is considered a separate movement. If you encounter one or more enemy groups in the space you're moving to you have to provoke each enemy group in that space before you can move to the unexplored tile.
+
+You can move through a field with one or more enemy groups. However, as soon as you move out of a field with one or more enemy groups on it, you usually have to "provoke" all of them. To provoke an enemy group, click on the icon next to the enemy bar in the app and then click on the icon of that enemy group in the bar next to it. You need to repeat this for all the enemy groups in the particular field you are moving from. The only exceptions to this rule are the following:
+
+1. you must not (and cannot) provoke enemy groups that are already exhausted. Exhausted enemy groups are those that have already fought or been "stunned" during the player's action phase.
+
+2. you do not have to provoke enemy groups if you trigger appropriate card effects that prevent this.
+
+In the latest expansion "Shadow of War" new field types called "Fortified" were added. Fortified means, among other things, that players cannot move out of fields with enemies if the number of enemies in that field is greater than the number of player characters in that field. That is the only reason you cannot move out of a field with enemies
+
 [is-it-possible-to-hand-out-the-quest-item-to-a-cha](https://boardgamegeek.com/thread/2224069/is-it-possible-to-hand-out-the-quest-item-to-a-cha)
+
+> Is it possible to hand out the quest item to a character on the same tile?
+
+Nothing in the app or the rules allows you to move tokens from one hero's play area to another. 
 
 [partially-filling-a-condition](https://boardgamegeek.com/thread/3158945/partially-filling-a-condition)
 
