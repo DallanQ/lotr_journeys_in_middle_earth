@@ -480,9 +480,39 @@ Nothing in the app or the rules allows you to move tokens from one hero's play a
 
 [paths-unseen](https://boardgamegeek.com/thread/2732427/paths-unseen)
 
+> 
+
 [trailblazer](https://boardgamegeek.com/thread/2713262/trailblazer)
+
+> Pathfinder #1: "Before you sprint, gain 1 inspiration. Sprint 1"
+> If I use this card as Sprint 1, do I get 1 inspiration due to the text above it "Before you sprint..." ?
+> Or is it a choice between on or the other?
+
+When the skill is prepared, the text is active, so gaining the inspiration applies to the same card too.
 
 [shooting-around-corners](https://boardgamegeek.com/thread/3194962/shooting-around-corners)
 
+> Since range depends on spaces being adjacent only, are all shots allowed if a path can be traced regardless of how ridiculous the shot would be in reality?
+
+Yes, all shots are allowed if a path can be traced.
+
 [remove-from-adventure](https://boardgamegeek.com/thread/2491744/remove-from-adventure)
+
+> When a card is removed from the adventure. Does the card come back in the next scenario of the campaign?
+
+Officially, each "session" or chapter is called an adventure by the rules. The entire game is referred to as the "campaign."
+
+Unless told otherwise, you will begin every single adventure with exactly one weakness (no more, no less), all the titles you've earned, and your role's #1 card (the one with stars around the name) prepared.
+
+Another thing to track is corruption, this lasts from "adventure/scenario/episode...." to the next. The app tracks it and you add corruption tokens on each hero's card as a reminder since they could trigger Last Stands. 
+
+One-time use per adventure. The general rule of thumb is that the campfire screen is your guide for what extra cards go into your deck. The idea is that players should not need to remember what was or was not bought/used in between sessions - the app remembers for them. Since Titles are always displayed at the campfire screen regardless of whether they were previously used or not, they will always go into your deck at the start of an adventure. In the rare case that a permanent effect occurs that is not displayed on the campfire screen (for instance losing some chapters can cause you to start with an extra weakness for the remainder of the campaign) the app will generally remind you of that permanent change at the start of every subsequent chapter.
+
+> At the start of EVERY adventure you put in 1 weakness card (+ any others the game tells you to), and after each completion you take it out again
+> What is the rule?
+
+The end effect of the rule is that you start every chapter with exactly 1 Weakness. The reason it's written this way is because there are some in-game events (such as some specific enemy attacks) that can add a Weakness to your deck and that extra Weakness is not intended to persist past the chapter you're in. From a practical standpoint, there's no need to physically remove your Weakness and put it back between adventures. The important thing is that you're starting with the correct amount of Weaknesses (which 99% of the time will be 1.)
+
+The are some exceptional cases when you will start a chapter with more than that however these are almost always the result of failing an important chapter, in which case the app will inform you that that's how it will be going forward and also remind you at the beginning of each future chapter. If the app isn't doing any of that, you only should have 1 Weakness.
+
 
