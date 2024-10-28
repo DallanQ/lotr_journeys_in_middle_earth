@@ -391,9 +391,23 @@ Nothing in the app or the rules allows you to move tokens from one hero's play a
 
 [partially-filling-a-condition](https://boardgamegeek.com/thread/3158945/partially-filling-a-condition)
 
+> If someone only has 1 card prepared, can they do the first half, Or does a player need to have 2 cards prepared to choose that option?
+
+No. You would need to be able to fully resolve the effect to choose it. Any time the game offers you a choice between multiple effects, you must choose one you can resolve.
+
 [skill-cards-and-multiple-effects-q](https://boardgamegeek.com/thread/2223595/skill-cards-and-multiple-effects-q)
 
+> Are we only selecting one multiple effect/abilities of skill cards? Or if more than one on a card can apply to the situation can we use all the multiple effects on the card that do?
+
+If a card has multiple abilities listed on it, treat them as completely separate. This can occasionally cause conflicts if the two abilities have the same cost, for instance, if they both require you to discard the card then you cannot discard the card once to invoke both abilities - you would need to pick one.
+
+However if only one ability requires a discard, and the other does not, such as the case with the card Keen Eyes, then the first ability would be active for as long as the card is prepared and at any time you want to use the Strike portion of the card you could discard it to add two hits. Doing so would obviously cause the card to no longer be prepared and thus you would lose the benefit of the first ability, the extra range.
+
 [over-4-prepared-cards](https://boardgamegeek.com/thread/3002619/over-4-prepared-cards)
+
+> If a player has prepared 4 cards and would like to prepare "Gather Supplies", can the player gain 1 inspiration and then discard "Gather Supplies"?
+
+You could also prepare Gather Supplies, gain the inspiration, then discard Resourceful instead so that you can benefit from the stronger end-of-turn effect of Gather Supplies if you wanted. You do not have to discard the same card you prepared when you over prepare.
 
 [fang-pendant-and-ranged-monsters](https://boardgamegeek.com/thread/2694491/fang-pendant-and-ranged-monsters)
 
