@@ -1,30 +1,30 @@
 ## FIRST CAMPAIGN SETUP (page 4)
- 
+
 To set up their first campaign of *Journeys* in *Middle-earth*, players follow the steps presented in this section.
 
 1. **Select Campaign and Difficulty:** Select the "New Game" button on the app's title screen. Then, the app will guide the players through a series of screens for selecting a campaign, a difficulty, and a save slot. It is recommended that players select the "Bones of Arnor" campaign and "Normal" difficulty.
 
-2. **Create Party and Select Heroes:** Each player selects a hero in the app, takes their hero's corresponding figure and hero card, and places them in their play area. These heroes will be used for the duration of the campaign, which spans several adventures. 
+2. **Create Party and Select Heroes:** Each player selects a hero in the app, takes their hero's corresponding figure and hero card, and places them in their play area. These heroes will be used for the duration of the campaign, which spans several adventures.
 
 If playing single-player, the player chooses two heroes and controls both of them.
 
-> Image of 2 cards (starting items) and a hero card displaying stats of hero for your choice
+> Image of 2 cards (Beravor's starting items), a hero figure and a hero card displaying stats of hero for your choice
 
 3. **Gather Starting Items:** The app assigns starting items for each hero. Each player finds the item cards that match the name and tier displayed in the app and places them near their hero card. Players may select different starting items in the app if they wish.
 
-> Image displays a staff item with a 1 in the lower right corner indicating Tier 1 on item Card
+> Image displays a staff item card with a 1 in the lower right corner indicating Tier 1 on item Card
 
 4. **Create Damage, Fear, and Weakness Decks:** Shuffle the damage cards, fear cards, and weakness skill cards (only weakness skill cards, not other skill cards) into separate decks and place them in the center of the play area where all players can reach them.
 
-> Images showing 3 Decks of cards of Damage, Fear, and Weakness
+> Images showing 3 Decks of cards which represent Damage, Fear, and Weakness cards respectively.
 
 5. **Create Supply:** Separate the exploration/inspiration, search/ threat, person, and enemy banner tokens as well as the three types of boon cards into separate piles to create the supply. Set aside all map tiles and enemy figures; some of them will be used during the adventure. Return the battle map tiles and terrain tokens to the box—they are not used in the first adventure.
 
-> Images showcasing 6 tokens in supply
+> Images showcasing 6 tokens in supply which represent exploration/inspiration, search/threat, person and enemy banner tokens respectively.
+
+> Image showing 3 types of boon cards
 
 6. **Begin Campaign:** The players input a group name, and then select "Begin" in the app and watch the short cutscene that introduces the story and the heroes' quest.
-
-> Image showing 3 decks of boon cards
 
 7. **Choose Roles:** Each player selects a role in the app, this is the role their hero takes for the first adventure. A player can choose any role from the menu, but the recommended starting role for each hero is as follows:
 
@@ -42,7 +42,7 @@ If playing single-player, the player chooses two heroes and controls both of the
 
 ### ROLES (page 4)
 
-A hero's role during an adventure determines some of that hero's capabilities. Each role has a general purpose
+A hero's role during an adventure determines some of that hero's capabilities. Each role has a general purpose:
 
 - **Burglar:** Evades enemies and is self-sufficient
   
@@ -68,25 +68,25 @@ Role selection is not permanent, heroes can change roles between adventures
 
 - one weakness card from the top of the weakness deck
 
-> Image showing 6 cards showing various uses of each card designated with Basic at the bottom of the card.
+> Image of 6 Basic cards with role on the bottom of each card ranging from Basic 1-6 respectively
 
-> Image of 5 cards showing the name of a chosen hero at the bottom with an inscription of the use of the card
+> Image of 5 Beravor cards with role on the bottom of each card ranging from Beravor 1-5
 
-> Image of a card displaying the weakness of the hero chosen
+> Image of a random weakness card
 
-> Image of 3 cards showing green colored text boxes containing the role of the card
+> Image of 3 pathfinder cards with role on the bottom of each card ranging from 1-3
 
-*if Beravor chooses the Pathfinder role, her skill deck consists of basic 1-6, Beravor 1-5, Pathfinder 1-3, and one random weakness.*
+*If Beravor chooses the Pathfinder role, her skill deck consists of basic 1-6, Beravor 1-5, Pathfinder 1-3, and one random weakness.*
 
 9. **Prepare Role Card and Create Skill Decks:** Each hero finds the starting skill card for their role. Each starting skill card has the number “1” after the role name at the bottom of the card and has stars next to the card name. Each hero prepares their starting skill card by placing it face up below their hero card. Then, each player shuffles their remaining 14 cards together to create their skill deck and places it facedown in their play area.
 
-> Image of a card showing the starting skill of the chosen hero being placed below the hero card
+> Image of a Trailblazer starting skill card and an arrow pointing to 3 dots which represents the starting skill card icon
 
-*If Beravor is a Pathfinder, she places "Trailblazer" below her hero card*
+*If Beravor is a Pathfinder, she places "Trailblazer" below her hero card.*
 
-10.  **Place Starting Tiles and Tokens:** Select "Embark in the app and follow the app's instructions, placing map tiles and tokens in the play area as shown in the app to create the game map.
+10. **Place Starting Tiles and Tokens:** Select "Embark" in the app and follow the app's instructions, placing map tiles and tokens in the play area as shown in the app to create the game map.
 
-A unique alphanumeric code is printed on each map tile to make it easy both to find the tiles and to orient them when placing them. Be sure to leave extra room for additional map tiles to the starting map tiles to indicate roughly where the map tiles will be added latter
+A unique alphanumeric code is printed on each map tile to make it easy both to find the tiles and to orient them when placing them. Be sure to leave extra room for additional map tiles to be placed during the game—the app displays fog next to the starting map tiles to indicate roughly where map tiles will be added later.
 
 After following all the instructions in the app, the player begins their adventure.
 
