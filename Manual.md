@@ -467,7 +467,7 @@ A last stand includes a test—if the hero fails the test, they are **defeated**
 
 ### SUFFERING DAMAGE EXAMPLE (page 12)
 
-> A picture of three damages and 1 fear indicating that Elena was attacked by a Goblins
+> A picture of three damages and 1 fear indicating that Elena was attacked by Goblins
 
 1. A group of Goblins attacks Elena for three damage (icon of 3 claw scratches) and one fear (icon of a devil-like face with two curved horns). For this attack, a might (icon of a horn) test negates damage and fear.
 
