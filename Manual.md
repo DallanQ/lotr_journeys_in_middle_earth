@@ -90,7 +90,7 @@ A unique alphanumeric code is printed on each map tile to make it easy both to f
 
 After following all the instructions in the app, the player begins their adventure.
 
-> Image showing map tiles added together to show the player where to go and space allowed for more map tiles to be added. Each map tile has a code.
+> An image of a collection of map tiles and an arrow pointing to the map tile collection indicating there is a 304A code on one of the map tile at the top right corner.
 
 ## PLAYING THE GAME (page 6)
 
@@ -108,7 +108,7 @@ After resolving each phase, a new round begins with the action phase. Players co
 
 During the action phase, each hero takes a turn by performing actions to search, fight, and journey through the lands of Middle-earth. The heroes take turns in the order of their choice, and this order can change from round to round.
 
-During a hero's turn, they can perform two actions, which may be the same action twice. The actions are: 
+During a hero's turn, they can perform two actions, which may be the same action twice. The actions are:
 
 - Travel
 
@@ -118,35 +118,35 @@ During a hero's turn, they can perform two actions, which may be the same action
 
 After all heroes have taken a turn, they select the hourglass button in the lower-right corner of the app screen to proceed to the shadow phase.
 
-> Image of an hourglass
+> Image of an hourglass button
 
 #### TRAVEL ACTION (page 6)
 
 The travel action allows a hero to move around the game map. The game map is composed of map tiles, each of which is divided into one or more spaces. A space is an area of the board enclosed by gray borders. Spaces that share a gray border are adjacent to each other.
 
-> Image showing the map tiles with spaces and gray borders
+> Image of a map tile and arrows pointing to the top left and bottom right of the map tile indicating "Gray Borders" and "Spaces"
 
 When a hero performs a travel action, they can move twice. Each time a hero moves, they move to an adjacent space.
 
-> Map tiles image showing the twice movement of a hero performing a travel action
+> Image of a map tile and arrows illustrating a two space Legolas move to the left. This move indicates that a hero performed a travel action.
 
-*Legolas moves two spaces to the left*
+*Legolas moves two spaces to the left.*
 
 A hero can interrupt their two moves to perform the second action of their turn. For example, a hero can move one space, perform their second action, and then move one additional space.
 
 ##### EXPLORATION (page 6)
 
-Each journey map tile has a square box where an exploration token may be placed, as indicated by the app. A map tile that has an exploration token on it is **unexplored**. When a hero moves into any space on an unexplored tile, they must immediately explore the tile.
+Each journey map tile has a square box where an exploration token may be placed, as indicated by the app. A map tile that has an exploration token on it is **UNEXPLORED.** When a hero moves into any space on an unexplored tile, they must immediately explore the tile.
 
-> Image of a star badge is an exploration token
+> Image of a circled star icon representing a exploration token placed in a map tile.
 
 To explore a tile, the hero selects the appropriate exploration token in the app and then selects the "Confirm" button. The app instructs the hero to discard the exploration token and gain one inspiration. To do this, the hero can simply flip the exploration token and place it on their hero card. Inspiration is described later.
 
 Exploring a tile is **not** a separate action; it is simply the result of a hero moving onto a tile that has an exploration token.
 
-> Image showing the exploration token of the player on a greyed-out map tile and a moving arrow indicating it is flipped over to an insipiration token and placed on the chosen hero's stats card
+> Image showing an exploration token and a legolas moved into a greyed-out map tile indicating an unexplored tile and a moving arrow indicating that the exploration token was discarded, one insipiration token was gained and placed on the chosen hero's stats card
 
-*Legolas moved into an unexplored tile. so he must explore it. He discards the exploration token and gains one inspiration, which he places on his hero card*
+*Legolas moved into an unexplored tile. so he must explore it. He discards the exploration token and gains one inspiration, which he places on his hero card.*
 
 #### Attack Action (page 7)
 
@@ -154,21 +154,21 @@ The attack action allows heroes to attack an enemy group, attempting to remove i
 
 > Image of one group of two warrior orcs figures
 
-*One Group of Two Orc Figures*
+*One Group of Two Orc Figures.*
 
 > Image of the orc group portrait in the app
 
-*Orc Group Portrait in App*
+*Orc Group Portrait in App.*
 
 To perform an attack, the hero chooses an item to attack with. The item must have a stat icon in the upper-left corner of the card:
 
-> Image of an item card showing the stats icon in the upper-left corner of the card
+> Image of an item card and an arrow pointing to a circled stat icon on the upper-left corner of the item card
 
 > Image of 5 stat icons available for the user which look like the 5 elements
 
 The hero also must choose one enemy group that is in range. If an enemy group is in the same space as the hero, that enemy group is in range. Enemy groups in spaces adjacent to the hero are also in range if the hero is attacking with an item card that has the ranged (icon of a right-pointed dart with a white-shape right-pointed arrow in it) icon in the upper-right corner.
 
-> Image of item card displaying the ranged icon in the upper-right corner of the card.
+> Image of an item card and an arrow pointing to a circled ranged icon on the upper-right corner of the item card
 
 After the hero chooses an item and an enemy group, they resolve an attack test against that enemy group. Tests are described later in "Tests" on page 10.
 
@@ -190,7 +190,7 @@ The interactive action allows heroes to encounter points of interest on the map,
 
 If a hero is in the same space as one of these tokens, that hero can perform an interact action by selecting the token in the app and then selecting the button with the action (icon of two right-faced arrow) icon. When performing an interact action, the app provides the hero with instructions to follow. Then, the hero continues their turn.
 
-> Image showing a request with two action buttons cancel and search
+> Image showing a request with two action buttons cancel and search. This image shows that an hero can either perform an interact action to search a token or cancel
 
 *A hero can perform an interact action to search this search token.*
 
@@ -202,7 +202,7 @@ Players can inspect tokens in the app at any time by selecting them and reading 
 
 The app instructs players to place new map tiles when certain conditions are met—these conditions include exploring and interacting with tokens, defeating enemies, etc. When the app instructs the players to place a tile, it highlights the alphanumeric code on that tile. The players should use this highlight to help orient the tile with the rest of the map.
 
-### SHADOW PHASE (page 8) 
+### SHADOW PHASE (page 8)
 
 The shadow phase is evil's opportunity to strike back and hinder the heroes' progress. To resolve the shadow phase, the app guides the heroes through the following steps: enemy activation, darkness, and threat. After the shadow phase, the heroes proceed to the rally phase.
 
@@ -210,25 +210,25 @@ The shadow phase is evil's opportunity to strike back and hinder the heroes' pro
 
 During the enemy activation step, each enemy group attempts to move and attack. The app provides an enemy group with a target to move toward and attack:
 
-> Image of activation request showing two action buttons of "attack" and no "target".
+> Image of activation request showing two action buttons of "attack" and "no target".
 
-First, the enemy group moves up to the indicated number of spaces toward the targeted hero, taking the shortest path of spaces possible. The enemy group stops when it is in range of that hero. The enemy is in range if it is in the hero's space or if it is in an adjacent space **and** has the ranged ( icon of a right-pointed dart with a white-shaped right-pointed arrow in it ) icon on its enemy portrait.
+First, the enemy group moves up to the indicated number of spaces toward the targeted hero, taking the shortest path of spaces possible. The enemy group stops when it is in **RANGE** of that hero. The enemy is in range if it is in the hero's space or if it is in an adjacent space **and** has the ranged ( icon of a right-pointed dart with a white-shaped right-pointed arrow in it ) icon on its enemy portrait.
 
-> image of a ranged icon on a portrait.
+> Image of a ranged icon on a portrait.
 
 *Ranged Icon on Portrait*
 
 If the enemy group cannot get in range of its target but can get in range of another hero, that closer hero **becomes the new target**. If multiple heroes satisfy this condition, the heroes choose which one becomes the new target.
 
-If the enemy can get in range of a target, the "Attack" button is selected and the app displays the amount of damage (icon of 3 claw scratches of a cat) and fear (icon of a devil-like face with two curved horns) that the hero might suffer. Suffering damage and fear are described on page 12.
+If the enemy can get in range of a target, the "Attack" button is selected and the app displays the amount of damage (icon of 3 claw scratches) and fear (icon of a devil-like face with two curved horns) that the hero might suffer. Suffering damage and fear are described on page 12.
 
-> Image showing the 3 damage strikes of the enemy and the 1 fear that the hero might suffer.
+> Image showing the 3 damage strikes of the enemy represented with claws scratches and the 1 fear that the hero might suffer represented with a devil-like face with two curved horns.
 
-*The Enemy Attacks For 3 Damage (icon of 3 claw scratches of a cat ) And 1 Fear (icon of a devil-like face with two curved horns).*
+*The Enemy Attacks For 3 Damage (icon of 3 claw scratches) And 1 Fear (icon of a devil-like face with two curved horns).*
 
 If the enemy group cannot get in range of any target, **it ignores the entire instruction**, and the "No Target" button is selected. This provides the enemy with a new instruction, which usually moves the enemy closer to a hero.
 
-> Map tile depicting the movement of the orc group and the hero position.
+> Image of a map tile and an arrow describing the movement of an attack legolas towards the Gimli statue since it is within its reach.
 
 *The Orc group is instructed, "Move 1: Attack Legolas (or closest hero)." It cannot reach Legolas' space to attack him; instead, it moves toward and attacks Gimli.*
 
@@ -242,7 +242,7 @@ A hero is in darkness if any of the following three conditions apply:
 
 *Darkness Icon*
 
-> image showing the darkness icon on a part of the map tile.
+> Image of a map tile and an arrow pointing to the darkness icon in a space of the map tile
 
 - They are in a space with a darkness token.
 
@@ -250,7 +250,7 @@ A hero is in darkness if any of the following three conditions apply:
 
 To resolve the darkness step, each hero in darkness suffers an amount of fear indicated by the app. Suffering fear is described on page 12.
 
-> Image showing hero in zones with darkness icon on map tiles
+> Image showing both Gimli and Legolas on a map tile suffering the amount of fear indicated by the app during the darkness phase
 
 *Both Gimli and Legolas suffer the amount of fear indicated by the app during the darkness phase because they are in spaces with a printed darkness icon.*
 
@@ -260,7 +260,7 @@ As time passes for the heroes, the threats of Middle-earth draw closer and becom
 
 Threat is represented by a threat bar at the top of the app screen, which fills as threat increases. When threat increases to a **threshold**, a threat event is activated in the app and heroes resolve it by following its instructions. Each threshold has a number that indicates the amount of threat required for it to activate. If the threat bar ever fills, the game ends and the heroes fail the adventure.
 
-> image of threat bar of a chosen hero as it fills up
+> Image of a threat bar of a chosen hero as it fills up
 
 *As the threat bar fills, the heroes will be subject to ever greater dangers.*
 
@@ -274,7 +274,7 @@ Threat increases during each threat step by the following amounts:
 
 Additionally, some effects can cause threat to increase during other game phases. The app always calculates and increases threat automatically. At any time, a hero can select a threshold in the app to view a brief description of its event.
 
-> image of the threshold activation with 15 as the minimun for it to activate and the level of the current threat step out of 64.
+> image of the threshold activation with 15 as the minimum for it to activate and the level of the current threat step out of 64.
 
 *This threshold activates during the threat step if threat is 15 or higher.*
 
@@ -282,19 +282,19 @@ Additionally, some effects can cause threat to increase during other game phases
 
 After the shadow phase, the app instructs the heroes to plan for the next round.
 
-First, each hero resets their skill deck by shuffling their discard pile into their deck. Then, the app instructs the heroes to "**Scout 2.**" A hero does this by revealing the top two cards of their skill deck. Then, the hero may prepare one of them by placing it below their hero card. If a card is prepared, the abilities on that card are available to be used.
+First, each hero **RESETS** their skill deck by shuffling their discard pile into their deck. Then, the app instructs the heroes to "**Scout 2.**" A hero does this by revealing the top two cards of their skill deck. Then, the hero may **PREPARE** one of them by placing it below their hero card. If a card is prepared, the abilities on that card are available to be used.
 
-> image of a hero player card showing the hero Elena
+> Image showing the preview of an Elven Light card
 
-> Player stats of Elena showing all the various strengths and weaknesses she possesses
+> An image of a Elena hero card displaying her attributes: Might, Wisdom, Agility, Spirit, and Wit, as well as Fear, Damage thresholds and an inspiration with a limit of 5 at it upper-right corner.
 
-> card image showing the elven light Elena prepares which the user places below her hero player card with other attacks that are already there
+> Image of a prepared Elven Light card placed below an Elena hero card and an undying might card.
 
 *When Elena prepares Elven Light, she places it below her hero card.*
 
 A hero can only have four skill cards prepared at a time, so it is important that their prepared cards are separated from any other cards they have in their play area. If a hero ever has more than four prepared cards, they must discard cards until only four prepared cards remain.
 
-After choosing whether or not to prepare a card, each hero places their cards that were not prepared on the top or bottom of their deck in any order. By placing useless cards, like weaknesses, on the bottom of their deck and useful cards, such as cards that have the > snow emoji (success) icon in the upper-left corner, on the top of their deck, a hero can help ensure that their upcoming actions have positive outcomes.
+After choosing whether or not to prepare a card, each hero places their cards that were not prepared on the top or bottom of their deck in any order. By placing useless cards, like weaknesses, on the bottom of their deck and useful cards, such as cards that have the (a sunburst symbol)(success) icon in the upper-left corner, on the top of their deck, a hero can help ensure that their upcoming actions have positive outcomes.
 
 After scouting, the heroes select the "Continue" button and proceed to a new round, starting with the action phase.
 
@@ -306,7 +306,7 @@ The party of heroes wins or loses an adventure together. Winning an adventure pr
 
 Each adventure provides the heroes with a series of objectives. During an adventure, the heroes' current objective is displayed beneath the threat bar. After the heroes complete one objective, the app provides the heroes with a new objective automatically.
 
-> image of an objective completion bar which fills as you complete objective
+> Image of an objective completion bar beneath a threat bar. The objective completion bar fills as you complete objective
 
 If the heroes complete the final objective before the threat bar is full, they win the adventure. If a hero is defeated, the remaining heroes continue playing; however, if they do not complete the final objective by the start of the next shadow phase, they lose the adventure.
 
@@ -316,21 +316,21 @@ Tests are the primary way that heroes interact with the world and attack enemies
 
 Each test requires a hero to use one of their stats, which are listed on their hero card: agility (icon of a 3-pointed spiral), might (icon of a horn), spirit (icon of a blazing fire), wisdom (icon of a tree), or wit (speed motion icon). To perform a test, a hero reveals cards from the top of their skill deck. The number of cards they reveal is equal to the value of the stat being tested.
 
-> images of cards showing the might of a hero when they perform a test.
+> Image of three cards revealed from a deck after a test is performed
 
 *Beravor's might (icon of a horn) is "3." When she performs a (icon of a horn) test, she reveals three cards from her deck.*
 
-After revealing cards, the hero determines the number of successes (snow emoji icon) they have. Each success (snow emoji icon) icon on the upper-left corner of revealed cards provides one success. The text on the revealed cards is ignored—it has no effect during tests.
+After revealing cards, the hero determines the number of **SUCCESSES** (a sunburst symbol) they have. Each success (a sunburst symbol) icon on the upper-left corner of revealed cards provides one success. The text on the revealed cards is ignored—it has no effect during tests.
 
 > Image of a Success Icon
 
 *Success Icon*
 
-The hero uses successes differently depending on the test: 
+The hero uses successes differently depending on the test:
 
 - Some tests require the hero to input the number of successes into the app by selecting the "+" button. Then, the app provides the outcome of the test. The successes for some of these tests are cumulative; the heroes can perform the test multiple times, and the app tracks the total number of successes.
 
-> image showing the stage at which a hero's test level is at.
+> Image showing the total number of sucesses after the app tracks the number of time an hero performs the test.
 
 *If a hero has two successes, they select the "+" twice.*
 
@@ -342,11 +342,11 @@ After completing the test, the hero places all the cards they revealed during th
 
 #### FATE AND INSPIRATION (page 10)
 
-During a test, a hero's revealed cards may contain fate (leaf icon) icons. Fate icons have no inherent effect; however, the hero can spend inspiration tokens to convert fate icons to success (snow emoji icon) icons. Each inspiration spent converts a **single** fate icon. To spend an inspiration, the hero takes an inspiration from their hero card and returns it to the supply.
+During a test, a hero's revealed cards may contain fate (leaf icon) icons. Fate icons have no inherent effect; however, the hero can spend inspiration tokens to convert fate icons to success (a sunburst symbol) icons. Each inspiration spent converts a **single** fate icon. To spend an inspiration, the hero takes an inspiration from their hero card and returns it to the supply.
 
 When a hero gains inspiration, they take an inspiration token from the supply and place it on their hero card. The hero cannot have more inspiration tokens than the inspiration limit indicated on their hero card.
 
-> image of Inspiration Limit Of 4 On Hero Card
+> Image of a Hero Card with a limit of 4 Inspiration token
 
 *Inspiration Limit Of 4 On Hero Card*
 
@@ -356,39 +356,33 @@ When a hero gains inspiration, they take an inspiration token from the supply an
 
 1. Bilbo performs an interact action on a search token in his space. He is prompted to test agility (icon of a 3-pointed spiral) with a goal of two successes.
 
-> A card image of Bilbo's agility
+> An image showing a deck of cards on the left with an arrow pointing to three revealed cards arranged horizontally. A large white oval encircles the success icon on the first card and the two fate icons on the second and third cards, highlighting the icons at the top of each revealed card.
 
-> 3 revealed cards of Bilbo that show a total of one success icon and two fate icons
-   
-2. Bilbo's agility is "3," so he reveals three cards from the top of his skill deck. The revealed cards have a total of one success (snow emoji icon) icon and two fate (leaf icon) icons.
+2. Bilbo's agility is "3," so he reveals three cards from the top of his skill deck. The revealed cards have a total of one success (a sunburst symbol) icon and two fate (leaf icon) icons.
 
-> Bilbo's here card showing his stats and also an insipration token he intends to spend to covert to speed to pass the test
+>An image of a Bilbo hero card displaying his attributes: Might, Wisdom, Agility, Spirit, and Wit, as well as Fear and Damage thresholds. An inspiration token with a limit of 6 is highlighted, with an arrow pointing from this token to a matching inspiration token outside the card, indicating that one inspiration token has been spent.
 
-> Inspirational token displayed
+3. Bilbo wants to pass the test, so he spends an inspiration token to convert one (leaf icon) to (a sunburst symbol). Now he has two (a sunburst symbol), enough to pass the test.
 
-3. Bilbo wants to pass the test, so he spends an inspiration token to convert one (leaf icon) to (snow emoji icon). Now he has two (snow emoji icon), enough to pass the test.
-
-> Card showing Pass selected and instructions to follow.
-
-> Images of 3 cards Bilbo drew to test his skill to be discarded
+> An image showing three revealed cards laid out horizontally on the right, with an arrow pointing toward a deck of cards on the left. This indicates that the revealed cards are being moved to the skill deck’s discard pile.
 
 4. Bilbo selects "Pass" and resolves the instructions that appear. Then, he discards the cards he drew for the test to his skill deck discard pile.
-   
+
 ### ATTACk TESTS (page 11)
 
-Attack tests are performed during a hero's attack after the hero chooses an enemy group to attack and an item to attack with. To perform an attack test, the hero chooses one of the stats listed in the upper-left corner of the item card they are attacking with and tests that stat. Then, the hero spends successes (snow emoji icon) to resolve one or more of that item's abilities. Each ability indicates how many successes must be spent to resolve it, and each ability can be resolved only once per attack.
+Attack tests are performed during a hero's attack after the hero chooses an enemy group to attack and an item to attack with. To perform an attack test, the hero chooses one of the stats listed in the upper-left corner of the item card they are attacking with and tests that stat. Then, the hero spends successes (a sunburst symbol) to resolve one or more of that item's abilities. Each ability indicates how many successes must be spent to resolve it, and each ability can be resolved only once per attack.
 
-*A hero using "Sword" tests (icon of a horn). One (snow emoji icon) can be spent to apply two hits, and two (snow emoji) icon applies five hits.*
+*A hero using "Sword" tests (icon of a horn). One (a sunburst symbol) can be spent to apply two hits, and two (a sunburst symbol) icon applies five hits.*
 
-> Image showing the sword test and the hits it delivers
+> Image showing the sword tests and the hits it delivers
 
 Most item abilities add hits to enemies. To add hits, the hero selects the enemy's portrait to display the enemy menu and then the attack tab to display the attack pane of the menu. Then, the hero selects the "+" button in the attack pane to input each hit.
 
-> Image of an attack tab 
+> Image of an attack tab
 
 *Attack Tab*
 
-> Image image showing the attack modifier a hero can use also with the Plus(+) and minus(-) buttons for hits
+> Image showing the attack modifier a hero can use also with the Plus(+) and minus(-) buttons for hits
 
 *Attack Pane of an Enemy Menu*
 
@@ -396,13 +390,13 @@ In addition to applying hits, abilities may provide heroes with attack modifiers
 
 The enemy menu displays a health value for **each figure** in the enemy group as well as each figure's armor or sorcery value. If an enemy has armor or sorcery, hits reduce those values first. If an enemy does not have armor or sorcery, hits reduce the enemy's health.
 
-> An image of a progress bar of health, sorcery, and armor, showing 4 health, 2 sorcery, and 1 armor stats
+> An image displaying a segmented progress bar with three different types of sections. From left to right, there are four red segments labeled as Health, followed by two purple segments labeled as Sorcery, and one gray segment labeled as Armor. Each section is highlighted with arrows to indicate its corresponding attribute.
 
 After inputting all hits and modifiers, the hero selects the "Apply" button to apply the hits to the enemies (even if the hero had no hits). If an enemy's health is reduced to zero, that enemy is defeated and the app instructs the heroes to remove the enemy's figure from the board.
 
 If an enemy is not defeated, it regains all of its armor and sorcery, and it may be prompted to counterattack. The enemy group can attack if it is in the hero's space or in an adjacent space and has the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon on its portrait. If the enemy can attack, the hero selects the "Yes" button and resolves an attack as described in "Enemy Activation Step" on page 8.
 
-> image of a ranged icon on a part of a portrait
+> An image showing a ranged icon positioned on the bottom edge of a character portrait, indicating that the character has a ranged attack ability in adjacent spaces.
 
 *Ranged Icon on Portrait*
 
@@ -418,20 +412,20 @@ If an enemy is not defeated, it regains all of its armor and sorcery, and it may
 
 > Four cards of Aragorn revealed from his deck
 
-2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (snow emoji icon) and two fate (leaf icon).
+2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (a sunburst symbol) and two fate (leaf icon).
 
 > image of the spending of 2 success tokens and a 5 hit count from Aragorn
 
 > Image showing the inputs of 5 hits in the app
 
-3. Aragorn spends two success (snow emoji icon) to resolve Fate-Bender's third effect,
+3. Aragorn spends two success (a sunburst symbol) to resolve Fate-Bender's third effect,
 inputting five hits into the app
 
 > Image of conversion of an inspiration to give 2 hits and also a smite
 
 > The Fate-Bender adds two hits and selects "smite".
 
-4. Aragorn spends an inspiration to convert one fate (leaf icon) to success(snow emoji icon). He spends that success (snow emoji icon)on Fate-Bender's first effect, adding two more hits and selecting "Smite." Then, he selects "Apply."
+4. Aragorn spends an inspiration to convert one fate (leaf icon) to success(a sunburst symbol). He spends that success (a sunburst symbol)on Fate-Bender's first effect, adding two more hits and selecting "Smite." Then, he selects "Apply."
 
 > An image showing the effect of the hit of Aragorn on the Wights
 
@@ -451,7 +445,7 @@ Occasionally, a hero is specifically instructed to suffer facedown damage or fea
 
 ### NEGATING DAMAGE AND FEAR (page 12)
 
-A hero may be granted a chance to negate damage or fear before they suffer it. When this occurs, the hero is presented with a stat to test (e.g., "Each hero in darkness suffers 2 fear; (icon of blazing fire) negates."). Before suffering the damage or fear, the hero may test the indicated stat, and each success (snow emoji icon) icon produced during that test prevents one damage or fear.
+A hero may be granted a chance to negate damage or fear before they suffer it. When this occurs, the hero is presented with a stat to test (e.g., "Each hero in darkness suffers 2 fear; (icon of blazing fire) negates."). Before suffering the damage or fear, the hero may test the indicated stat, and each success (a sunburst symbol) icon produced during that test prevents one damage or fear.
 
 ### LAST STANDS (page 12)
 
@@ -479,7 +473,7 @@ A last stand includes a test—if the hero fails the test, they are **defeated**
 
 > 2 cards of Elena revealed that show 2 success token icons which show she can prevent a total of two damages
 
-2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (snow emoji icon), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
+2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (a sunburst symbol), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
 
 > A feeble damage card and Elena's hero card picture shown
 
@@ -625,7 +619,7 @@ If a hero is instructed to **deplete** a trinket, they must spend one depletion 
 
 ### DUAL-WIELDING (page 14)
 
-A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes (snow emoji icon) to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon.
+A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes (a sunburst symbol) to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon.
 
 > A portrait showing a hero's sword statistics
 
@@ -731,9 +725,9 @@ There are six modifiers that can benefit heroes during an attack:
 
 ### ICONS (page 16)
 
-- (snow emoji icon) Success
+- (a sunburst symbol) Success
 
-- (leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > snow emoji icon)
+- (leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > a sunburst symbol)
 
 - (icon of 3 scratch claws of a cat) Damage
 
