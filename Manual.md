@@ -68,13 +68,13 @@ Role selection is not permanent, heroes can change roles between adventures
 
 - one weakness card from the top of the weakness deck
 
-> Image of 6 Basic cards with role on the bottom of each card ranging from Basic 1-6 respectively
+> Image of 6 Basic cards with a role on the bottom of each card ranging from Basic 1-6 respectively
 
-> Image of 5 Beravor cards with role on the bottom of each card ranging from Beravor 1-5
+> Image of 5 Beravor cards with a role on the bottom of each card ranging from Beravor 1-5
 
 > Image of a random weakness card
 
-> Image of 3 pathfinder cards with role on the bottom of each card ranging from 1-3
+> Image of 3 pathfinder cards with a role on the bottom of each card ranging from 1-3
 
 *If Beravor chooses the Pathfinder role, her skill deck consists of basic 1-6, Beravor 1-5, Pathfinder 1-3, and one random weakness.*
 
@@ -138,7 +138,7 @@ A hero can interrupt their two moves to perform the second action of their turn.
 
 Each journey map tile has a square box where an exploration token may be placed, as indicated by the app. A map tile that has an exploration token on it is **UNEXPLORED.** When a hero moves into any space on an unexplored tile, they must immediately explore the tile.
 
-> Image of a circled star icon representing a exploration token placed in a map tile.
+> Image of a circled star icon representing an exploration token placed in a map tile.
 
 To explore a tile, the hero selects the appropriate exploration token in the app and then selects the "Confirm" button. The app instructs the hero to discard the exploration token and gain one inspiration. To do this, the hero can simply flip the exploration token and place it on their hero card. Inspiration is described later.
 
@@ -402,32 +402,32 @@ If an enemy is not defeated, it regains all of its armor and sorcery, and it may
 
 ### Attack Test Example (page 11)
 
-> Image of Aragorn attacking a group of wights figures on the map tile
+> Image of Aragorn attacking a group of wights figures in his space on the map tile
 
-> The Fate-Bender card shows a test of either might or wisdom.
+> Image of a Fate-Bender card showing a test of either might or wisdom.
 
 1. Aragorn attacks a group of Wights in his space with his Fate-Bender. Fate-Bender tests either might (icon of a horn) or wisdom (icon of a tree); Aragorn's wisdom is higher, so he chooses wisdom.
 
->The wisdom level of the hero Aragorn displayed.
+> Image of the level "4" Aragorn's wisdom displayed
 
-> Four cards of Aragorn revealed from his deck
+> Image of four revealed cards arranged horizontally from Aragorn's deck. A large white oval encircles the success icon on the first card, the two fate icons on the second and third cards and the last success icon on the fourth card, highlighting the icons at the top of each revealed card
 
 2. Aragorn's wisdom is "4," so he reveals four cards from his deck. The cards he reveals have two successes (a sunburst symbol) and two fate (leaf icon).
 
-> image of the spending of 2 success tokens and a 5 hit count from Aragorn
+> Image of the spending of 2 success tokens and a 5 hit count from Aragorn to resolve Fate-Bender's third effect
 
 > Image showing the inputs of 5 hits in the app
 
 3. Aragorn spends two success (a sunburst symbol) to resolve Fate-Bender's third effect,
 inputting five hits into the app
 
-> Image of conversion of an inspiration to give 2 hits and also a smite
+> Image of Aragon spending (a sunset symbol) on Fate-Bender's first effect to get two hits and to also select "smite"
 
-> The Fate-Bender adds two hits and selects "smite".
+> Image of the Fate-Bender adding two hits and selecting "smite"
 
 4. Aragorn spends an inspiration to convert one fate (leaf icon) to success(a sunburst symbol). He spends that success (a sunburst symbol)on Fate-Bender's first effect, adding two more hits and selecting "Smite." Then, he selects "Apply."
 
-> An image showing the effect of the hit of Aragorn on the Wights
+> An image showing the effect of the hit of Aragorn on the Wights's health
 
 5. The app applies seven hits directly to the Wights' health (smite ignores their sorcery). One Wight is defeated, so Aragorn removes a Wight from his space and gains an inspiration token. Then, he discards the cards he revealed to his discard pile.
 
@@ -437,7 +437,7 @@ inputting five hits into the app
 
 ## DAMAGE AND FEAR (page 12)
 
-Middle-earth is rife with dangerous enemies and other threats that imperil the intrepid heroes. As a result of these threats, the heroes may suffer damage (icon of 3 claw scratches of a cat) and fear (icon of a devil-like face with two curved horns). If a hero suffers too much damage or fear, they are on the verge of being defeated and must perform a last- stand test to determine if they succumb to the threats of Middle-earth or rally and continue their adventure.
+Middle-earth is rife with dangerous enemies and other threats that imperil the intrepid heroes. As a result of these threats, the heroes may suffer damage (icon of 3 claw scratches) and fear (icon of a devil-like face with two curved horns). If a hero suffers too much damage or fear, they are on the verge of being defeated and must perform a last- stand test to determine if they succumb to the threats of Middle-earth or rally and continue their adventure.
 
 When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it **faceup** in their play area. Then, they resolve the card's effect. Many of these cards instruct the hero to flip the card facedown or discard it. If a hero is instructed to keep the card faceup, it has a persistent effect that continues to apply to that hero. If a hero suffers multiple damage or fear at the same time, they reveal each card **one at a time**, resolving the card completely before revealing another card.
 
@@ -451,11 +451,11 @@ A hero may be granted a chance to negate damage or fear before they suffer it. W
 
 Through their trials and ordeals, the heroes may be brought to the limits of what their bodies and spirits can endure. Each hero has damage and fear limits on their hero card:
 
->  image of stats showing agility(3), spirit(3), wit(2), fear(5), and damage(5).
+> Image of stats showing agility(3), spirit(3), wit(2), inspiration token(4), fear(5), and damage(5) and an arrow pointing to the stats of the fear and damage indicating their limits
 
 *Damage and Fear Limits*
 
-After a hero has suffered damage or fear, if they have a number of damage (faceup or facedown) equal to or greater than their damage limit or a number of fear (faceup or facedown) equal to or greater than their fear limit, that hero must perform a last stand. To perform a last stand, the hero selects the party button in the lower-left corner of the app. Then, they select the hero's portrait and the limit (damage or fear) that was reached. Then, they follow the app's instructions.
+After a hero has suffered damage or fear, if they have a number of damage (faceup or facedown) equal to or greater than their damage limit or a number of fear (faceup or facedown) equal to or greater than their fear limit, that hero must perform a **LAST STAND**. To perform a last stand, the hero selects the party button in the lower-left corner of the app. Then, they select the hero's portrait and the limit (damage or fear) that was reached. Then, they follow the app's instructions.
 
 > An image of a party button
 
@@ -467,15 +467,15 @@ A last stand includes a test—if the hero fails the test, they are **defeated**
 
 ### SUFFERING DAMAGE EXAMPLE (page 12)
 
-> A picture of three damages and 1 fear that Elena was attacked by goblins for
+> A picture of three damages and 1 fear indicating that Elena was attacked by a Goblins
 
-1. A group of Goblins attacks Elena for three damage (icon of 3 claw scratches of a cat) and one fear (icon of a devil-like face with two curved horns). For this attack, a might (icon of a horn) test negates damage and fear.
+1. A group of Goblins attacks Elena for three damage (icon of 3 claw scratches) and one fear (icon of a devil-like face with two curved horns). For this attack, a might (icon of a horn) test negates damage and fear.
 
-> 2 cards of Elena revealed that show 2 success token icons which show she can prevent a total of two damages
+> Image of Elena revealing two of her cards from her deck. A large white oval encircles the success icons at the upper-left of both cards
 
 2. Elena's might is "2," so she reveals two cards from her deck. She has two successes (a sunburst symbol), so she can prevent a total of two damage or fear. She chooses to prevent one damage and one fear, so only two damage remains.
 
-> A feeble damage card and Elena's hero card picture shown
+> Image of a Feeble damage card and Elena's hero card picture with arrows pointing to a facedown fear card and a facedown Feeble damage card
 
 3. The first damage card she reveals is "Feeble," which instructs her to suffer a facedown fear card and flip "Feeble" facedown.
 
@@ -493,15 +493,15 @@ This section explains additional details related to enemy groups.
 
 #### READIED AND EXHAUSTED (page 13)
 
-An enemy group is either readied or exhausted. Enemies become exhausted either after the app activates them or after they attack. When an enemy is exhausted, its portrait in the app is darkened.
+An enemy group is either **READIED** or **EXHAUSTED**. Enemies become exhausted either after the app activates them or after they attack. When an enemy is exhausted, its portrait in the app is darkened.
 
 Exhausted enemies cannot activate, counterattack, or be provoked. The app readies all enemy groups at the end of the shadow phase.
 
-> An image of a warrior or hero with a bright background
+> Image of an enemy with a bright portrait
 
 *Readied Group*
 
-> an image of a warrior or hero with a darkened background
+> Image of an enemy with a darkened portrait
 
 *Exhausted Group*
 
@@ -515,7 +515,7 @@ While a hero is in the same space as a readied enemy group, certain actions will
 
 To provoke an enemy, a hero selects the provoke button to the left of the enemy portraits in the app. Then, they select the portrait of the enemy that is provoked. That enemy immediately resolves an enemy attack against the hero as instructed by the app. After the enemy attacks, the hero can move out of that enemy's space, or perform an interact action as intended.
 
-> image of enemy provoke button.
+> Image of an enemy provoke button.
 
 *Provoke Button*
 
@@ -533,9 +533,9 @@ When an enemy group needs to be placed on the map, the app indicates where the g
 
 Elite enemy groups are stronger than standard enemies, and they have special bonuses. An elite enemy group's portrait has a spiked frame and banner icon. When an elite enemy group is placed on the map, the heroes place the elite banner token (red background) that matches that enemy group's banner icon along with the enemy figures.
 
-> Image of a wolf portrait
+> Image of a wolf portrait indicating an elite enemy group
 
-> A black enemy banner with a red background portrait
+> A black elite enemy banner with a red background portrait
 
 *Elite Enemy Portrait and Matching Enemy Banner*
 
@@ -549,7 +549,7 @@ An elite enemy group's bonuses are listed in its enemy menu. The app automatical
 
 It is possible for there to be multiple enemy groups of the same type that are not elite. When this happens, each additional enemy group is automatically assigned an enemy banner, which is presented next to that enemy's portrait in the app. When the heroes place the duplicate enemy group on the board, they place the matching enemy banner token next to that group's figures.
 
-> An image portrait showing the first orc group  with no enemy banner and the second orc group using a blue enemy banner on the map tiles.
+> An image portrait showing the first orc group with no enemy banner and the second orc group using a blue enemy banner on the map tiles.
 
 *The first Orc group has no enemy banner. The second Orc group uses the blue enemy banner.*
 
@@ -567,11 +567,11 @@ Most skill cards contain one or more bolded keywords, such as "**Sprint 1.**" Ke
 
 #### TRAITS (page 14)
 
-Some skill cards (and item cards) contain italicized traits such as "Dwarf " and "Tactic." Traits have no inherent effects; however, other game effects may refer to cards that have traits.
+Some skill cards (and item cards) contain italicized traits such as "*Dwarf"* and "*Tactic.*" Traits have no inherent effects; however, other game effects may refer to cards that have traits.
 
 #### NEARLY (page 14)
 
-Some abilities and rules refer to **nearby** components or spaces. A component is nearby another component if they share the same space or are in spaces that are adjacent to each other. A nearby space refers to that space and all spaces adjacent to it. A component is **not** nearby itself.
+Some abilities and rules refer to **NEARBY** components or spaces. A component is nearby another component if they share the same space or are in spaces that are adjacent to each other. A nearby space refers to that space and all spaces adjacent to it. A component is **not** nearby itself.
 
 #### APPLY (page 14)
 
@@ -591,7 +591,7 @@ Each hero begins the game with one weakness card in their skill deck. Weakness c
 
 ### RESETTING SKILL DECKS (page 14)
 
-A hero must reset their skill card deck at the following times: 
+A hero must reset their skill card deck at the following times:
 
 - during the rally phase
 
@@ -611,19 +611,17 @@ Heroes may find trinkets during their adventures. Trinkets are item cards that h
 
 *Starting Number of Depletion Tokens*
 
-> A portrait of boots showing the starting number of depletion tokens and and trinket tokens
+> Image of a Trinkets "Boots" item card with an arrow pointing to a number 2 which indicates the starting number of depletion tokens
 
 *The trinket "Boots" starts with two depletion tokens.*
 
-If a hero is instructed to **deplete** a trinket, they must spend one depletion token by removing it from that trinket's card. After a trinket's last depletion token is spent, the trinket is flipped facedown and cannot be used again during that adventure. Trinkets receive their starting number of depletion tokens at the beginning of each adventure.
+If a hero is instructed to **DEPLETE** a trinket, they must spend one depletion token by removing it from that trinket's card. After a trinket's last depletion token is spent, the trinket is flipped facedown and cannot be used again during that adventure. Trinkets receive their starting number of depletion tokens at the beginning of each adventure.
 
 ### DUAL-WIELDING (page 14)
 
 A hero can attack with more than one item if those items all share the stat that is being tested. When attacking with more than one item, the hero can spend successes (a sunburst symbol) to resolve abilities on any of the chosen items. If the hero is attacking an adjacent enemy group, all of the chosen items must have the ranged (icon of a right-pointed dart with a white-shaped right-pointed arrow in it) icon.
 
-> A portrait showing a hero's sword statistics
-
-> A portrait showing a hero's war-maker statistics
+> Image of two item cards (Sword and War-maker). The image indicates that both items can be used during an attack if testing might
 
 *A hero with "Sword" and "War-Maker" can use both items during an attack if testing might (icon of a horn).*
  
@@ -639,7 +637,7 @@ During an adventure, the heroes may be rewarded with lore and experience. These 
 
 In the app, the portion of the map that is shrouded in fog indicates the locations where tiles will be placed. This informs players where the map expands so they can better set up their play area.
 
-> a graphic representation of a fog in the color of white about to cover the map tiles
+> A graphic representation of a fog in the color of white about to cover the map tiles
 
 *The fog indicates that the map will expand west of the currently placed tiles.*
 
@@ -695,7 +693,7 @@ A hero resets their deck by shuffling their discard pile with any remaining card
 
 ### ATTACK MODIFIERS (page 16)
 
-There are six modifiers that can benefit heroes during an attack: 
+There are six modifiers that can benefit heroes during an attack:
 
 - **Pierce:** This attack ignores the enemy's armor.
 
@@ -709,7 +707,7 @@ There are six modifiers that can benefit heroes during an attack:
 
 - **Stun:** This attack exhausts the enemy group. If the group is elite, it also cannot counterattack this attack.
 
-### KEYWORDS (page 16) 
+### KEYWORDS (page 16)
 
 - **Scout X:** When an effect instructs you to "Scout X," reveal X cards from the top of your skill deck. You may prepare one of those cards (place it faceup under your hero card). Then, place each of the remaining revealed cards on the top or bottom of your skill deck in any order.
 
@@ -727,15 +725,15 @@ There are six modifiers that can benefit heroes during an attack:
 
 - (a sunburst symbol) Success
 
-- (leaf icon) Fate (Each inspiration spent during a test converts 1 > leaf icon to 1 > a sunburst symbol)
+- (leaf icon) Fate (Each inspiration spent during a test converts 1 (leaf icon) to 1 (a sunburst symbol))
 
-- (icon of 3 scratch claws of a cat) Damage
+- (icon of 3 scratch claws) Damage
 
 - (Icon of devil-like face with two curved horns) Fear
 
 - (icon of a right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
 
-- (icon of a circle with a 4-side star in it ) Lore
+- (icon of a circle with a 4-side star in it) Lore
 
 - (2 right-pointed arrows icon) Interact Action
 
