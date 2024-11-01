@@ -1729,71 +1729,57 @@ Strike is a keyword that allows a hero to add hits to enemies during an attack.
 
 See "Modifiers" On Page 19
 
-## Successes
+### 95  SUCCESSES (page 25)
 
-95 Success () icons appear on the upper-left corner of skill cards, and heroes use them when they are performing tests.
+95 Success (a sunburst symbol) icons appear on the upper-left corner of skill cards, and heroes use them when they are performing tests.
 
-95.1 During a test, a hero reveals skill cards from their skill deck and calculates the number of success () icons the test produced.
+95.1 During a test, a hero reveals skill cards from their skill deck and calculates the number of success (a sunburst symbol) icons the test produced.
 
-95.2 Depending on the type of test, success () icons produced during the test are used in different ways (see "Tests" on page 25).
+95.2 Depending on the type of test, success (a sunburst symbol) icons produced during the test are used in different ways (see "Tests" on page 25).
 
-95.3 During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate () icon on their revealed skill cards to one success () icon.
+95.3 During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
 
- After a fate () icon is converted to a success () icon, the fate () icon cannot be used for any other purpose and is no longer treated as a fate () icon.
+  - After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
 
-95.4 When a skill card is prepared, any success () icons on that card
+95.4 When a skill card is prepared, any success (a sunburst icon) icons on that card
 
 have no effect and are ignored.
 
-95.5 Success () icons that a test produces that are in excess of the
+95.5 Success (a sunburst icon) icons that a test produces that are in excess of the
 
-required number of success () icons have no effect.
+required number of success (a sunburst icon) icons have no effect.
 
-96
-
-## Sunder
+### 96  SUNDER (page 25)
 
 See "Modifiers" on page 19.
 
-97
-
-## Supply
+### 97  SUPPLY (page 25)
 
 The supply refers to the collection of tokens and cards that are available for players to use during the game.
 
 97.1 The supply consists of distinct piles for each type of token as well as separate decks for weakness cards, trinket cards, title cards, and each of the three types of boon cards.
 
-98
+### 98  TABLE (TERRAIN) (page 25)
 
-## Table (Terrain)
-
-A table is a type of terrain that can be placed on the battle map.
+A table is a type of terrain that can be placed on the battle map. (image of wodden table in a wall form)
 
 98.1 During the action phase, if a hero is in a space with a table token, that hero can perform an interact action to interact with that table.
 
-98.2 When a hero interacts with a table token, they perform a spirit
+98.2 When a hero interacts with a table token, they perform a spirit (a blazing fire) test.
 
-## () Test.
+- If the test produces at least one success (a sunburst symbol) icon, the hero passes the test and gains one inspiration token and becomes emboldened.
 
- If the test produces at least one success () icon, the hero passes the test and gains one inspiration token and becomes emboldened.
-
- If the test does not produce at least one success () icon, the
-
-hero fails the test and nothing happens.
+- If the test does not produce at least one success (a sunburst symbol) icon, the hero fails the test and nothing happens.
 
 98.3 A hero can interact with a table even if they are already emboldened, have a number of inspiration tokens equal to their limit, or both.
 
- A hero that is already emboldened can still gain inspiration
+- A hero that is already emboldened can still gain inspiration tokens.
 
-## Tokens.
+- A hero that has a number of inspiration tokens equal to their limit can still become emboldened.
 
- A hero that has a number of inspiration tokens equal to their
+98.4 If a hero is in a space with an enemy, performing an interact action to interact with a table does not provoke enemy attacks.
 
-limit can still become emboldened.
-
-. If a hero is in a space with an enemy, performing an interact action to interact with a table does not provoke enemy attacks.
-
-## Terrain Cards
+### 99  TERRAIN CARDS (page 25)
 
 Each type of terrain has a corresponding terrain card.
 
@@ -1801,814 +1787,360 @@ Each type of terrain has a corresponding terrain card.
 
 99.2 After the heroes set up a battle map, they should gather each terrain card that corresponds to one of the terrain tokens on the map and place it near the play area for all players to reference.
 
- A terrain token's ability can also be referenced in the app by
-
-selecting one of the terrain tokens.
+- A terrain token's ability can also be referenced in the app by selecting one of the terrain tokens.
 
 99.3 Some terrain tokens have adventure-specific rules that are described by the app. If a terrain token has adventure-specific rules, the heroes should ignore the terrain card for that terrain token.
 
- Terrain that has adventure-specific rules is depicted with a
+- Terrain that has adventure-specific rules is depicted with a sparkle effect in the app.
 
-## Sparkle Effect In The App.
+### 100 TESTS (page 25) 
 
-100 Tests Heroes perform tests throughout the game to interact with the world and attack enemies.
+Heroes perform tests throughout the game to interact with the world and attack enemies.
 
 A test is a measure of one of a hero's stats. A hero may be instructed to perform a test of a specific stat, of one stat from a list of options, or of any stat of their choice.
 
 To perform a test, a hero resolves the following steps in order:
 
-100.1 Step 1—Reveal Cards: The hero reveals a number of cards from their skill deck equal to the value of their stat that is being tested.
+100.1 **Step 1—Reveal Cards:** The hero reveals a number of cards from their skill deck equal to the value of their stat that is being tested.
 
- To reveal a card, a hero takes the top card from their skill deck
+- To reveal a card, a hero takes the top card from their skill deck and flips it faceup, placing it in their play area.
 
-and flips it faceup, placing it in their play area.
+- A game effect can cause a hero to reveal more or fewer cards than is determined by the stat that is printed on the hero's card.
 
- A game effect can cause a hero to reveal more or fewer cards than is determined by the stat that is printed on the hero's card.
+- A hero always reveals a minimum of one while performing a test, even if the number of revealed cards is modified below one.
 
- A hero always reveals a minimum of one while performing a test, even if the number of revealed cards is modified below one.
+- If there are multiple game effects that alter the number of skill cards a hero reveals, all of these effects are calculated before any cards are revealed.
 
- If there are multiple game effects that alter the number of skill cards a hero reveals, all of these effects are calculated before any cards are revealed.
+- A game effect can increase or decrease a hero's stat. This may cause the hero to reveal more or fewer cards than the number that is printed on their hero card.
 
- A game effect can increase or decrease a hero's stat. This may cause the hero to reveal more or fewer cards than the number that is printed on their hero card.
+- A game effect can directly increase or decrease the number of skill cards a hero reveals when they are performing a test.
 
- A game effect can directly increase or decrease the number of skill cards a hero reveals when they are performing a test.
+- The text on all revealed cards is ignored. During a test, only the success (a sunburst icon) and fate (leaf icon) icons in the upper-left corner of the revealed cards are relevant.
 
- The text on all revealed cards is ignored. During a test, only the success () and fate () icons in the upper-left corner of the revealed cards are relevant.
+100.2 **Step 2—Convert Fate:** The hero may spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
 
-100.2 Step 2—Convert Fate: The hero may spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate () icon on their revealed skill cards to one success () icon.
+- Abilities that a hero can resolve when they are performing a test are resolved during this step.
 
- Abilities that a hero can resolve when they are performing a test
+- A hero can spend any number of their inspiration tokens during each test.
 
-are resolved during this step.
+- After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
 
- A hero can spend any number of their inspiration tokens
+100.3 **Step 3—Calculate Results:** The hero calculates the total number of success (a sunburst symbol) icons that the test produced and applies those successes according to the test's instructions, as follows:
 
-during each test.
+- If the test provided a hero with a stat to test followed by a number (e.g., "Test (icon of a balzing fire); 2"), the hero passes the test if the number of success (a sunburst symbol) icons the test produced meets or exceeds the number that the test provided. Otherwise, the hero fails the test.
 
- After a fate () icon is converted to a success () icon, the fate () icon cannot be used for any other purpose and is no longer treated as a fate () icon.
+  - Some tests require the hero to select a "Pass" or "Fail" button in the app and some provide instructions for the hero to follow according to the test's outcome.
 
-100.3 Step 3—Calculate Results: The hero calculates the total number of success () icons that the test produced and applies those successes according to the test's instructions, as follows:
+- If the test requires the hero to input the number of success (a sunburst symbol) icons that the test produced into the app, the hero uses the "+" and "–" buttons to increase or decrease the value until it matches the number of their success (a sunburst symbol) icons.
 
- If the test provided a hero with a stat to test followed by a number (e.g., "Test ; 2"), the hero passes the test if the number of success () icons the test produced meets or exceeds the number that the test provided. Otherwise, the hero fails the test.
+  - Many of these tests are cumulative and may require a hero to perform them multiple times. A cumulative test keeps track of the number of success (a sunburst symbol) icons that have been applied to it across multiple test attempts.
 
- Some tests require the hero to select a "Pass" or "Fail" button in the app and some provide instructions for the hero to follow according to the test's outcome.
+- If a hero is performing a test to negate damage (icon of 3 claw scratches) or fear (icon of a devil-like face with two curved horns), they suffer one fewer damage or fear for each success (a sunburst symbol) icon the test produces (see "Damage and Fear" on page 11).
 
- If the test requires the hero to input the number of success () icons that the test produced into the app, the hero uses the "+" and "–" buttons to increase or decrease the value until it matches the number of their success () icons.
+- If a hero is performing a test to attack an enemy group, they spend each success (a sunburst symbol) icon that the test produced to resolve abilities on their items that add hits or modifiers to that enemy group (see "Attacks" on page 9).
 
- Many of these tests are cumulative and may require a hero to perform them multiple times. A cumulative test keeps track of the number of success () icons that have been applied to it across multiple test attempts.
+  - Even if an attack does not add any hits or modifiers to an enemy group, the hero still selects "Apply" in the attack pane, which can cause a counterattack.
 
- If a hero is performing a test to negate damage () or fear (), they suffer one fewer damage or fear for each success () icon the test produces (see "Damage and Fear" on page 11).
-
- If a hero is performing a test to attack an enemy group, they spend each success () icon that the test produced to resolve abilities on their items that add hits or modifiers to that enemy group (see "Attacks" on page 9).
-
- Even if an attack does not add any hits or modifiers to an enemy group, the hero still selects "Apply" in the attack pane, which can cause a counterattack.
-
-100.4 After calculating the results of the test, the hero discards all skill
-
-cards that were revealed during the test.
+100.4 After calculating the results of the test, the hero discards all skill cards that were revealed during the test.
 
 100.5 If the timing of an ability uses the language "after you test," the hero resolving that ability can do so after the "Calculate Results" step of any test.
 
-101 ThreaT BAR The threat bar is displayed along the top of the app's main screen and tracks the amount of threat accumulated during the adventure.
+### 101 THREAT BAR (page 26)
 
-## 101.1 During The Threat Step Of Each Shadow Phase, The Threat Bar
+The threat bar is displayed along the top of the app's main screen and tracks the amount of threat accumulated during the adventure.
 
-## Increases By The Following Amounts:
+101.1 During The Threat Step Of Each Shadow Phase, the threat bar increases by the following amounts:
 
-##  Two For Each Hero In The Party
+- Two For Each Hero In The Party
 
- one for each threat token on the game map
+- one for each threat token on the game map
 
- one for each unexplored tile
+- one for each unexplored tile
 
-101.2 When threat reaches the end of the threat bar, the adventure ends
-
-and the heroes lose.
+101.2 When threat reaches the end of the threat bar, the adventure ends and the heroes lose.
 
 101.3 The threat bar contains one or more thresholds. During the shadow phase, a threat event is resolved for each threshold that the threat bar meets or exceeds.
 
-102 ThreaT Tokens A threat token may appear on the map and represents a threat within a space with which the heroes can interact.
+### 102 THREAT TOKENS (page 26)
+
+A threat token may appear on the map and represents a threat within a space with which the heroes can interact.
 
 102.1 By selecting a threat token in the app, a hero can read about what that specific threat token represents.
 
 102.2 If a hero is in the same space as a threat token, they can interact with that token by performing an interact action (see "Interact Action" on page 16).
 
-102.3 Any hero can select a threat token in the app at any time; however, they can only select a button that has an interact () icon if they are performing an interact action.
+102.3 Any hero can select a threat token in the app at any time; however, they can only select a button that has an interact (icon of 2 right-pointed arrows) icon if they are performing an interact action.
 
-## 102.4 During The Threat Step Of The Shadow Phase, Threat Increases By
+102.4 During The Threat Step Of The Shadow Phase, threat increases by one for each threat token that is on the game map.
 
-one for each threat token that is on the game map.
+### 103 THRESHOLDS (page 26) 
 
-103 Thresholds See "Shadow Phase" on page 23 and "Threat Bar" on page 26.
+See "Shadow Phase" on page 23 and "Threat Bar" on page 26.
 
-## 104 Tiers See "Item Cards" On Page 17.
+### 104 TIERS (page 26)
 
-105 Title caRds Title cards are a type of skill card that heroes can gain during an adventure.
+See "Item Cards" On Page 17.
+
+### 105 TITLE CARDS (page 26) 
+
+Title cards are a type of skill card that heroes can gain during an adventure.
 
 105.1 When a hero gains a title card, the app specifies the name of the title that the hero gains. Then, the hero gathers the specified title card and prepares it immediately.
 
- The app requires the hero who gained the title to be selected in the app—this allows the app to place that title card into that hero's inventory.
+- The app requires the hero who gained the title to be selected in the app—this allows the app to place that title card into that hero's inventory.
 
-105.2 After a hero gains a title card, it is part of that hero's inventory for
+105.2 After a hero gains a title card, it is part of that hero's inventory for the duration of the campaign.
 
-## The Duration Of The Campaign.
-
-105.3 Like all skill cards, a hero can only resolve a title card's ability
-
-while it is prepared.
+105.3 Like all skill cards, a hero can only resolve a title card's ability while it is prepared.
 
 105.4 Abilities on many title skill cards instruct the hero to remove that skill card from the adventure; that title card should be set aside and cannot be used again until the next adventure. That title card will be shuffled into the hero's skill deck during setup of the next adventure.
 
-106 Token Token is the term used not only for the cardboard components that are placed on the map or on hero cards but also for the digital representation of those components in the app.
+### 106 TOKEN (page 26)
 
-106.1 Every token that is displayed in the app corresponds to a physical
+Token is the term used not only for the cardboard components that are placed on the map or on hero cards but also for the digital representation of those components in the app.
 
-## Version Of That Token On The Game Map.
+106.1 Every token that is displayed in the app corresponds to a physical version of that token on the game map.
 
- If there is an exploration, search, person, threat, terrain, or darkness token displayed in the app, there must be a corresponding physical token of the same type and in the same location on the game map.
+- If there is an exploration, search, person, threat, terrain, or darkness token displayed in the app, there must be a corresponding physical token of the same type and in the same location on the game map.
 
-. If a rule or game effect instructs a player to select a token in the app, that player should tap on the image of the specified token.
+106.2 If a rule or game effect instructs a player to select a token in the app, that player should tap on the image of the specified token.
 
-107 TRAits A card may have one or more traits that are presented in italics at the top of that card's text box.
+### 107 TRAITS (page 27) 
+
+A card may have one or more traits that are presented in italics at the top of that card's text box.
 
 107.1 Traits are always presented in an italic typeface.
 
-107.2 A trait has no inherent effects, but some game effects may refer
+107.2 A trait has no inherent effects, but some game effects may refer to a card's trait.
 
-to a card's trait.
+### 108 TRAVEL ACTION (page 27) 
 
-108 TRAvel Action The travel action allows a hero to move around the game map.
+The travel action allows a hero to move around the game map.
 
-108.1 When a hero performs a travel action, they can move up to
-
-## Two Times.
+108.1 When a hero performs a travel action, they can move up to two times.
 
 108.2 If the first action during a hero's turn is a travel action, they can perform their second action and resolve other game effects between each of their moves.
 
 108.3 For the rules for resolving a move, see "Movement" on page 19.
 
-109 TRinkets Trinkets () are a type of item card that heroes can gain during an adventure.
+### 109 TRINKETS (page 27)
+
+Trinkets (sack of coins icon) are a type of item card that heroes can gain during an adventure.
 
 109.1 When a hero gains a trinket, the app specifies the name of the trinket that the hero gains. Then, the hero takes the specified trinket from the trinket deck and equips it.
 
- During an adventure, if a hero already has a trinket equipped,
+- During an adventure, if a hero already has a trinket equipped, they can still equip any new trinkets they gain.
 
-they can still equip any new trinkets they gain.
+109.2 During the adventure in which a trinket is gained, only the specific hero who gained that trinket can equip it.
 
-109.2 During the adventure in which a trinket is gained, only the
-
-specific hero who gained that trinket can equip it.
-
- After each adventure, all equipped trinkets are returned to the
-
-## Party'S Inventory.
+- After each adventure, all equipped trinkets are returned to the party'S inventory.
 
 109.3 When a hero equips a trinket, they place a number of depletion tokens on that trinket equal to the number in the lower-left corner of the card ("Depletion Token" on page 12).
 
-109.4 Unlike other items, trinkets belong to the entire party instead of
+109.4 Unlike other items, trinkets belong to the entire party instead of individual heroes.
 
-## Individual Heroes.
+- During setup before each adventure, each hero can equip one trinket from among all the trinkets that the heroes have gained.
 
- During setup before each adventure, each hero can equip one trinket from among all the trinkets that the heroes have gained.
+- The item menu in the app tracks all the trinkets that the heroes have gained during a campaign.
 
- The item menu in the app tracks all the trinkets that the heroes
+109.5 If a game effect instructs a hero to deplete a trinket, they remove one depletion token from that trinket.
 
-have gained during a campaign.
+- When a trinket has no remaining depletion tokens, it cannot be used; the hero flips the trinket facedown as a reminder that it has been fully depleted.
 
-109.5 If a game effect instructs a hero to deplete a trinket, they remove
+- While a trinket is facedown, the hero cannot resolve any of its abilities, even passive abilities.
 
-## One Depletion Token From That Trinket.
+109.6 A game effect can allow a hero to place a depletion token on a trinket.
 
- When a trinket has no remaining depletion tokens, it cannot be used; the hero flips the trinket facedown as a reminder that it has been fully depleted.
+- A hero can have a number of depletion tokens on a trinket that exceeds the number in the lower-left corner of that trinket's card.
 
- While a trinket is facedown, the hero cannot resolve any of
+- A hero can place a depletion token on a facedown trinket. When this happens, the trinket is flipped faceup and its abilities are available for the hero to resolve.
 
-## Its Abilities, Even Passive Abilities.
+109.7 Each trinket describes when it can be used and how its effect is resolved.
 
-109.6 A game effect can allow a hero to place a depletion token on
+- Most trinket abilities require that the trinket be depleted for its effect to be resolved.
 
-## A Trinket.
+### 110 UPGRADING ITEMS (page 27)
 
- A hero can have a number of depletion tokens on a trinket that exceeds the number in the lower-left corner of that trinket's card.
+See "Lore" On Page 18.
 
- A hero can place a depletion token on a facedown trinket. When this happens, the trinket is flipped faceup and its abilities are available for the hero to resolve.
+### 111 WALL (TERRAIN) (page 27)
 
-109.7 Each trinket describes when it can be used and how its effect
-
-is resolved.
-
- Most trinket abilities require that the trinket be depleted for its
-
-effect to be resolved.
-
-## 110 Upgrading Items See "Lore" On Page 18.
-
-111 wall (TerRAin) A wall is a terrain token that can be placed over a border on a battle map.
+A wall is a terrain token that can be placed over a border on a battle map. ( image of a wall built with stones)
 
 111.1 Spaces on opposite sides of a wall token are not adjacent—a hero or enemy cannot move across a border that contains a wall token.
 
- If wall tokens create diagonal spaces, those spaces are
-
-## Not Adjacent.
+- If wall tokens create diagonal spaces, those spaces are not adjacent.
 
 111.2 If an ability, such as "Keen Eyes," allows for a hero or enemy to resolve a ranged attack that is up to two or more spaces away on a battle map, it may be possible for a hero or enemy to resolve a ranged attack against a target that is on the opposite side of a wall token.
 
-112 weaknesses A weakness is a skill card that has no inherent game effect. It is designed to clutter a hero's skill deck and to provide no useful icons during a test.
+### 112 WEAKNESSES (page 27) 
 
-112.1 During setup, each hero adds one random weakness card from the
+A weakness is a skill card that has no inherent game effect. It is designed to clutter a hero's skill deck and to provide no useful icons during a test.
 
-## Weakness Deck To Their Skill Deck.
+112.1 During setup, each hero adds one random weakness card from the weakness deck to their skill deck.
 
-112.2 It is possible for a hero to gain additional weaknesses during
+112.2 It is possible for a hero to gain additional weaknesses during an adventure.
 
-## An Adventure.
+- Each weakness is taken from the top of the weakness deck.
 
- Each weakness is taken from the top of the weakness deck.
-
-112.3 All of a hero's weakness cards are removed from their skill deck
-
-## Between Adventures.
+112.3 All of a hero's weakness cards are removed from their skill deck between adventures.
 
 112.4 Weakness cards can be prepared like other skill cards, but they have no effect while they are prepared. A prepared weakness counts as one of a hero's four prepared cards.
 
-113 winning An AdventURe or campaign See "Ending an Adventure or Campaign" on page 13.
+### 113 WINNING AN ADVENTURE OR CAMPAIGN (page 27)
 
-## Appendix: App Screen Anatomies
+See "Ending an Adventure or Campaign" on page 13.
 
-## In-Game Interface
+## APPENDIX: APP SCREEN ANATOMIES (page 28)
+
+### IN-GAME INTERFACE (page 28)
 
 During the game, players will primarily interact with the in-game user interface.
 
-1. Map: The majority of the screen is the map. As players work toward their objective, more map tiles and the tokens on them will be displayed in the central area of the screen. Only the tokens that players interact with via the app are displayed on the map. 2. Threat Bar: The threat bar displays the amount of threat the players have accumulated and the next threshold at which a threat event will occur.
+> Image of an in-game interface displayed in a rectangular shpe, which shows the map tiles which has been formed so far, the threat bar, a setting menu button in the top right corner. It also has in the bottom right corner, an hourgalss in a circle, with an enemy bar just close to the hourglass, 5 enemy portraits, a hexagonbutton with a circle in the middle with a short bar which stands for a provoke button, and a circle with a greem backgroun and an image of an animal paws in the center.
 
-3. Settings Menu Button: A player can select this button to open the settings menu.
+1. **Map:** The majority of the screen is the map. As players work toward their objective, more map tiles and the tokens on them will be displayed in the central area of the screen. Only the tokens that players interact with via the app are displayed on the map. 2. Threat Bar: The threat bar displays the amount of threat the players have accumulated and the next threshold at which a threat event will occur.
 
-4. Hourglass Button: During the action phase, a player selects this button after all heroes have taken their turns to proceed to the shadow phase.
+3. **Settings Menu Button:** A player can select this button to open the settings menu.
 
-5. Enemy Bar: This bar contains a portrait for each enemy group that is present on the board.
+4. **Hourglass Button:** During the action phase, a player selects this button after all heroes have taken their turns to proceed to the shadow phase.
 
-6. Enemy Portrait: Each enemy group's portrait depicts the figure type that is used with that group, a ranged () icon if that enemy can perform ranged attacks, and a banner icon to identify which banner token to use with that group (if any). Portraits for elite enemy groups have spiked frames. Portraits for exhausted enemy groups are darkened.
+5. **Enemy Bar:** This bar contains a portrait for each enemy group that is present on the board.
 
-7. Provoke Button: When a hero must provoke an enemy group, they select the provoke button, and then they select the portrait of the enemy group they wish to provoke.
+6. **Enemy Portrait:** Each enemy group's portrait depicts the figure type that is used with that group, a ranged () icon if that enemy can perform ranged attacks, and a banner icon to identify which banner token to use with that group (if any). Portraits for elite enemy groups have spiked frames. Portraits for exhausted enemy groups are darkened.
 
-8. Party Button: A player can select this button to open the party menu. In this menu, heroes can perform last stands, view their items, and review the chronicle.
+7. **Provoke Button:** When a hero must provoke an enemy group, they select the provoke button, and then they select the portrait of the enemy group they wish to provoke.
 
-## Enemy Menu Interface
+8. **Party Button:** A player can select this button to open the party menu. In this menu, heroes can perform last stands, view their items, and review the chronicle.
+
+### ENEMY MENU INTERFACE (page 29)
 
 Selecting an enemy group's portrait opens the enemy menu for that group. Players use this menu while attacking enemies during the game.
 
-1. Selected Enemy Summary: This box displays the name of the selected enemy group. If the group is elite, it also lists the group's bonuses. The heroes can select any bonus to view its effect. 2. Modifier Buttons: Heroes select modifier buttons to add those
+> Image of a screen interface of an enemy group, which shows the enemy, with the modifier buttons of the enemy, the health bars, 5 set of enemy portraits to select from,the enemy bar,, the hit counter of the enemy and the button to applt the hits.
 
-## Modifiers To An Attack.
+1. **Selected Enemy Summary:** This box displays the name of the selected enemy group. If the group is elite, it also lists the group's bonuses. The heroes can select any bonus to view its effect. 
 
-3. Hit Counter: Heroes select the "+" or "-" buttons to add hits to or subtract hits from an enemy.
+2. **Modifier Buttons:** Heroes select modifier buttons to add those modifiers to an attack.
 
-4. Apply Button: After inputting hits and modifiers, heroes select this button to apply them to the selected enemy group.
+3. **Hit Counter:** Heroes select the "+" or "-" buttons to add hits to or subtract hits from an enemy.
 
-5. Enemy Bar: This bar contains a portrait for each enemy group that is present on the board.
+4. **Apply Button:** After inputting hits and modifiers, heroes select this button to apply them to the selected enemy group.
 
-6. Selected Portrait: The portrait for the currently selected enemy group is highlighted red.
+5. **Enemy Bar:** This bar contains a portrait for each enemy group that is present on the board.
 
-7. Health Bars: The health (red units) of each enemy figure in the group is displayed here, along with armor (gray units) and sorcery (purple units) if the enemy has armor or sorcery.
+6. **Selected Portrait:** The portrait for the currently selected enemy group is highlighted red.
 
-## Index This Index Refers To Paragraph Numbers Instead Of Page Numbers. The Number Listed After Each Entry Corresponds To A Paragraph Number In The Glossary. The Relevant Information For That Entry Can Be Found In The Paragraph Sharing That Number Or In A Bullet Point Following That Paragraph.
+7. **Health Bars:** The health (red units) of each enemy figure in the group is displayed here, along with armor (gray units) and sorcery (purple units) if the enemy has armor or sorcery.
 
-## A Abilities, 1.0
+## QUICK REFERENCE (page 32)
 
-"apply" effects, 5.2 "as an action," 3.3 costs, 1.4
-
-defined, 1.6 one cost per ability, 1.7
-
-during tests, 100.2 hero abilites, 45.3 identical to actions, 3.4 keywords, 53.0 multiple per card, 1.3 "placed" effects, 60.5 "prevent" effects, 22.12 "removing" effects, 105.4 skill cards, 69.5 timing, 1.10
-
-"after" effects, 1.11 "before" effects, 1.12 same timing, 1.15 "then" effects, 1.16 "when" effects, 1.13 "when" vs "after," 1.14
-
-## Action Phase, 2.0
-
-completed, 2.6 hero turns, 2.1
-
-## Actions, 3.0
-
-action summary, 3.1 adventures-specific, 3.2 "as an action," 3.3 attack, 12.1 identical abilities, 3.4 interact, 49.0 same action, 2.1 travel, 108.0
-
-## Activation, 4.0 Add, 5.0 Adjacency, 6.0
-
-black borders, 6.4 gray borders, 6.0 aligned, 6.4 arrows, 6.3 movement, 6.1 streams, 92.1 walls, 111.1
-
-## Adventure, 7.0
-
-## Difficulty, 26.0 Losing
-
-hero defeated, 24.3 threat, 101.2
-
-quitting, 80.2 saving and continuing, 80.0 winning
-
-## Objectives, 63.3
-
-app, 8.0
-
-collection manager, 8.2 darkness, 23.3 enemy bar, 32.0 interact action, 49.2 objectives, 63.1 saving and continuing, 80.0
-
-applying hits, 10.0
-
-## Enemy Armor, 11.2 Pierce, 59.6 Sunder, 59.6
-
-## Armor, 11.0
-
-## Enemy Armor, 11.1
-
-applying hits, 11.2 pierce, 59.6 regaining, 11.3 sunder, 59.6 hero armor, 11.6
-
-attack pane, . attacks, .
-
-## Counterattack, 21.0 Enemy Attacks, 12.6
-
-## Damage And Fear, 12.8 Text Effects, 12.9 Hero Attacks, 10.4, 10.5
-
-applying hits, 10.4, 10.5 choose item and stat, 12.2 choose target, 12.3 no hits or modifiers, 12.4 perform attack test, 12.4 process, 12.2–12.5 using multiple items, 12.2
-
-ranged, 74.3 attack tab, 10.2 B banners, 31.0
-
-## Elite Enemy, 28.4 Movement Of, 31.4 Placement Of, 31.3
-
-## Barrels, 13.0
-
-interacting with, 13.1 provoke, 13.2 test process, 13.3
-
-## Battle Map, 14.0
-
-exploration, 14.1 shooting around walls, 14.3
-
-## Bonuses, 28.1 Boon, 15.0
-
-"become" effects, 15.1 discarding, 27.3 multiple copies, 15.3 placement, 15.2
-
-## Boulder, 16.0 Bush, 17.0
-
-## Effect, 17.1 Multiple Bushes, 17.2
-
-## C Campaign, 7.1 Camp Screen
-
-purchasing skills, 36.3 selling skills, 36.3 upgrading items, 56.5
-
-## Cards
-
-boon, 15.0 damage, 22.3 fear, 22.3 hero cards, 45.0 item, 51.0 skill cards
-
-## Titles, 105.0 Weaknesses, 112.0
-
-## Chronicle, 18.0 Cleave, 59.6 Collection Manager, 20.0 Costs, 1.4
-
-defined, 1.6 one cost per ability, 1.7
-
-## Counterattack, 21.0
-
-elite enemies, 21.5, 21.6 enemy range, 21.2 exhausted enemy, 21.4 non-attacks, 21.3 stun, 21.6
-
-## D Damage, 22.0
-
-discarding damage, 22.7 facedown
-
-## Discarding, 22.7 Flipping, 22.8 Suffering, 22.3 Viewing, 22.4
-
-last stand, .
-
-## Negate, 22.9
-
-## Process, 22.11
-
-prevent, 22.12 suffer, 22.3 darkness, 23.0 app, 23.3 hero, 23.4 icons, 23.1 shadow phase, 83.2 tokens, 23.2
-
-defeated, 24.0
-
-enemy, 24.4, 24.5 hero, 24.1–24.3
-
-## Depletion Token, 25.0 Placing, 25.3 Removing, 25.2
-
-## Difficulty, 26.0 Discarding, 27.0 Dual-Wielding, 12.2
-
-E elite enemy, 28.0 banner, 28.4 bonus, 28.1 counterattack, 21.5, 21.6 presentation of, 28.3, 28.4
-
-## Enemy
-
-## Activation, 30.0 Armor, 11.1
-
-applying hits, 11.2
-
-## Attacks, 12.6
-
-damage and fear, 12.8 text effects, 12.9 defeated, 24.4, 24.5 elite, 28.0
-
-## Banner, 28.4 Bonus, 28.1 Counterattack, 21.5, 21.6 Presentation Of, 28.3, 28.4
-
-menu, 32.5 movement, 30.2–30.6 closest hero, 30.5 multiple paths, 30.4 no target, 30.6 process, 60.7 streams, 92.3 toward target, 30.3
-
-## Provoke, 71.0
-
-## Interact Action, 49.3
-
-ranged, 32.3 sorcery, 87.0
-
-applying hits, 87.2 regaining, 87.3 smite, 87.4
-
-enemy activation, 30.0 activated, 32.7 closest hero, 30.5 "move" instructions, 30.2 multiple paths, 30.4 no target, 30.6 shadow phase, 83.1 toward target, 30.3
-
-## Enemy Armor
-
-applying hits, 11.2 pierce, 59.6 sunder, 59.6 enemy attacks, 12.6
-
-## Damage And Fear, 12.8 Text Effects, 12.9
-
-## Enemy Bar, 32.0
-
-## Provoke Button, 32.4
-
-## Enemy Group, 33.0
-
-defined, 33.0, 33.1
-
-enemy menu, ., .
-
-## Attack Pane, 33.4 Enemy Movement, 60.6 Process, 60.7 Streams, 92.3
-
-## Enemy Portrait
-
-activated, 32.7 enemy menu, 32.5 exhausted, 32.6 ranged, 32.3 equipping items, 34.0
-
-## Restrictions, 34.1, 34.2
-
-exhausted, 35.0 experience, 36.0 gaining, 36.2 skill cards, 85.4 spending, 36.6 tracking, 36.1 exploration, 37.0
-
-battle maps, 14.1 process, 37.4 unexplored tile, 37.2 while moving, 37.5 exploration token, 37.1 F fate, 38.0
-
-## Converting, 38.1 Mist, 58.2 Spending, 38.2
-
-fear, 22.0
-
-darkness, 23.4 discarding fear, 22.7 facedown
-
-## Discarding, 22.7 Flipping, 22.8 Suffering, 22.3 Viewing, 22.4
-
-## Last Stand, 54.1 Negate, 22.9
-
-## Process, 22.11
-
-## Prevent, 22.12 Shadow Phase, 23.4 Suffer, 22.3
-
-## Fire Pit, 40.0
-
-## Effect, 40.1
-
-fog, 52.2
-
-## G Game Map, 41.0
-
-## Battle Map, 14.0 Journey Map, 52.0
-
-## Game Round, 79.0 Guard X, 43.0
-
-## Effect, 43.1, 43.2 Multiple Instances, 43.3
-
-## H Hero, 44.0
-
-## Actions, 2.1 Armor, 11.6 Attacks, 12.1
-
-applying hits, 10.4, 10.5 choose item and stat, 12.2 counterattack, 21.0 no hits or modifiers, 12.4 perform attack test, 12.4 process, 12.2–12.5 using multiple items, 12.2
-
-damage and fear, 22.0 damage limit, 22.2 defeated, 24.1–24.3 fear limit, 22.2 hero abilities, 45.3 in darkness, 23.4
-
-## Movement, .
-
-exploration, 37.3 pit, 67.2 "placed" effects, 60.5 process, 60.2 provoking enemies, 60.4 streams, 92.2 travel, 108.1
-
-stats, 90.0 turns, 2.1 hero armor, 11.6 hero attacks, 12.1 hero cards, 45.0
-
-damage and fear limits, 45.2 hero abilities, 45.3 inspiration limit, 48.2 stat values, 45.1 hero movement, 60.1
-
-pit, 67.2 "placed" effects, 60.5 process, 60.2 provoking enemies, 60.4 streams, 92.2 travel action, 108.1
-
-hide, 46.0
-
-already hidden, 46.3 effect, 46.1
-
-## Hits
-
-applying hits, 10.3 enemy armor, 11.2 pierce, 59.6 sunder, 59.6
-
-## Sorcery, 87.2
-
-## Smite, 87.4
-
-hourglass button, 2.6 I inspiration, 48.0 gaining, 48.1 limit, 48.2 spending, 48.3, 48.4
-
-## Interact Action, 49.0
-
-in space with enemy, 49.3 person tokens, 65.2 process, 49.1 search tokens, 82.2 terrain
-
-barrels, 13.1 statue, 91.1, 91.2 table, 98.1, 98.2 threat tokens, 102.2
-
-## Inventory, 50.0
-
-## Item Cards, 50.1 Skill Cards, 36.5 Trinkets, 109.4
-
-item cards, 51.0 armor, 11.6 defined, 51.1 lore value, 56.4 ranged, 74.4 stats, 90.3 tier, 51.6 trinkets, 109.0 type, 51.3 upgrading, 56.5–56.8
-
-## J Journey Map, 52.0 Fog, 52.2
-
-## K Keywords, 53.0
-
-guard X, 43.0 hide, 46.0 multiple instances, 53.2 rest X, 77.0 scout X, 81.0 sprint X, 89.0 strike X, 93.0
-
-## L Last Stand, .
-
-## Multiple At Once, 54.3 Process, 54.2–54.4 Trigger, 54.1
-
-## Lethal, 59.6 Lore, 56.0
-
-## Gaining, 56.1 Tracking, 56.2
-
-losing
-
-hero defeated, 24.3 threat, 101.2
-
-M map, 41.0
-
-## Battle Map, 14.0 Journey Map, 52.0
-
-mist, 58.0
-
-effect, 58.1, 58.2
-
-## Modifiers, 59.0 List, 59.6 Multiple Instances, 59.5 Multiple Modifiers, 59.2
-
-## Movement, 60.0 Enemy, 60.6
-
-## Process, 60.7 Streams, 92.3
-
-hero, 60.1
-
-exploration, 37.3 "placed" effects, 60.5 process, 60.2 provoking enemies, 60.4 streams, 92.2 travel action, 108.1
-
-## N Nearby, 61.0 Negate, 22.9
-
-## Process, 22.11
-
-## O Objectives, 63.0
-
-## Completing, 63.3 Tracking, 63.1, 63.2 One-Player Game, 84.0
-
-## P Party, 64.0 Person Tokens, 65.0
-
-## Interact Action, 49.1
-
-## Pierce, 59.6
-
-## Fire Pit, 40.1
-
-pit, 67.0
-
-effect, 67.1 "placed" effects, 67.3
-
-## Play Area, 68.0 Prepare, 69.0
-
-during setup, 69.3 limit, 69.4 placement, 69.1 scout X, 69.2 weakness cards, 112.4
-
-## Prepared Cards Fate, 38.3 Prevent, 22.12 Provoke, 71.0
-
-barrels, 13.2 button location, 32.4 hero movement, 71.2 interact action, 49.3 process, 71.1 statue, 91.3 table, 98.4
-
-purchasing skill cards, 36.3
-
-## R Rally Phase, 73.0
-
-process, ., . reset, . scout, .
-
-range, 74.0–74.2 ranged attack, 74.3 streams, 92.4 walls, 111.2
-
-## Reset, 76.0 Rest X, 77.0
-
-## Effect, 77.1 Multiple, 77.2
-
-## Roles, 78.0
-
-changing roles, 78.4 gaining experience, 78.7 skill cards, 78.2
-
-## Round, 79.0
-
-## Action Phase, 2.0 Rally Phase, 73.0 Shadow Phase, 83.0
-
-S saving and continuing, 80.0 scout X, 81.0
-
-## Process, 81.1 Search Token, 82.0
-
-interact action, 49.1 selling skill cards, 36.3 setup, page 5 shadow phase, 83.0 darkness, 83.2 enemy activation, 83.1 process, 83.1–83.3 readied enemies, 35.6 threat, 83.3
-
-## Single-Player Game, 84.0 Skill Cards, 85.0
-
-deck composition, 85.1 discarding, 27.2 experience, 85.4 inventory, 36.5 modifying deck, 78.4–78.6 out of cards, 76.1 prepare, 69.0
-
-limit, 69.4 purchasing, 36.6 reset, 76.0 role, 78.2 spending, 36.7 success icons, 95.0 titles, 105.0 weaknesses, 112.0
-
-## Smite, 59.6
-
-## Fire Pit, 40.1 Solo Game, 84.0 Sorcery, 87.0
-
-applying hits, 87.2 regaining, 87.3 smite, 87.4
-
-## Spend, 88.0
-
-## Experience, 88.2 Fate Icons, 88.4 Inspiration, 88.1 Success Icons, 88.3
-
-## Sprint X, 89.0
-
-## Between Moves, 89.2 Effect, 89.1
-
-## Stats, 90.0 Statue, 91.0
-
-## Effect, 91.2 Process, 91.1, 91.2 Provoke, 91.3
-
-## Streams, 92.0
-
-## Enemy Movement, 92.3 Hero Movement, 92.2
-
-## Strike X, 93.0
-
-## Effect, 93.1
-
-## Stun, 59.6 Success, 95.0 Sunder, 59.6 Supply, 97.0
-
-## T Table, .
-
-already emboldened, 98.3 effect, 98.2 max inspiration, 98.3 process, 98.1, 98.2
-
-## Terrain
-
-barrels, 13.0 boulder, 16.0 bush, 17.0 fire pit, 40.0 mist, 58.0 pit, 67.0 statue, 91.0 stream, 92.0 table, 98.0 wall, 111.0 terrain cards, 99.0 setup, 99.2
-
-tests, 100.0
-
-calculate results, 100.3 convert fate, 100.2 process, 100.1–100.3 reveal cards, 100.1 spending inspiration, 48.3, 48.4
-
-## Threat, 101.0
-
-## Increase Causes, 101.1 Shadow Phase, 83.3 Threat Event, 101.3 Thresholds, 101.3
-
-## Threat Event, 101.3 Threat Token, 102.0
-
-## Interact Action, 49.1
-
-## Thresholds, 101.3 Timing, 1.10
-
-"after" effects, 1.11 "before" effects, 1.12 same timing, 1.15 "then" effects, 1.16 "when" effects, 1.13 "when" vs. "after," 1.14
-
-## Title Cards, 105.0
-
-gaining, 105.1, 105.2 "removing" effects, 105.4
-
-## Tokens, 106.0
-
-darkness, 23.2 depletion, 25.0 discarding, 27.3 exploration, 37.1 inspiration, 48.0 person, 65.0 search, 82.0 threat, 102.0
-
-## Traits, 107.0 Travel Action, 108.0 Trinkets, 109.0
-
-depleting, 109.5 equipping, 109.2, 109.3 gaining, 109.1, 109.2 inventory, 109.4 placing depletion, 109.6
-
-## Turn
-
-## Actions, 2.1
-
-## U Unexplored Tile, 37.2 Upgrading Items, 56.5
-
-## W Walls, 111.0
-
-adjacency, 111.1 shooting around walls, 111.2
-
-weaknesses, 112.0 gaining, 112.2 preparing, 112.4 removed, 112.3
-
-winning
-
-objectives, .
-
-## Quick Reference
-
-## Round Structure
+### ROUND STRUCTURE (page 32)
 
 Each game round consists of the following three phases:
 
-1. Action Phase: Each hero takes a turn by performing two actions. 2. Shadow Phase: Enemies activate, darkness is resolved (if necessary), and threat increases—threat events are activated if threat reaches a threshold.
+1. **Action Phase:** Each hero takes a turn by performing two actions. 
 
-3. Rally Phase: Each hero resets their skill deck and then scouts two cards.
+2. **Shadow Phase:** Enemies activate, darkness is resolved (if necessary), and threat increases—threat events are activated if threat reaches a threshold.
 
-Actions During a hero's turn, they can perform two actions. A hero can perform the same action twice or two different actions.
+3. **Rally Phase:** Each hero resets their skill deck and then scouts two cards.
 
- Travel: Move up to two times. A hero can perform their second
+### ACTIONS (page 32)
 
-## Action Between Their First And Second Movement.
+During a hero's turn, they can perform two actions. A hero can perform the same action twice or two different actions.
 
- Attack: Attack an enemy in your space. If you have a ranged
+- **Travel:** Move up to two times. A hero can perform their second action between their first and second movement.
 
-weapon, you can attack a nearby enemy.
+- **Attack:** Attack an enemy in your space. If you have a ranged weapon, you can attack a nearby enemy.
 
-##  Interact: Interact With A Token In Your Space.
+- **Interact:** Interact With A Token In Your Space.
 
-ResetTing skill decks A hero must reset their deck at the following times:
+### RESETTING SKILL DECKS (page 32) 
 
-##  During The Rally Phase
+A hero must reset their deck at the following times:
 
- when there are no cards remaining in their deck
+- During The Rally Phase
 
- when an effect instructs them to do so
+- when there are no cards remaining in their deck
+
+- when an effect instructs them to do so
 
 A hero resets their deck by shuffling their discard pile with any remaining cards from their deck and placing the newly shuffled deck facedown. Prepared cards are not shuffled into the deck.
 
-freqUently overlooked RUles
+### FREQUENTLY OVERLOOKED RULES (page 32)
 
- When instructed to move and attack, if an enemy cannot get in range of any target, it ignores that entire instruction (including movement). The "No Target" button is selected and the enemy receives a new instruction.
+- When instructed to move and attack, if an enemy cannot get in range of any target, it ignores that entire instruction (including movement). The "No Target" button is selected and the enemy receives a new instruction.
 
- A readied enemy is provoked when a hero moves out of its space
+- A readied enemy is provoked when a hero moves out of its space or when a hero interacts with a token in its space.
 
-or when a hero interacts with a token in its space.
+- A component is nearby another component if they are in the same space or adjacent spaces.
 
- A component is nearby another component if they are in the
+- A hero can have a maximum of four prepared cards at a time.
 
-## Same Space Or Adjacent Spaces.
-
- A hero can have a maximum of four prepared cards at a time.
-
-## Attack Modifiers
+### ATTACK MODIFIERS (page 32)
 
 There are six modifiers that can benefit heroes during an attack:
 
- Pierce: This attack ignores the enemy's armor.
+- **Pierce:** This attack ignores the enemy's armor.
 
- Smite: This attack ignores the enemy's sorcery.
+- **Smite:** This attack ignores the enemy's sorcery.
 
- Sunder: This attack permanently reduces the enemy's armor by
+- **Sunder:** This attack permanently reduces the enemy's armor by one (before hits are applied).
 
-one (before hits are applied).
+- **Cleave:** Each enemy in the group suffers the full number of hits.
 
- Cleave: Each enemy in the group suffers the full number of hits.
+- **Lethal:** If this attack reduces the enemy's current health by at least half, the enemy is defeated.
 
- Lethal: If this attack reduces the enemy's current health by at least
+- **Stun:** This attack exhausts the enemy group. If the group is elite, it also cannot counterattack this attack.
 
-half, the enemy is defeated.
+### KEYWORDS (page 32)
 
- Stun: This attack exhausts the enemy group. If the group is elite,
+- **Scout X:** When an effect instructs you to "Scout X," reveal X cards from the top of your skill deck. You may prepare one of those cards (place it faceup under your hero card). Then, place each of the remaining revealed cards on the top or bottom of your skill deck in any order.
 
-it also cannot counterattack this attack.
+- **Strike X:** During your attack test, you may discard a card that has the "Strike X" keyword to add X hits to the attack.
 
-## Keywords
+- **Guard X:** When you or a hero in your space would suffer damage or fear, you may discard a card that has the "Guard X" keyword to prevent any combination of X damage and fear.
 
- Scout X: When an effect instructs you to "Scout X," reveal X cards from the top of your skill deck. You may prepare one of those cards (place it faceup under your hero card). Then, place each of the remaining revealed cards on the top or bottom of your skill deck in any order.
+- **Sprint X:** During your turn, you can discard a card that has the "Sprint X" keyword to move X additional spaces. You can perform actions between each movement.
 
- Strike X: During your attack test, you may discard a card that
+- **Rest X:** At the end of your turn, you can discard a card that has the "Rest X" keyword to discard any combination of X of your facedown damage or fear cards.
 
-has the "Strike X" keyword to add X hits to the attack.
+- **Hide:** After performing a test, you can discard a card that has the "Hide" keyword to gain a "Hidden" boon card.
 
- Guard X: When you or a hero in your space would suffer damage or fear, you may discard a card that has the "Guard X" keyword to prevent any combination of X damage and fear.
+### ICONS (page 32)
 
- Sprint X: During your turn, you can discard a card that has the "Sprint X" keyword to move X additional spaces. You can perform actions between each movement.
+- (a sunburst symbol) Success
 
- Rest X: At the end of your turn, you can discard a card that has the "Rest X" keyword to discard any combination of X of your facedown damage or fear cards.
+- (leaf icon) Fate (Each inspiration spent during a test converts 1 (leaf icon) to 1 (a sunburst symbol))
 
- Hide: After performing a test, you can discard a card that has the
+- (icon of 3 claw scratches) Damage
 
-"Hide" keyword to gain a "Hidden" boon card.
+- (Icon of a devil-like face with two curved horns) Fear
 
-## Icons
+- (icon of a right-pointed dart with a white shape right pointed arrow in it) Ranged (Can attack a target in an adjacent space)
 
-##  Success
+- (icon of a circle with a 4-side star in it) Lore
 
- Fate (Each inspiration spent during a test converts 1  to 1 )
+- (2 right-pointed arrows icon) Interact Action
 
-##  Damage
+##### HERO STATS (page 32)
 
-##  Fear
+- (icon of a 3-pointed spiral) Agility
 
- Ranged (Can attack a target in an adjacent space)
+- (icon of a blazing fire) Spirit
 
-##  Lore
+- (speed motion icon) Wit
 
-##  Interact Action
+- (icon of a horn) Might
 
-## Hero Stats
+- (icon of a tree) Wisdom
 
-##  Agility
+##### ITEMS (page 32)
 
-##  Spirit
+- (sack of coins icon) Trinket
 
-##  Wit
+- (icon of left hand raised) One-Handed Item
 
-##  Might
+- (icon of knight armor) Armor
 
-##  Wisdom
-
-## Items
-
-##  Trinket
-
-##  One-Handed Item
-
-##  Armor
-
-##  Two-Handed Item
+- (icon of left and right hands raised together ) Two-Handed Item
