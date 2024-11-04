@@ -843,7 +843,7 @@ An enemy group is represented on the game map by one or more plastic figures and
 
 Before starting a campaign, each hero selects their starting items and equips them. These items—or upgraded versions of these items—will remain equipped for the duration of the campaign.
 
-34.1 At the start of an adventure, a hero can have one armor (Icon of Knight armor) card, a number of item cards that have a total of two or fewer hand icons (two (icon of left hand raised) items or one (icon of left and right hands raised together) item), and one trinket (sack of coins icon) equipped.
+34.1 At the start of an adventure, a hero can have one armor (Icon of hero armor) card, a number of item cards that have a total of two or fewer hand icons (two (icon of left hand raised) items or one (icon of left and right hands raised together) item), and one trinket (sack of coins icon) equipped.
 
 34.2 A hero is allowed to equip multiple trinkets if they gain one or more trinkets during an adventure.
 
@@ -973,11 +973,11 @@ The game map is the general term for the physical components that are representi
 
 41.3 If rule or game effect refers to the "game map" or the "map," it is generically referring to all maps—both the journey map and battle map.
 
-### 42  GAME ROUND (page 15) 
+### 42  GAME ROUND (page 15)
 
 See "Round" On Page 22.
 
-### 43  GUARD X (KEYWORD) (page 16) 
+### 43  GUARD X (KEYWORD) (page 16)
 
 Guard is a keyword that allows a hero to prevent damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns).
 
@@ -995,7 +995,7 @@ Guard is a keyword that allows a hero to prevent damage (icon of 3 scratch claws
 
 - If multiple heroes suffer damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) while they are in the same space, a single ability that has the "Guard X" keyword can only prevent the damage and fear suffered by one of those heroes.
 
-### 44  HERO (page 16) 
+### 44  HERO (page 16)
 
 Each player controls a hero of Middle-earth.
 
@@ -1109,7 +1109,7 @@ Item cards represent the weapons, armor, trinkets, instruments, and other equipm
 
 51.3 Each item type is represented by one of the following icons:
 
-- (icon of knight armor) Armor
+- (icon of hero armor) Armor
 
 - (icon of left hand raised) One-Handed
 
@@ -1117,7 +1117,7 @@ Item cards represent the weapons, armor, trinkets, instruments, and other equipm
 
 - (sack of coins icon) Trinket
 
-51.4 A hero can equip up to one armor (icon of knight armor) card, a number of item cards that have a total of two or fewer hand icons (two (icon of left hand raised ) items or one (icon of both right and left hands raised together) item), and one trinket (sack of coins icon).
+51.4 A hero can equip up to one armor (icon of hero armor) card, a number of item cards that have a total of two or fewer hand icons (two (icon of left hand raised ) items or one (icon of both right and left hands raised together) item), and one trinket (sack of coins icon).
 
 - A hero is allowed to equip multiple trinkets if they gain one or more trinkets during an adventure.
 
@@ -1177,17 +1177,17 @@ A last stand is a test that determines whether or not a hero who has exceeded th
 
 - If the last stand was triggered because the number of damage cards a hero has is equal to or greater than their damage limit, they must perform a damage test. If the last stand was triggered because the number of fear cards a hero has is equal to or greater than their fear limit, they must perform a fear test.
 
-- If a hero has a number of damage cards equal to or greater than their damage limit and a number of fear cards equal to or greater than their fear limit, that hero must perform two successive last stands—one for damage (icon of 3 claw scratches) and one for fear (icon of devil-like face with two curved horns). The hero can choose the order in which they perform these last stands.
+- If a hero has a number of damage cards equal to or greater than their damage limit **and** a number of fear cards equal to or greater than their fear limit, that hero must perform two successive last stands—one for damage (icon of 3 claw scratches) and one for fear (icon of devil-like face with two curved horns). The hero can choose the order in which they perform these last stands.
 
 54.4 After resolving the test for the last stand, the app provides the hero with additional instructions.
 
-### 55  LETHAL (page 18) 
+### 55  LETHAL (page 18)
 
 See "Modifiers" On Page 19.
 
 ### 56  LORE (page 18)
 
-56 Lore (icon with a circle with a 4-sided star in it) is a representation of the knowledge that the heroes have obtained throughout the campaign.
+56 Lore (icon of a star in a circle) is a representation of the knowledge that the heroes have obtained throughout the campaign.
 
 56.1 The app informs the heroes when they have gained lore—this can occur during an adventure or at the end of an adventure.
 
@@ -1231,7 +1231,7 @@ Mist is a type of terrain that can be placed on the battle map.
 
 58.2 When resolving an attack that targets an enemy group that is in a space that has a mist token, during the attack test, the hero cannot convert fate (leaf icon) icons to success (a sunburst symbol) icons by spending inspiration or by resolving any other game effect that allows such a conversion.
 
-### 59  MODIFIERS (page 19) 
+### 59  MODIFIERS (page 19)
 
 There are six attack modifiers that can change how hits are applied to enemy groups.
 
@@ -1263,7 +1263,7 @@ There are six attack modifiers that can change how hits are applied to enemy gro
 
 59.7 The rules for applying modifiers can be found in the "Applying hits to enemies" section on page 8.
 
-### 60  MOVEMENT (page 19) 
+### 60  MOVEMENT (page 19)
 
 This entry contains separate sections for how to resolve hero and enemy movement.
 
@@ -1297,7 +1297,7 @@ Enemy groups move during their activation. Typically, they move toward a specifi
 
 60.9 During its activation, if an enemy group moves across a border that is covered by a stream token, that enemy group's activation ends immediately.
 
-### 61  NEARBY (page 19) 
+### 61  NEARBY (page 19)
 
 Some rules and game effects refer to nearby components or spaces.
 
@@ -1309,7 +1309,7 @@ Some rules and game effects refer to nearby components or spaces.
 
 See "Damage And Fear" On Page 11.
 
-### 63  OBJECTIVES (page 20) 
+### 63  OBJECTIVES (page 20)
 
 Each adventure provides the heroes with a series of objectives.
 
@@ -1337,7 +1337,7 @@ A person token may appear on the map and represents a person with whom the heroe
 
 65.3 Any hero can select a person token in the app at any time; however, they can only select a button that has an interact (icon of 2 right-pointed arrows) icon if they are performing an interact action.
 
-### 66  PIERCE (page 20) 
+### 66  PIERCE (page 20)
 
 See "Modifiers" On Page 19.
 
@@ -1465,9 +1465,9 @@ If a game effect instructs a hero to reset their skill deck, they shuffle their 
 
 ### 77  REST X (KEYWORD) (page 21)
 
-Rest is a keyword that allows a hero to discard facedown damage (icon of a 3 claw scratch) or fear (icon of a devil-face with two curved horns) they have already suffered.
+Rest is a keyword that allows a hero to discard **facedown** damage (icon of a 3 claw scratch) or fear (icon of a devil-face with two curved horns) they have already suffered.
 
-77.1 At the end of a hero's turn during the action phase, they can discard a card that has the "Rest X" keyword to remove an amount of facedown damage or fear cards from their play area equal to X.
+77.1 At the end of a hero's turn during the action phase, they can discard a card that has the "Rest X" keyword to remove an amount of **facedown** damage or fear cards from their play area equal to X.
 
 - A hero can discard any combination of damage (icon of a 3 claw scratch) and fear (icon of a devil-like face with two curved horns) that is equal to or less than X.
 
@@ -1521,7 +1521,7 @@ When starting a campaign, the heroes must select a save slot. The app provides p
 
 - During an adventure, the players can manually save the game in the options menu, which they can access by selecting the gear button in the upper-right corner.
 
-- Between adventures, the players can save the game by selecting the "save & quit" button in the camp screen.
+- Between adventures, the players can save the game by selecting the "Save & Quit" button in the camp screen.
 
 80.2 Players can quit the game any time during an adventure or between adventures.
 
@@ -1621,7 +1621,7 @@ Each hero has a deck of skill cards that represents their capabilities.
 
 - This value indicates how much experience (within that role) a hero must spend to purchase that skill card or how much experience a hero gains (for that role) when selling that skill card.
 
-### 86  SMITE (page 23) 
+### 86  SMITE (page 23)
 
 See "Modifiers" On Page 19.
 
@@ -1699,7 +1699,7 @@ A statue is a type of terrain that can be placed on the battle map. (image of a 
 
 91.3 If a hero is in a space with one or more enemies, performing an interact action to interact with a statue does not provoke enemy attacks.
 
-### 92  STREAM (TERRAIN) (page 24) 
+### 92  STREAM (TERRAIN) (page 24)
 
 A stream is a terrain token that can be placed over a border on a battle map.(image of a blue flowing water in an horizontal form)
 
@@ -1723,7 +1723,7 @@ Strike is a keyword that allows a hero to add hits to enemies during an attack.
 
 93.2 A hero can only discard a card to use the "Strike" keyword if that card is prepared.
 
-### 94  STUN (page 24) 
+### 94  STUN (page 24)
 
 See "Modifiers" On Page 19
 
@@ -1737,7 +1737,7 @@ See "Modifiers" On Page 19
 
 95.3 During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
 
-  - After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
+- After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
 
 95.4 When a skill card is prepared, any success (a sunburst icon) icons on that card
 
@@ -1791,7 +1791,7 @@ Each type of terrain has a corresponding terrain card.
 
 - Terrain that has adventure-specific rules is depicted with a sparkle effect in the app.
 
-### 100 TESTS (page 25) 
+### 100 TESTS (page 25)
 
 Heroes perform tests throughout the game to interact with the world and attack enemies.
 
@@ -1871,7 +1871,7 @@ A threat token may appear on the map and represents a threat within a space with
 
 102.4 During The Threat Step Of The Shadow Phase, threat increases by one for each threat token that is on the game map.
 
-### 103 THRESHOLDS (page 26) 
+### 103 THRESHOLDS (page 26)
 
 See "Shadow Phase" on page 23 and "Threat Bar" on page 26.
 
@@ -1879,7 +1879,7 @@ See "Shadow Phase" on page 23 and "Threat Bar" on page 26.
 
 See "Item Cards" On Page 17.
 
-### 105 TITLE CARDS (page 26) 
+### 105 TITLE CARDS (page 26)
 
 Title cards are a type of skill card that heroes can gain during an adventure.
 
@@ -1903,7 +1903,7 @@ Token is the term used not only for the cardboard components that are placed on 
 
 106.2 If a rule or game effect instructs a player to select a token in the app, that player should tap on the image of the specified token.
 
-### 107 TRAITS (page 27) 
+### 107 TRAITS (page 27)
 
 A card may have one or more traits that are presented in italics at the top of that card's text box.
 
@@ -1911,7 +1911,7 @@ A card may have one or more traits that are presented in italics at the top of t
 
 107.2 A trait has no inherent effects, but some game effects may refer to a card's trait.
 
-### 108 TRAVEL ACTION (page 27) 
+### 108 TRAVEL ACTION (page 27)
 
 The travel action allows a hero to move around the game map.
 
@@ -1971,7 +1971,7 @@ A wall is a terrain token that can be placed over a border on a battle map. ( im
 
 111.2 If an ability, such as "Keen Eyes," allows for a hero or enemy to resolve a ranged attack that is up to two or more spaces away on a battle map, it may be possible for a hero or enemy to resolve a ranged attack against a target that is on the opposite side of a wall token.
 
-### 112 WEAKNESSES (page 27) 
+### 112 WEAKNESSES (page 27)
 
 A weakness is a skill card that has no inherent game effect. It is designed to clutter a hero's skill deck and to provide no useful icons during a test.
 
@@ -1995,9 +1995,11 @@ See "Ending an Adventure or Campaign" on page 13.
 
 During the game, players will primarily interact with the in-game user interface.
 
-> Image of an in-game interface displayed in a rectangular shpe, which shows the map tiles which has been formed so far, the threat bar, a setting menu button in the top right corner. It also has in the bottom right corner, an hourgalss in a circle, with an enemy bar just close to the hourglass, 5 enemy portraits, a hexagonbutton with a circle in the middle with a short bar which stands for a provoke button, and a circle with a greem backgroun and an image of an animal paws in the center.
+> Image of a gameplay interface showing various elements marked with arrows: a map (1), a threat bar (2), a settings menu button (3), an hourglass button (4), an enemy bar (5), an enemy portrait (6), a provoke button (7), and a party button (8).
 
-1. **Map:** The majority of the screen is the map. As players work toward their objective, more map tiles and the tokens on them will be displayed in the central area of the screen. Only the tokens that players interact with via the app are displayed on the map. 2. Threat Bar: The threat bar displays the amount of threat the players have accumulated and the next threshold at which a threat event will occur.
+1. **Map:** The majority of the screen is the map. As players work toward their objective, more map tiles and the tokens on them will be displayed in the central area of the screen. Only the tokens that players interact with via the app are displayed on the map.
+
+2. **Threat Bar:** The threat bar displays the amount of threat the players have accumulated and the next threshold at which a threat event will occur
 
 3. **Settings Menu Button:** A player can select this button to open the settings menu.
 
@@ -2005,7 +2007,7 @@ During the game, players will primarily interact with the in-game user interface
 
 5. **Enemy Bar:** This bar contains a portrait for each enemy group that is present on the board.
 
-6. **Enemy Portrait:** Each enemy group's portrait depicts the figure type that is used with that group, a ranged () icon if that enemy can perform ranged attacks, and a banner icon to identify which banner token to use with that group (if any). Portraits for elite enemy groups have spiked frames. Portraits for exhausted enemy groups are darkened.
+6. **Enemy Portrait:** Each enemy group's portrait depicts the figure type that is used with that group, a ranged (icon of a right-pointed dart with a white shaped right-pointed arrow in it) icon if that enemy can perform ranged attacks, and a banner icon to identify which banner token to use with that group (if any). Portraits for elite enemy groups have spiked frames. Portraits for exhausted enemy groups are darkened.
 
 7. **Provoke Button:** When a hero must provoke an enemy group, they select the provoke button, and then they select the portrait of the enemy group they wish to provoke.
 
@@ -2015,9 +2017,9 @@ During the game, players will primarily interact with the in-game user interface
 
 Selecting an enemy group's portrait opens the enemy menu for that group. Players use this menu while attacking enemies during the game.
 
-> Image of a screen interface of an enemy group, which shows the enemy, with the modifier buttons of the enemy, the health bars, 5 set of enemy portraits to select from,the enemy bar,, the hit counter of the enemy and the button to applt the hits.
+> Image of an enemy menu showing various elements marked with arrows: a selected enemy summary (1), a modifier button (2), a hit counter (3), an apply button (4), an enemy bar (5), an selected portrait (6) and a health button (7)
 
-1. **Selected Enemy Summary:** This box displays the name of the selected enemy group. If the group is elite, it also lists the group's bonuses. The heroes can select any bonus to view its effect. 
+1. **Selected Enemy Summary:** This box displays the name of the selected enemy group. If the group is elite, it also lists the group's bonuses. The heroes can select any bonus to view its effect.
 
 2. **Modifier Buttons:** Heroes select modifier buttons to add those modifiers to an attack.
 
@@ -2037,7 +2039,7 @@ Selecting an enemy group's portrait opens the enemy menu for that group. Players
 
 Each game round consists of the following three phases:
 
-1. **Action Phase:** Each hero takes a turn by performing two actions. 
+1. **Action Phase:** Each hero takes a turn by performing two actions.
 
 2. **Shadow Phase:** Enemies activate, darkness is resolved (if necessary), and threat increases—threat events are activated if threat reaches a threshold.
 
@@ -2053,7 +2055,7 @@ During a hero's turn, they can perform two actions. A hero can perform the same 
 
 - **Interact:** Interact With A Token In Your Space.
 
-### RESETTING SKILL DECKS (page 32) 
+### RESETTING SKILL DECKS (page 32)
 
 A hero must reset their deck at the following times:
 
@@ -2121,7 +2123,7 @@ There are six modifiers that can benefit heroes during an attack:
 
 - (2 right-pointed arrows icon) Interact Action
 
-##### HERO STATS (page 32)
+#### HERO STATS (page 32)
 
 - (icon of a 3-pointed spiral) Agility
 
@@ -2133,12 +2135,12 @@ There are six modifiers that can benefit heroes during an attack:
 
 - (icon of a tree) Wisdom
 
-##### ITEMS (page 32)
+#### ITEMS (page 32)
 
 - (sack of coins icon) Trinket
 
 - (icon of left hand raised) One-Handed Item
 
-- (icon of knight armor) Armor
+- (icon of hero armor) Armor
 
 - (icon of left and right hands raised together ) Two-Handed Item
