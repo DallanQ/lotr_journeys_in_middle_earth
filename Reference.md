@@ -1,7 +1,7 @@
 
 ## USING THIS REFERENCE (page 2)
 
-This document is the definitive source for all The Lord of the Rings: Journeys in Middle-earth™ rules. Before using this document, players should read and understand the rules presented in the Learn To Play book. After reading the Learn To Play and playing their first adventure, players should read both the "Advanced Rules" and "Campaign Rules" sections of this document. These sections contain rules that were omitted from the Learn To Play but are necessary for continuing and completing an entire campaign.
+This document is the definitive source for all *The Lord of the Rings: Journeys in Middle-earth*™ rules. Before using this document, players should read and understand the rules presented in the Learn To Play book. After reading the Learn To Play and playing their first adventure, players should read both the "Advanced Rules" and "Campaign Rules" sections of this document. These sections contain rules that were omitted from the Learn To Play but are necessary for continuing and completing an entire campaign.
 
 The majority of this Rules Reference is the glossary, which provides players with detailed game rules and clarifications listed in alphabetical order by topic. As questions arise during gameplay, the players should refer to the glossary. Players are also encouraged to use the index to find specific topics within the glossary entries.
 
@@ -51,7 +51,7 @@ The edges of the dark journey map tiles that make up Middle-earth's mountains, c
 
 If two spaces are separated by black borders and their gray borders are not aligned (in other words, if a gray border meets a black border), those spaces are not adjacent.
 
-> Image of map tiles on the gameplay map, with an white circl with a gray border vertical bar with two triangular arrows, one pointing left and the other pointing right.
+> Image of two adjacent game map areas (a rocky cavern and a stone chamber). They are connected by a narrow passage marked by a double-arrow gray border, indicating alignment and adjacency between the spaces.
 
 *These two spaces are adjacent because they share aligned gray borders (border with two arrows).*
 
@@ -63,7 +63,7 @@ Some adventures use a battle map that is composed of battle map tiles instead of
 
 *Journey Map Tile*
 
->Image of a Square shaped map, with 5 map tiles, it has a circular light gray background in the centre to the edges with a dark gray color around the edges
+>Image of a battle map tile depicting a textured, stone-paved surface with visible grid lines.
 
 *Battle Map Tile*
 
@@ -77,41 +77,41 @@ Some adventures use adventure-specific terrain. These terrain tokens are highlig
 
 ### SET ICONS (page 3)
 
-There is a ring icon in the lower-right corner of all cards in The Lord of the Rings: Journeys in Middle-earth base game. This set icon distinguishes the cards in this product from the cards present in other Journeys in Middle-earth products.
+There is a ring icon in the lower-right corner of all cards in *The Lord of the Rings: Journeys in Middle-earth* base game. This set icon distinguishes the cards in this product from the cards present in other *Journeys in Middle-earth* products.
 
-> Image of a circular object with a black color around it on the outside with and white color on the inside.
+> Image of a black ring with a white center.
 
 *Base Game Set Icon*
 
-## CAMPAIGN RULES (page 3) 
+## CAMPAIGN RULES (page 3)
 
-Each campaign of Journeys in Middle-earth contains a series of adventures. This section describes rules for hero advancement that can occur between adventures, such as upgrading items, purchasing skills, and changing roles, and describes how to save and continue a campaign that is in progress.
+Each campaign of *Journeys in Middle-earth* contains a series of adventures. This section describes rules for hero advancement that can occur between adventures, such as upgrading items, purchasing skills, and changing roles, and describes how to save and continue a campaign that is in progress.
 
 ### AFTER EACH ADVENTURE (page 3)
 
 After each adventure, each hero discards all of their tokens and their damage, fear, and boon cards. Then, they return their weakness cards to the supply and return all other skill cards to their skill deck.
 
-### CAMP (page 3) 
+### CAMP (page 3)
 
 After the heroes complete an adventure, a camp screen appears. While at camp, heroes can upgrade their items and purchase new skill cards. Then, the heroes can either select "Save & Quit" to save their campaign and return to the app's title screen or "Continue" to proceed to the role selection screen prior to beginning their next adventure.
 
-> Image of a big rectangular screen in which hold 5 vertical rectangular hero cards with descriptions of each hero, on the top right corner the is a circle which has the spikes cicular object which stands for the seeting. In the top left corner there is an open scroll on a circular plate. The bottom right corner has the "save & quit" button with the continue button. the left bottom corner also hold two other buttons
+> Image of a camp screen showing heroes and options to upgrade items, purchase new skill cards, save or quit the campaign, and continue the campaign.
 
 *Camp Screen*
 
 #### THE PARTY'S INVENTORY (page 3)
 
-The inventory is a collection of the party's items and skills. The app tracks each hero's armor (icon of knight armor), one-handed (icon of left hand raised), and two-handed (icon of both left and right hands raised together) items as well as their skill cards, including titles. The app also tracks the entire party's collection of trinkets (scak of coins icon). Heroes can view their items by selecting the "Items" button, and they can view their skills by selecting their portraits.
+The inventory is a collection of the party's items and skills. The app tracks each hero's armor (icon of hero armor), one-handed (icon of left hand raised), and two-handed (icon of both left and right hands raised together) items as well as their skill cards, including titles. The app also tracks the entire party's collection of trinkets (sack of coins icon). Heroes can view their items by selecting the "Items" button, and they can view their skills by selecting their portraits.
 
-Heroes cannot trade items and purchased skills; however, trinkets can be equipped by different heroes during setup.
+Heroes **cannot** trade items and purchased skills; however, trinkets can be equipped by different heroes during setup.
 
 To facilitate tracking over multiple game sessions, the heroes can keep the cards in their inventory separate from the other cards that are included in the game.
 
-#### LORE (icon of a circle with a 4-sided star in it) AND ITEMS (page 4)
+#### LORE (icon of a star in a circle) AND ITEMS (page 4)
 
-The information the heroes have gathered and the knowledge they have obtained throughout the campaign is represented by lore (icon of a circle with a 4-sided star in it). All heroes share the lore they have gained, which is tracked in the app. As heroes gain lore, new item upgrades become available. Gained lore is permanent; it cannot be spent or lost.
+The information the heroes have gathered and the knowledge they have obtained throughout the campaign is represented by **LORE** (icon of a star in a circle). All heroes share the lore they have gained, which is tracked in the app. As heroes gain lore, new item upgrades become available. Gained lore is permanent; it cannot be spent or lost.
 
-> Image of a horizontal rectangle showing the total number of lore available with is 11
+> Image showing the total number of Lore "11" in a camp screen
 
 *Total Lore is Camp Screen
 
@@ -119,17 +119,17 @@ The information the heroes have gathered and the knowledge they have obtained th
 
 Each item card has a lore value that indicates the amount of lore the heroes must have to upgrade that item. The item menu displays all of the party's items; items that can be upgraded are highlighted.
 
-> Image of (icon of a left hand raised) with the number 25 aside (icon of a circle with a 4-sided star in it) displayed on an item card
+> Image of an item card with a lore value indicating the amount of lore heroes need to upgrade the item
 
 *Lore Value On Item Card*
 
-> Image of a rectangular screen showing options of "Hero", "Group", "Lore", "25" with 3 different hero cards and 3 items for the first hero, two items for the second and 2 items for the third hero with some of the highlighted signifying that those items can be upgraded.
+> Image of an item menu showing the party's items, with upgradeable items highlighted in yellow.
 
 *The heroes have enough lore to upgrade all of the highlighted items.*
 
 When a highlighted item is selected from the item menu, any available upgrades for that item are displayed. To upgrade the item, the upgraded version is selected in the app. Then, the hero gains the card that corresponds to the upgrade and returns the card that was upgraded to the supply.
 
-> Image of a screen with the inscriptions "Select an upgrade of Dagger" with two plaques showing tewo different dagger namely "Condolin Dagger" and "Ered Luid Dagger" with the symbol "II" on the bottom right corner of both plaques.
+> Image of a camp screen displaying the option to upgrade a dagger to either a Gondolin Dagger or an Ered Luin Dagger
 
 *At 25 lore, "Dagger" can be upgraded to "Ered Luin Dagger" or "Gondolin Dagger."*
 
@@ -141,25 +141,25 @@ As heroes complete adventures they gain experience, representing how their abili
 
 While at camp, each hero can spend experience to purchase any number of skill cards. Skill cards that are available for purchase have an experience value that indicates the amount of experience a hero must spend to purchase that card.
 
-> Image of screen play with some insriptions on a creature and what to do to discard such card. It has an arrow pointing to the left bottom corner with a number 7 in a green circle which stands for experience cost and an arrow pointing to an inscription which stands for the role and card number.
+> Image of a skill card with instructions, showing arrows pointing to the experience cost '7' and the role and card number labeled as 'Hunter 9
 
 *Experience cost* *Role And Card Number*
 
 A player can select their hero to open a menu that sorts that hero's experience by role. Selecting a role expands the menu, providing a list that contains all the skill cards that correspond to that role. Skill cards that a hero already has are colored green, skill cards that are too expensive to purchase are colored red, and skill cards that are unavailable because they belong to another hero are colored red and include a portrait of the hero who has that item.
 
-> Image of a rectangular screen play, showing 5 hero cards with "XP" inscription on ther bottom of each hero card, with the first hero selected and on the botom of the rectangular card showing the skills of the selected hero who happens to be Aragon.
+> Image of a menu showing the roles available and skills corresponding to each roles
 
 *Aragorn is a Burglar and has four experience in that role. He already has "Word of Fortune," so he can purchase either "Sneaking" or "Pockets" from the available Burglar skills.*
 
 Skill cards that are not colored green or red are available for the hero to purchase. To purchase a skill card, a hero selects it from the list. The purchased skill will be marked green and any experience spent will be deducted from that hero automatically. Then, that hero adds that skill card to their skill deck. There is no limit to the number of cards a hero can have in their skill deck.
 
-Heroes can also sell any skill cards they have purchased. To sell a skill card, a player selects it from the list and the hero gains experience equal to the sold card's experience value automatically—the experience gained is for the role displayed at the bottom of that skill card. Then, the hero removes that skill card from their skill deck and returns it to the available skill cards.
+Heroes can also sell any skill cards they have purchased. To sell a skill card, a player selects it from the list and the hero gains experience equal to the sold card's experience value automatically—the experience gained is for the role displayed at the bottom of that skill card. Then, the hero **removes** that skill card from their skill deck and returns it to the available skill cards.
 
 ## SETUP (page 5)
 
-To start a campaign of Journeys in Middle-earth, players follow the steps presented in the New Campaign section—these steps will set up everything they need for the first adventure of the campaign. To set up all subsequent adventures in the campaign, players follow the steps presented in the Continuing a Campaign section.
+To start a campaign of *Journeys in Middle-earth*, players follow the steps presented in the New Campaign section—these steps will set up everything they need for the first adventure of the campaign. To set up all subsequent adventures in the campaign, players follow the steps presented in the Continuing a Campaign section.
 
-### NEW CAMPAIGN 
+### NEW CAMPAIGN
 
 1. **Select Campaign and Difficulty:** Select the "New Game" button on the app's title screen. Then, the app will guide the players through a series of screens for selecting a campaign, a difficulty, and a save slot.
 
@@ -211,7 +211,7 @@ To start a campaign of Journeys in Middle-earth, players follow the steps presen
 
 5. **Equip Hero-Specific Items:** Each player places their hero card in their play area and equips their items, which are displayed in the item menu in the app. Equipped items are placed next to their hero card.
 
-6. **Equip Trinkets:** Each hero may equip one trinket () from the inventory, which includes all trinkets that the party has gained during the campaign.
+6. **Equip Trinkets:** Each hero may equip one trinket (sack of coins icon) from the inventory, which includes all trinkets that the party has gained during the campaign.
 
 7. **Choose Role and Create Skill Deck:** Each player selects a role for the next adventure in the app—a hero is not committed to a single role for the entire adventure campaign. Then, the hero gathers the skill cards numbered 1–3 that have their role on the bottom of the cards. The hero prepares the card numbered 1. Then, the hero shuffles the cards numbered 2 and 3 with the set-aside cards from Step 4 to form the hero's skill deck for the adventure.
 
@@ -219,9 +219,9 @@ To start a campaign of Journeys in Middle-earth, players follow the steps presen
 
 ## GLOSSARY (page 6)
 
-This glossary provides players with detailed rules for Journeys in Middle-earth, organized by topic. If a player is unable to find a topic, they should use the Index on page 30.
+This glossary provides players with detailed rules for *Journeys in Middle-earth*, organized by topic. If a player is unable to find a topic, they should use the Index on page 30.
 
-### 1   ABILITIES (page 6)
+### 1  ABILITIES (page 6)
 
 Most cards have abilities that heroes can use at various times during the game.
 
@@ -237,7 +237,7 @@ Most cards have abilities that heroes can use at various times during the game.
 
 1.3 When using an ability on a card with multiple abilities, only one can be used unless an ability specifically states that it is used before, when, or after the other ability is resolved.
 
-#### 1.4    COSTS (page 6)
+#### 1.4 COSTS (page 6)
 
 Many abilities have a cost that a hero must resolve to use that ability.
 
@@ -253,7 +253,7 @@ Many abilities have a cost that a hero must resolve to use that ability.
 
 1.9 If an ability instructs a hero to remove a card from the adventure, that card should be set aside and cannot be used again during that adventure.
 
-#### 1.10   TIMING (page 6)
+#### 1.10 TIMING (page 6)
 
 The timing of an ability refers to when a hero can resolve it.
 
@@ -263,13 +263,13 @@ The timing of an ability refers to when a hero can resolve it.
 
 1.13 If the timing of an ability uses the word "when," the ability's effect resolves at the moment of the described timing event.
 
-1.14 Effects That Occur "When" An Event Occurs Take Precedence Over effects that occur "after" that same event.
+1.14 Effects That Occur "when" An Event Occurs Take Precedence Over effects that occur "after" that same event.
 
 1.15 If multiple abilities resolve at the same time, the party determines the order in which those abilities resolve.
 
 1.16 If an ability uses the word "then," a hero must resolve the effect that occurs before the word "then," followed by the effect that occurs after the word "then."
 
-### 3   ACTION PHASE (page 6)
+### 3  ACTION PHASE (page 6)
 
 The action phase is the first phase of a game round during which each hero takes a turn.
 
@@ -291,7 +291,7 @@ The action phase is the first phase of a game round during which each hero takes
 
 2.6 After each hero has taken a turn during the action phase, the hourglass button is selected in the app and the game proceeds to the shadow phase.
 
-### 3   ACTIONS (page 6)
+### 3  ACTIONS (page 6)
 
 There are three primary actions that a hero can perform during their turn of the action phase: travel action, attack action, and interact action.
 
@@ -303,11 +303,11 @@ There are three primary actions that a hero can perform during their turn of the
 
 3.4 If an ability allows a hero to move, attack, or interact, these abilities are not actions even though the effects are identical to those granted by performing actions.
 
-### 4   ACTIVATION (page 7) 
+### 4  ACTIVATION (page 7)
 
 See "Enemy Activation" On Page 13.
 
-### 5   ADD AND APPLY (page 7)
+### 5  ADD AND APPLY (page 7)
 
 Abilities that add and apply hits differ in the following ways:
 
@@ -345,13 +345,11 @@ An adventure is a single scenario of a *Journeys in Middle-earth* campaign.
 
 7.1 Each campaign consists of multiple adventures played in order.
 
-7.2 Between each adventure of a campaign, heroes can purchase skills,
-
-upgrade items, equip trinkets, and change their roles.
+7.2 Between each adventure of a campaign, heroes can purchase skills, upgrade items, equip trinkets, and change their roles.
 
 - Heroes cannot trade items. However, heroes can equip any available trinket from the item menu at the start of each adventure.
 
-7.3 Most adventures occur on a journey map that represents large areas of middle-earth.
+7.3 Most adventures occur on a journey map that represents large areas of Middle-earth.
 
 7.4 Some adventures occur on a battle map, which is used when the focus of the campaign shifts from travel and exploration to a pivotal moment in the journey.
 
@@ -369,7 +367,7 @@ The *Journeys in Middle-earth* app guides the players through their campaign by 
 
 8.3 An anatomy of the app's prominent screens and menus can be found in the appendix on page 28.
 
-### 9   APPLY (page 7)
+### 9  APPLY (page 7)
 
 See "Add And Apply" On Page 7.
 
@@ -427,7 +425,7 @@ An enemy group's armor is displayed as gray units on its health bar within its e
 
 #### 11.6   HERO ARMOR(ITEMS) (page 8)
 
-Each hero has one armor item equipped during the campaign. Each armor item has an armor (icon of knight armor) icon printed on it.
+Each hero has one armor item equipped during the campaign. Each armor item has an armor (icon of hero armor) icon printed on it.
 
 11.7 Each hero's armor item provides them with one or more abilities that describe when they are used and how they are resolved.
 
@@ -477,9 +475,9 @@ Enemy groups can attack heroes to defeat them and cause them to lose the game.
 
 12.8 When an enemy group attacks, the app provides the hero with a damage (icon of 3 claw scratches) value and a fear (icon of devil-like face with two curved horns) value. These values represent the amount of damage and fear the hero suffers.
 
-- Typically, the hero has a chance to perform a test to negate damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) before they suffer it.
+- Typically, the hero has a chance to perform a test to negate damage (icon of 3 scratches claw) and fear (icon of devil-like face with two curved horns) before they suffer it.
 
-12.9 In addition to damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) values, some enemy attacks have additional text, which describe when and how they are resolved.
+12.9 In addition to damage (icon of 3 scratches claw) and fear (icon of devil-like face with two curved horns) values, some enemy attacks have additional text, which describe when and how they are resolved.
 
 ### 13  BARRELS (TERRAIN) (page 9)
 
@@ -527,13 +525,13 @@ Boon cards can provide heroes with positive effects that aid them when performin
 
 A boulder is a type of terrain that can be placed on the battle map.
 
-16.1 If a hero is in a space with a boulder token while performing a test to negate damage (icon of 3 scratch claws) and fear (icon of a devil-like face with two curved horns), that hero may convert one fate (leaf icon) icon to one success (a sunburst symbol) icon during the test without spending an inspiration token.
+16.1 If a hero is in a space with a boulder token while performing a test to negate damage (icon of 3 scratches claw) and fear (icon of a devil-like face with two curved horns), that hero may convert one fate (leaf icon) icon to one success (a sunburst symbol) icon during the test without spending an inspiration token.
 
 16.2 Each boulder token can be used one time during each negate test that is performed by a hero that shares a space with that boulder token.
 
 ### 17  BUSH (TERRAIN) (page 10)
 
-A bush is a type of terrain that can be placed on the battle map. (image of a top view of a tree or bush)
+A bush is a type of terrain that can be placed on the battle map. (image of a top view of a tree)
 
 17.1 During the action phase, if a hero ends their turn in a space with a bush token, that hero may perform a wit (speed motion icon) test.
 
@@ -581,7 +579,7 @@ After a hero attacks an enemy group, that enemy group may be able to attack the 
 
 21.4 A non-elite enemy group cannot counterattack if it is exhausted.
 
-- After a hero applies hits to an exhausted enemy group, the app will not provide the hero with a counterattack prompt.
+- After a hero applies hits to an exhausted enemy group, the app will *not* provide the hero with a counterattack prompt.
 
 21.5 Elite enemy groups can counterattack if they are exhausted.
 
@@ -589,13 +587,13 @@ After a hero attacks an enemy group, that enemy group may be able to attack the 
 
 21.7 If an attack does not add any hits or modifiers to an enemy group, the hero still selects "Apply" in the attack pane, which can cause a counterattack.
 
-### 22  DAMAGE AND FEAR (page 11) 
+### 22  DAMAGE AND FEAR (page 11)
 
-Damage (icon of 3 scratch claws) represents inflictions to a hero's body, and fear (icon of a devil-like face with two curved horns) represents inflictions to a hero's mind and soul.
+Damage (icon of 3 scratches claw) represents inflictions to a hero's body, and fear (icon of a devil-like face with two curved horns) represents inflictions to a hero's mind and soul.
 
 #### 22.1   SUFFERING DAMAGE AND FEAR (page 11)
 
-The threats of Middle-earth can cause heroes to suffer damage (icon of 3 scratch claws) or fear (icon of a devil-like face with two curved horns). When a hero suffers too much damage or fear, they are in danger of being defeated.
+The threats of Middle-earth can cause heroes to suffer damage (icon of 3 scratches claw) or fear (icon of a devil-like face with two curved horns). When a hero suffers too much damage or fear, they are in danger of being defeated.
 
 22.2 Each hero has a damage limit and a fear limit presented on their hero card. These limits represent the amount of damage (icon of 3 scratch claws) or fear (icon of a devil-like face with two curved horns) a hero can have before they must perform a last stand (see "Last Stands" on page 18).
 
@@ -605,9 +603,9 @@ The threats of Middle-earth can cause heroes to suffer damage (icon of 3 scratch
 
 22.3 To suffer a damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns), a hero reveals the top card of either the damage or fear deck, as appropriate, and resolves its ability. The ability instructs the hero to discard the card or to place it either faceup or facedown in their play area.
 
-- When suffering multiple damage (icon of 3 scratch claws) and fear (icon of devil-face with two curved horns) from a single source—an enemy group or game effect—the hero suffers each damage and fear one at a time, revealing and resolving one card completely before revealing and resolving the next card.
+- When suffering multiple damage (icon of 3 scratch claws) and fear (icon of devil-face with two curved horns) from a single source—an enemy group or game effect—the hero suffers each damage and fear **one at a time**, revealing and resolving one card completely before revealing and resolving the next card.
 
-- If a game effect specifically instructs a hero to suffer a number of "facedown damage" or "facedown fear," that hero takes the top card from the appropriate deck and places it in their play area without revealing or resolving the card's ability.
+- If a game effect specifically instructs a hero to suffer a number of "facedown damage" or "facedown fear," that hero takes the top card from the appropriate deck and places it in their play area **without** revealing or resolving the card's ability.
 
 22.4 A hero cannot look at the front of a facedown damage or fear card in their play area unless a game effect specifically allows it.
 
@@ -655,7 +653,7 @@ Darkness is a property of some spaces on the map and it can cause heroes to suff
 
 23.3 The app may indicate that the entire game map is in darkness. When this happens, there is a darkness icon on the screen in the app to indicate that all the spaces on the map are in darkness—it is not necessary to place a darkness token on each space of the game map.
 
-23.4 During the darkness step of the shadow phase, each hero that is in darkness suffers an amount of fear () indicated by the app.
+23.4 During the darkness step of the shadow phase, each hero that is in darkness suffers an amount of fear (icon of devil-like face with two curved horns) indicated by the app.
 
 - A hero is in darkness if that hero is in a space that contains either a darkness icon or a darkness token.
 
@@ -663,7 +661,7 @@ Darkness is a property of some spaces on the map and it can cause heroes to suff
 
 ### 24  DEFEATED (page 12)
 
-A hero is defeated when they fail a last stand, which occurs when that hero has suffered too much damage () or fear (). An enemy is defeated when its health is reduced to zero.
+A hero is defeated when they fail a last stand, which occurs when that hero has suffered too much damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns). An enemy is defeated when its health is reduced to zero.
 
 24.1 After a hero fails a last stand, the app informs the hero that they are defeated.
 
