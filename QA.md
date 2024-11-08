@@ -299,12 +299,9 @@ No. You would need to be able to fully resolve the effect to choose it. Any time
 
 [skill-cards-and-multiple-effects-q](https://boardgamegeek.com/thread/2223595/skill-cards-and-multiple-effects-q)
 
-> I can't quite find in the rules how we should be using skill cards with multiple effects like one that may list an ability and then strike 2 below it.
-> Are we only selecting one? Or if more than one on a card can apply to the situation can we use all the multiple effects on the card that do?
+> How should skill cards with multiple effects (e.g., an ability and then "Strike 2" below it) be used? Are we limited to selecting just one effect, or can we apply all the relevant effects on the card if they apply to the situation?
 
-If a card has multiple abilities listed on it, treat them as completely separate. This can occasionally cause conflicts if the two abilities have the same cost, for instance, if they both require you to discard the card then you cannot discard the card once to invoke both abilities - you would need to pick one.
-
-However if only one ability requires a discard, and the other does not, such as the case with the card Keen Eyes, then the first ability would be active for as long as the card is prepared and at any time you want to use the Strike portion of the card you could discard it to add two hits. Doing so would obviously cause the card to no longer be prepared and thus you would lose the benefit of the first ability, the extra range.
+If a card has multiple abilities, treat them as separate. If both abilities have the same cost, such as requiring a discard, you can only use one at a time. However, if only one ability requires a discard (like Keen Eyes), you can use the first ability as long as the card is prepared, and discard it later to use the Strike effect, which would cause the card to no longer be prepared.
 
 [over-4-prepared-cards](https://boardgamegeek.com/thread/3002619/over-4-prepared-cards)
 
@@ -335,16 +332,13 @@ an enemy will stop moving when it is in range of its target. Thus, the goblins w
 
 [hammer-and-tongs-trinket-error-in-spanish-translat](https://boardgamegeek.com/thread/2808421/hammer-and-tongs-trinket-error-in-spanish-translat)
 
-> The English version of the card reads: "When you attack or test to negate..."
-> The Spanish version, however, reads: "When you test to negate damage or fear, you...."
->It doesn't mention that one can use it for attacks.
->Is the Spanish version incorrect? or I missed a errata for the English version?
+> The English version of the card reads, "When you attack or test to negate...", while the Spanish version says, "When you test to negate damage or fear..." and doesn't mention attacks. Is the Spanish version incorrect, or is there an errata for the English version that I missed?
 
 The Hammer and Tongs trinket should read, “When you attack or test to negate Damage or Fear, you may deplete this trinket to convert 1 Fate to 1 Success.” It has three depletion tokens on it starting each adventure, and it can be depleted during either an attack or a negate test. It has never received an errata, nor is it currently being considered for any errata.
 
 [allowed-to-examine-an-enemy-before-making-decision](https://boardgamegeek.com/thread/2241729/allowed-to-examine-an-enemy-before-making-decision)
 
-> Is the hero allowed to examine an enemy before deciding what action to take. If I know an enemy has 5 health +1 armor I might make a different decision than if it has 10 health + 1 armor. This can influence who I choose to attack with and what cards I might have readied.
+> Is the hero allowed to examine an enemy before deciding what action to take. For example, if I know an enemy has 5 health +1 armor I might make a different decision than if it has 10 health + 1 armor. This can influence who I choose to attack with and what cards I might have readied.
 
 You can look at anything you want without consuming an action. Tokens, the hint for the Threat event, enemy stats.... you name it.
 
@@ -356,20 +350,11 @@ Unless you push a button with an arrow on it or you press the Apply button on th
 
 > When doing a skill check, do you have to draw all of the cards, or can you stop drawing whenever you want. For example, if I am doing a might test and need 1 success, and my might is 3, if I draw a success on the first card drawn, can I then stop drawing?
 
-The cards are technically all drawn at the same time. It's not an iterative process. So no, you can't stop halfway.
-
-You reveal all the cards you are supposed to, then check the test success.
-“To perform a test, a hero reveals cards from the top of their skill deck. The number of cards they reveal is equal to the value of the stat being tested.
-After revealing cards, the hero determines the number of success“
-
-Also, remember that you always want to know as much about your deck as possible - not just what is available but also what isn’t available. So even if you pass the test with the success on the first of three cards, you will also know what those other cards are.
+All cards for a skill check must be drawn at once; you cannot stop partway. Draw the full number of cards according to the stat being tested, then check for successes after all cards are revealed.
 
 [attack-using-melee-and-ranged-weapon-simultaneousl](https://boardgamegeek.com/thread/2633534/attack-using-melee-and-ranged-weapon-simultaneousl)
 
-> I’m planing to start a new campaign, one question arose, when I tried to decide which weapons to take.
-> Can I use the sling and say the knive simultaneously when I attack? I assume this has been asked before, but I cannot seem to find the answer.
-> I know the important thing is that both test the same ability (i.e. agility). But for some reason it feels strange to use a melee and a ranged weapon at the same time.
-> So, can I choose both weapons to inflict damage on the same attack test?
+> I'm starting a new campaign and wondering if I can use both a melee weapon (e.g., knife) and a ranged weapon (e.g., sling) in the same attack, provided they rely on the same ability (like agility). Is it allowed to apply damage from both weapons in a single attack test?
 
 Yes, you can use both provided you are in the same space as the target. If you aren't sharing a space, you'll only be able to use the ranged weapon, of course.
 
@@ -398,48 +383,17 @@ No, you can only equip tier 1 weapons and armor at the start of the campaign.
 
 [can-you-use-success-abilities-that-produce-hits-mo](https://boardgamegeek.com/thread/2190818/can-you-use-success-abilities-that-produce-hits-mo)
 
-> For exemple, Battle Axe has a line that says that 2 successes produce 6 hits. Can I spend 4 successes for 12 hits? Seems really strong to me.
-> What makes me wonder is that there are a number of items that have doubles of the same line. For exemple, the Staff has 2 lines that say 1 success produces 2 hits. What would be the point if you can assign hits to a single line more than once?
+> For example, the Battle Axe states that 2 successes produce 6 hits. Can I use 4 successes to achieve 12 hits? This seems quite powerful. I'm curious because some items, like the Staff, have duplicate lines (e.g., "1 success produces 2 hits" twice). If it’s possible to apply multiple hits to a single line, what’s the purpose of having these duplicate lines?
 
-Each line can only be used once per test.
+Each line on the weapon card can be activated only once per test, so you can’t stack successes on a single line to multiply its effect.
 
 [hands-of-a-healer-question](https://boardgamegeek.com/thread/2850482/hands-of-a-healer-question)
 
-> Hands of a healer (herbalist 5) says "after a hero... discards damage..."
-> Does it means only face up damage or it can be facedown too?
-
-If it says "damage" then either, the various ways of preventing and removing damage will say "face down" if that is the only type they can remove. If there is no qualifier then either type (face up or face down) applies.
-
 [surrender-hopelessness-laceration](https://boardgamegeek.com/thread/3183335/surrender-hopelessness-laceration)
-
-> Surrender : "Keep this card faceup. If you would discard a faceup fear, flip it facedown instead."
-> a) To use the text of this card, must first play the ability to discard a faceup fear card (like Gift of Men) ?
-> b) If we play the ability that we could discard a faceup fear card (like Gift of Men) We must flip **Surrender** first and then we can discard the rest of the faceup fear cards ?
-
-a. Yes we must first play the ability to discard the faceup fear card
-
-b. Yes we flip surrender first.
-
-> Hopelessness :" Discard 2 preopared cards or suffer 2 facedown fear. Then discard this card."
-> a) Does this mean that if we have one prepared card and discard it, we have to sufffer one fear?
-> b) If we have two prepared cards , can we choose to discard one prepared card and suffer one fear or not discard any prepared card at all and suffer two fear ?
-
-a. No. If you do not have two cards to discard you cannot select that option at all and are forced to take 2 Fear.
-
-b. No. Your choice then is either discard two cards or suffer 2 Fear. You must pick one and can't go halvsies.
-
-> Laceration : "Flip 1 faceup. Then flip this card facedown."
-> a) Do we choose the card we faceup or is it chosen randomly?
-> b) Does the effect on the faceup card apply again, and if it was written to return the card facedown , do we facedown it again or it remains faceup?
-
-a. Yes. Any time you do anything with facedown Damage/Fear (flipping, discarding, etc.) it must be done randomly. You're never allowed to remember what facedown Damage/Fear cards are and use that to your advantage.
-
-b. Yes to most of that. If a card is flipped faceup it will once again trigger its text. If that text simply has it flip facedown again then it will do exactly that and you've lucked out. Remember though that Laceration will only flip facedown AFTER the card it flips has finished doing its thing. So if your only other card is a card that would flip Laceration faceup, you don't enter an infinite loop of the two cards flipping each other forever.
 
 [face-up-face-down-fear-and-damage](https://boardgamegeek.com/thread/2733762/face-up-face-down-fear-and-damage)
 
-> Is there a difference between face up fear/ damage and face down apart from face up potentially having effects?
-> if one damage/fear card tells you to “flip one face up then discard this card” but the one that gets flipped tells you to “flip this card face down” does it stay face up or face down?
+> Is there a difference between face up fear/ damage and face down apart from face up potentially having effects? Addittionally, if one damage/fear card tells you to “flip one face up then discard this card” but the one that gets flipped tells you to “flip this card face down” does it stay face up or face down?
 
 Face up or down fear/damage still count as 1 damage each. Many effects can avoid or remove face-down damage or fear. Far fewer can remove face-up damage or fear. So it's important to make sure you follow the instructions of the app exactly when it deals you damage/fear.
 
@@ -447,18 +401,13 @@ When you're instructed to turn a face-down damage/fear face up, you have to full
 
 [preparing-two-copies-of-the-first-beorning-then-di](https://boardgamegeek.com/thread/2804656/preparing-two-copies-of-the-first-beorning-then-di)
 
-> Playing Beorn, I have a copy of The First Beorning prepared, so in Bear Form. Then I prepare a second copy. Nothing happens.
-> I discard one copy to Rending Claws/Enemy attack/etc.
-> The First Beorning says "Change to The Great Bear. When this card is discarded, change to Beorn".Obviously, after I discard it, I would then change to Beorn. BUT it looks to me like the "Change to The Great Bear" is a constant effect, so would I just change back to the bear immediately? It doesn't say "When you prepare this card, change to The Great Bear."
-> If that's true, it's a nice little interaction that the second copy lets you use it as a basically a Strike 2, or extra insurance against forced discard knocking you out of bear form at an inopportune time, or any other "discard a card" effects.
+If I'm playing Beorn and have **The First Beorning** prepared in Bear Form, then prepare a second copy, nothing happens. If I discard the first copy (due to **Rending Claws** or an enemy attack), **The First Beorning** says, "Change to The Great Bear. When this card is discarded, change to Beorn." After discarding, I change to Beorn, but since "Change to The Great Bear" seems like a constant effect, do I immediately change back to Bear Form? Does the second copy act as extra insurance against forced discards, allowing me to stay in Bear Form?
 
-the first ability of The First Beorning is constantly applied. Just to be clear, we intend for each ability on a card to be resolved according to its timing. If an ability has no explicit timing (like the first ability on The First Beorning) that ability is considered to be active as long as that card is prepared. Usually it will have no effect, as you cannot change to The Great Bear as long as you are The Great Bear. However, if any game effect, including discarding a copy of The First Beorning, causes you to change to Beorn while a copy of The First Beorning is prepared, you would resolve the first ability of The First Beorning again fully before continuing with the game.
+The first ability of **The First Beorning** is always active while the card is prepared. Abilities with no explicit timing are considered active, but usually have no effect (since you can’t change to The Great Bear while already in Bear Form). If a game effect, like discarding a copy of The First Beorning, causes you to change to Beorn, you would resolve the first ability again, changing back to The Great Bear before continuing.
 
 [sprint-and-not-move](https://boardgamegeek.com/thread/2425455/sprint-and-not-move)
 
-> **Trailblazer**
-> Before you sprint, gain 1 inspiraton. Sprint 1
-> Can I discard Trailblazer, gain 1 inspiration and sprint 0? (And if I play with Beravor, scout 1 after that?)
+> From **Trailblazer**, "Before you sprint, gain 1 inspiration. Sprint 1." Can I discard Trailblazer to gain 1 inspiration and then choose to sprint 0? If so, can I then play Beravor and use her ability to Scout 1 afterward?
 
 You can choose to end your Sprint with any amount of movement remaining, whether it be 0 or 3. When you do so, any movement you have not yet moved is forfeit and this is when you trigger any After you Sprint effects.
 
@@ -466,8 +415,7 @@ This also means that yes, you may trigger a Before you Sprint effect and then en
 
 [fierce-resolve](https://boardgamegeek.com/thread/2784594/fierce-resolve)
 
-> If i understand correctly, if i use this card in a test and through inspiration i will change 1 fate to 1 success so i automatically add 1 more success?
-> For example, if during the test i convert 2 fates for 2 successes (over 2 inspirations), so i add only 1 more success thanks to the Fierce Resolve card? I can't add 1 success for each transformed fate right?
+> If I understand correctly, when using **Fierce Resolve**, if I convert 1 fate into 1 success with inspiration, I only add 1 additional success, not 1 for each fate converted, right? For example, if I convert 2 fates into 2 successes using 2 inspirations, I would only add 1 more success, not 2, correct?
 
 You understand it correctly. No matter how many fate you convert to success, you still only get to add 1 additional success.
 
@@ -475,8 +423,7 @@ You understand it correctly. No matter how many fate you convert to success, you
 
 [light-footed-ability-of-legolas](https://boardgamegeek.com/thread/2197924/light-footed-ability-of-legolas)
 
-> The ability reads " when you interact with a threat or search token, before you test, you may discard this skill to test Agility instead and Scout 1".
-> Can you Scout before you test Agility?
+> The ability reads " when you interact with a threat or search token, before you test, you may discard this skill to test Agility instead and Scout 1". Can you Scout before you test Agility?
 
 In the rules reference, it says when abilities occur at the same time, players choose the order.
 
@@ -484,33 +431,23 @@ Since the wording is "**and**" you can choose the order.
 
 [ready-defense-guardian-and-shields-tier-2-plus](https://boardgamegeek.com/thread/2977201/ready-defense-guardian-and-shields-tier-2-plus)
 
-> Can I use the Success from "Ready Defense" first during negation and afterwards discard it to use it's Guard ability? As far as I understand rule 22.13 from the rules reference, you can negate damage/fear first and then resolve abilities that prevent damage/fear, so this should be possible
+> Can I use Ready Defense to negate damage or fear, then discard it to use its Guard ability? According to Rule 22.13, I can negate first and then resolve abilities that prevent damage/fear, so this should be possible, right? After discarding Ready Defense for Guard, can I use Reinforced Shield to prepare it again? If Ready Defense is prepared, can I use its Guard ability again? Also, can I prepare a Guard card revealed during negation by Reinforced Shield?
 
-Yes. This one is pretty straightforward. The first ability doesn’t have a discard cost, which means that the card is still available to discard for Guard after the damage goes through.
+Yes, you can use Ready Defense to negate damage or fear, then discard it for Guard. Since the first ability has no discard cost, it remains available after negation.
 
-> Can I use the ability from "Reinforced Shield" to prepare "Ready Defense" after I discarded it to use it's Guard ability? Rule 1.15 states, that if multiple abilities resolve at the same time (both Guard and "Reinforced shield" use the timing "when"), you can determine the order in which those abilities resolve yourself. So if you would still suffer damage after negation, you could trigger Guard from "Ready Defense" first, which puts it in the discard pile, and then trigger the ability of "Reinforced Shield" to prepare "Ready Defense".
+You can then use Reinforced Shield to prepare Ready Defense. Once prepared, you can use its Guard ability again, as long as you’re suffering damage. There’s no rule against reusing it.
 
-Provided at least one Damage for you to suffer made it through, yes that’s fine.
-
-> Crazily enough, as "Ready Defense" is now again a prepared card, could I use it's Guard ability... again? This doesn't sound correct, but I can't find rules against it.
-
-Yes. Timing is still legal (when you would suffer Damage) and you have the card available to discard so I’d say yes.
-
->  Last question: could you prepare a card with Guard that was revealed during negation with "Reinforced shield's" ability? Rule 22.13 said, you can negate first and then prevent. That means, you make the negation test first, putting all revealed cards into your discard pile, making them available for the ability of "Reinforced Shield".
-
-Yes. Suffering happens after negation so any cards put into discard by the negate are legal targets by the time the Shield resolves.
+You can also prepare a Guard card revealed during negation, as negated cards go into the discard pile and are available for Reinforced Shield.
 
 [all-heroes-must-be-in-location-clarification](https://boardgamegeek.com/thread/2993893/all-heroes-must-be-in-location-clarification)
 
-> if an event specifies that all heroes must be on the same space to trigger an action to win the game, what happens if one of the heroes is already defeated? do we just lose the adventure?
+> If an event specifies that all heroes must be on the same space to trigger an action to win the game, what happens if one of the heroes is already defeated? do we just lose the adventure?
 
 Typically you would win in that situation. Since the fallen hero is no longer in the adventure they would not be required to be in the space.
 
 [when-a-hero-attack-wording](https://boardgamegeek.com/thread/2854613/when-a-hero-attack-wording)
 
-> So what with wording: "when a hero attack"? Do you resolve that as: when you attack or when any hero attack?
-> I'm little confused. I have the problem with card "elfs wrights' Grace. Smith #9 card, that say:"when a hero attacks you may discard this skill for one of their items to gain 1 success: 4hits, pierce".
-> Can I use this card only for myself?
+> Does "when a hero attacks" refer only to your attack, or any hero’s attack? I’m confused about the Elves' Wright’s Grace card (Smith #9), which says, "When a hero attacks, you may discard this skill for one of their items to gain 1 success: 4 hits, pierce." Can I use this for any hero's attack, or only mine?
 
 “You” always refers to the hero holding the card. “When you attack” can thus only be used when you yourself attack.
 
@@ -532,15 +469,11 @@ The difficulty of your Last Stand increase after each Last Stand that your chara
 
 [sneaking-card-info-needed](https://boardgamegeek.com/thread/2201127/sneaking-card-info-needed)
 
-> BURGLAR 5 card "Sneaking". This card has two actions in **BOLD**.
-> How am I supposed to play this? 
-> If I will discard the card, can I use both of the actions in **BOLD**, or only one?
+> The Sneaking card (BURGLAR 5) has two actions in bold. How should I play this card? If I discard it, can I use both actions in bold, or just one?
 
-If two actions require a cost you cannot pay the cost once to pay for both actions.
+You can’t pay the cost once for both actions. Since both Sprint and Hide require discarding the card, you can only use one.
 
-Both Sprint and Hide have a cost of discarding the card. That's a cost you can only pay once so you'll only be able to use one of the two abilities.
-
-However, the first ability on Sneaking does not have a cost. So may use it for as long as you have the card prepared without paying anything. However, at some point you may want to "cash in" by using one of the two bold abilities. You'll lose the passive ability at the top but gain the benefit of whatever you discarded for.
+The first ability on Sneaking has no cost, so you can use it as long as the card is prepared. Once you discard the card for Sprint or Hide, you lose the passive ability but gain the benefit of the discarded action.
 
 [for-point-the-way-it-says-my-ally-can-get-inspirat](https://boardgamegeek.com/thread/3094275/for-point-the-way-it-says-my-ally-can-get-inspirat)
 
@@ -556,20 +489,17 @@ Yes, as the rules specifically allow you to spend as much inspiration as you wis
 
 [when-you-test-timing-question](https://boardgamegeek.com/thread/2426788/when-you-test-timing-question)
 
-> When using a skill card that allows you to discard the card to add a success, when do you need to decide? Is it “When you test” triggered before you draw the cards from your deck, or after you draw the cards. 
-> Can you decide to apply the skill card when you already know what the un-modified result will be or do you need to decide before you draw the cards?
+> When using a skill card that lets you discard it to add a success, when do you decide to use it? Is it triggered "when you test," before drawing cards from your deck, or after drawing them? Can you wait until you know the unmodified result, or must you decide before drawing the cards?
 
 Discarding the card is done anytime during the test, just do it when it is more convenient for you. Eventually to pass a test that would have otherwise failed.
 
 [hero-travel-and-inspiration-questions](https://boardgamegeek.com/thread/2246164/hero-travel-and-inspiration-questions)
 
-> Travel
-> Can heroes travel through occupied enemy spaces? I didn't see anything in the rule book that indicated heroes must stop when entering a space with enemies (much like other games), so I wondered if you can just move right through them.
+> Can heroes travel through spaces occupied by enemies? I didn’t find anything in the rulebook that says heroes must stop when entering an enemy-occupied space, unlike in other games. So, can they move right through it?
 
 Point 60.4 from the RRG: If a hero wishes to move out of a space that contains one or more readied enemy groups, before that hero moves the must provoke each readied enemy group in the space.
 
-> Paying Inspiration
-> We ran into a scenario last night where someone failed a test and had to take some damage and lose 1 Inspiration. What happens if you don't have any Inspiration? Is there some sort of penalty involved in that scenario? There was no mention in the app,so we all wondered about this result. Ultimately, we determined there would not be a penalty since there was no mention of one.
+> We encountered a situation where a player failed a test, took damage, and lost 1 Inspiration. What happens if you don’t have any Inspiration left? Is there a penalty for this? Since the app didn’t mention any penalty, we assumed there wouldn't be one.
 
 If you don't have the inspiration to lose, then there is no additional penalty. This is also true for similar situations, such as discarding a prepared card when you have none.
 
@@ -583,16 +513,16 @@ RR section 30.2 clears up all these situations, albeit with slightly confusing s
 
 [test-question](https://boardgamegeek.com/thread/2465798/test-question)
 
-> Is it mandatory to reveal all the cards while doing a test?
-> Example: I must test with spirit, I need two successes and my spirit has a value of 4, I get my second success with the 3rd card which is enough, do I have to reveal the fourth card anyway or can I keep it for later? 
+> Is it mandatory to reveal all cards during a test? For example, if I’m testing with Spirit, need two successes, and I get my second success with the third card, do I still have to reveal the fourth card, or can I keep it for later?
 
 Yes. RAW, all the cards are revealed simultaneously. I find it helps curb the temptation to draw them all facedown and reveal all four at once.
 
 [soldier-card-45-and-6](https://boardgamegeek.com/thread/2739264/soldier-card-45-and-6)
 
-> The Soldier card 4,5 and 6 of the new expansion is confusing me. There are two parts to it, both equally confusing to me.
-> “Before you travel, you MUST discard this skill and scout 1”, ok I can follow this but don’t understand the rational behind it.
-> “Before you attack, you may move 1 space”, wouldn’t this be pointless with a melee weapon surely?
+> The Soldier cards 4, 5, and 6 from the new expansion are confusing. There are two parts that I don’t fully understand:
+
+ 1. “Before you travel, you MUST discard this skill and scout 1.” I get the action, but I don’t understand the reasoning behind it.
+ 2. “Before you attack, you may move 1 space.” Wouldn’t this be pointless with a melee weapon?
 
 No it’s not. The second ability will not trigger the first as it is not a Travel Action. The point of the card is that so long as you have other means of movement (like Sprint or effects similar to its second effect) you are able to keep the card prepared for a very long time, which means you’ll be able to take a lot of movement without spending actions and can spend those actions on other things, such as attacking.
 
@@ -600,41 +530,27 @@ The card will only trigger its first effect when you explicitly use the Travel A
 
 [clarification-on-keyword-a-hero](https://boardgamegeek.com/thread/2201733/clarification-on-keyword-a-hero)
 
-> Can't find my answer on the forum so far.
-> If a card say "A hero". Does it mean your hero too ? Or others ? The card I'm not sure about is a 12 XP Guardian card helping people to ignore damage on success. Does it work for everyone including me or only for my mates ?
+> If a card says “A hero,” does it include your hero or just others? Specifically, the 12 XP Guardian card that helps heroes ignore damage on success—does it apply to everyone, including me, or just my allies?
 
-Defense Instruction works on any hero in the game regardless of their proximity to you.
-
-A Hero - any good guy in the game
-You - only the person with the card
-Nearby Hero - only allies of the card-carrier who are near him (but not the card carrier himself)
-You or a Nearby Hero - same as above but the card carrier may benefit this time.
-
-The story explanation of Defense Instruction is that during your off time you taught your friends how to defend themselves against attacks and then the lessons pay off when they need them most. You don't need to be near them for that.
+The 12 XP Guardian card, Defense Instruction, applies to any hero in the game, not just your allies. The card's effect works for any hero regardless of proximity to you.
 
 [misplaced-tuckborough-cloak-card](https://boardgamegeek.com/thread/2489823/misplaced-tuckborough-cloak-card)
 
 > Can you please tell me the text and lore upgrade threshold for the Tuckborough Cloak (level II cloak card)?
 
-Before you suffer [Damage] or [Fear], you may spend 1 inspiration to prevent 1 of that [Damage] or [Fear].
-After setup, become hidden.
+The Tuckborough Cloak (Level II) has the following effect: "Before you suffer [Damage] or [Fear], you may spend 1 inspiration to prevent 1 of that [Damage] or [Fear]. After setup, become hidden."
 
-65 Lore to upgrade.
+To upgrade the Tuckborough Cloak, you need 65 Lore.
 
 [questions-multiple-offered-options-after-interacti](https://boardgamegeek.com/thread/2472167/questions-multiple-offered-options-after-interacti)
 
->After I fail might check (because I made stupid decision to test it with character who has low might and I am starting to think that my skill deck needs serious revision- it's clattered with bought skills), I got the outcome and immediately afterwards was prompt to choose 2 or 3 more options.
-> Since I used one action to interact with the token (search) to "do something" , the moment I resolve new instructions of the outcome and get new prompt, do I get to do second interaction for free?
-> Here is where my confusion lies.If I recall, in reference book every interaction that has -> (arrow) requires action; which puzzles me, why would app prompt me without my consent to do another action.
+>After failing a Might check with a character who has low Might, I was prompted to choose additional options. Since I already used one action to interact with a token (e.g., search), do I get a second interaction for free? The rules say interactions with arrows require an action, so why was I prompted to take another action without confirmation?
 
-Only the arrow symbol requires to spend an action. The choices within an interaction all belong to the initial action.
-
-Clicking on tokens is free. You only spend an interact action if you want to choose an option with an arrow. If the token keeps giving you options with no arrow, you don’t need to spend any actions on them. This does mean that some tokens though take multiple actions to complete.
+Only options marked with an arrow require an action to interact with. Clicking on tokens is free, and you only spend an action when choosing an option with an arrow. If a token presents options without arrows, no action is required. Some tokens may require multiple actions to fully resolve.
 
 [questions-about-chapter-5-sceptre-rules](https://boardgamegeek.com/thread/2384851/questions-about-chapter-5-sceptre-rules)
 
-> What happens to any sceptre / quest tokens on a player's character sheet if they die and fail their last stand? Do the tokens get "dropped" and then another player would have to move and do an interact action to pick them up without a test?
-> Can quest tokens of this kind be freely traded or with any sort of action between players that occupy the same space?
+> What happens to sceptre or quest tokens on a player's character sheet if they die and fail their last stand? Are the tokens dropped for another player to interact with and pick up, and can quest tokens be freely traded between players in the same space?
 
 According to RAW, once a character has a scepter token they are stuck with it. They can't trade it, drop it, or do anything with it. If the character goes down to a Last Stand and they have the only scepter token you are, what we call in the business, outta luck.
 
@@ -642,104 +558,63 @@ According to RAW, once a character has a scepter token they are stuck with it. T
 
 > Do you reshuffle the discard pile?
 
-Yes. From page 14 of LtP: “Resetting Skill Decks"
-
-A hero must reset their skill card deck at the following times:
-
-during the rally phase
-
-when there are no cards remaining in their deck
-
-when an effect instructs them to do so
-
-A hero resets their deck by shuffling their discard pile with any remaining cards in their deck and placing the newly shuffled deck facedown. Prepared cards are not shuffled into the deck.”
+Yes, you reshuffle the discard pile. This happens during the rally phase, when your deck is empty, or when an effect instructs you to do so (From page 14 of LtP).
 
 [emboldened-boon-disard-rule](https://boardgamegeek.com/thread/2192522/emboldened-boon-disard-rule)
 
-> What do they mean with "if no enemies are nearby discard this card.
-> Do they mean in range or on the board in general?
+> WWhat does "if no enemies are nearby, discard this card" mean? Does it refer to enemies in range or any enemies on the board?
 
-RR:
-
-61 NEARBY
-Some rules and game effects refer to nearby components or spaces.
-
-61.1 A component is nearby another component if they are in the same space or are in spaces that are adjacent to each other on the game map.
-
-61.2 A component is not nearby itself.
-
+"Nearby" refers to components in the same space or adjacent spaces on the game map.
 
 [rising-threat-causes-bilbo-to-suffer-damage-when-h](https://boardgamegeek.com/thread/3251466/rising-threat-causes-bilbo-to-suffer-damage-when-h)
 
-> After threat rises, the app says an orc looses an arrow - Bilbo suffers 2 damage. He is hidden. 
-> Is this an attack and prevented by hidden or does "suffer" mean its not an attack and hidden doesn't apply here?
+> After the threat rises, the app says an orc loses an arrow and Bilbo suffers 2 damage while hidden. Does this count as an attack, meaning Hidden would prevent it, or does "suffer" mean it's not an attack and Hidden doesn't apply?
 
-Hidden would not stop that. Hidden only triggers during an enemy attack and that is very specifically when an enemy figure performs an attack against you.
-
-Additionally, the word "suffer" in reference to damage or fear doesn't mean anything special other than damage or fear that is dealt to a hero. Technically damage or fear from an enemy attack is also considered to be "suffered."
+Hidden would not stop that. Hidden only triggers during an enemy attack, which occurs when an enemy figure performs an attack against you. "Suffer" just refers to damage or fear dealt to a hero, and does not specifically indicate an attack.
 
 [can-threat-go-negative](https://boardgamegeek.com/thread/2944002/can-threat-go-negative)
 
-> If as your very first move of the game you take an action that results in, say, -4 Threat, and your Threat was 0 at that moment because there hadn't been a Shadow Phase yet, what happens?
-> Does Threat go negative? Or is that action outcome simply wasted, because Threat doesn't drop below 0?
-> Whichever way it is, it can makes all the difference in planning the opening moves of a chapter.
+> If my Threat is at 0 at the start of the game and I take an action that results in, for example, -4 Threat, what happens? Does Threat go negative, or is the action wasted since Threat cannot drop below 0? This could impact how I plan my opening moves.
 
-No, it stays at zero. Reducing threat before that threshold is a waste.
-
-Removing a threat token will always slow the amount of threat gathered every turn since you'll remove it from the board.
+No, Threat stays at zero. Any attempt to reduce Threat below that threshold is wasted. However, removing a Threat token will help slow down the rate at which Threat increases each turn.
 
 [aragorns-ability-on-initial-draw](https://boardgamegeek.com/thread/2921365/aragorns-ability-on-initial-draw)
 
-> Does Aragorn's ability for heroes to draw one additional card trigger on the initial setup round each mission/adventure? 
-> Or is it only on subsequent "Rally" rounds? 
+> Does Aragorn's ability for heroes to draw one additional card trigger on the initial setup round each mission/adventure? Or is it only on subsequent "Rally" rounds?
 
-The Rally phase comes after the action phase it is the end of a round, there are cards that let you take things out of your discard during rally phase
-learn to play guide:
-1. Action Phase: During this phase, the heroes move around the
-map, interact with the world, and attack enemies.
-1. Shadow Phase: During this phase, the enemies move and attack
-heroes, and other dark threats grow stronger.
-1. Rally Phase: During this phase, the heroes prepare for the
-next round.
-
-the Rally Phase does not happen unless the app says RALLY PHASE in the center of the screen. The chance to prep cards at the start of an adventure is a hard-coded event for each adventure that isn't related to any particular phase.
+Aragorn's ability to let heroes draw an additional card does not trigger during the initial setup round. It only applies during subsequent Rally phases, which occur after the action and shadow phases. The initial card preparation at the start of an adventure is a separate, hard-coded event specific to that adventure.
 
 [does-it-ever-matter-which-weakness-card-i-have](https://boardgamegeek.com/thread/2188077/does-it-ever-matter-which-weakness-card-i-have)
 
->  is there any point in returning my weakness and drawing a new one after an adventure? or is that done only to make sure i only have 1 at the start?
+> Is there any point in returning my weakness and drawing a new one after an adventure? or is that done only to make sure i only have 1 at the start?
 
 it's simply to ensure you only start with one weakness. there is nothing within the app that makes reference to a specific weakness being in your deck or play area.
 
 [ranger-cloak-questions](https://boardgamegeek.com/thread/2678034/ranger-cloak-questions)
 
-> Regarding line 1. Can you spend more than one inspiration to prevent multiple fear and/or damage? Or is it limited to one inspiration and 1 fear or damage?
+> Can you spend more than one inspiration to prevent multiple fear and/or damage? Or is it limited to one inspiration and 1 fear or damage?
 
 Yes. The general rule is that when there is a cost (in this case spend 1 inspiration), you can activate it multiple times. It may seem powerful for a simple cloak but you may need inspiration for other things.
 
-> Regarding line 2. I assume "facedown" specifically means when the app tells you to suffer "X" amount of facedown damage or fear. It does not mean when you draw a damage or fear card and the card tells you to place it face down, correct?
+> Does "facedown" specifically means when the app tells you to suffer "X" amount of facedown damage or fear. It does not mean when you draw a damage or fear card and the card tells you to place it face down, correct?
 
 Correct. It is only when the app tells you directly that it is facedown.
 
 [questions-related-to-attacking-and-the-use-of-prov](https://boardgamegeek.com/thread/2422272/questions-related-to-attacking-and-the-use-of-prov)
 
-> There is an "Enemy Group" (an Elite "dude", I forget which one, but one WITHOUT "Range") on a space, which is shared with Berevor. On an adjacent (aka "nearby") space stands Legolas, with his "Great Bow" in hand.
-> My goal: I want to kill that Elite enemy during this "round" of Actions (which include 2 actions from Berevor and 2 actions from Legolas) before moving on to the Shadow Phase (which will most likely result in Berevor getting pummeled, which I would like to avoid).
-> Do I have to "Provoke" the Enemy Group BEFORE I can "Attack" the Enemy Group?
+> Do I need to "Provoke" an Enemy Group before attacking it if it's on a space with Berevor and Legolas, and I want to defeat the enemy before the Shadow Phase?
 
-You absolutely do not need to provoke enemies in order to attack them.
+No, you do not need to provoke enemies in order to attack them.
 
-The only two things that will provoke an enemy are if you move out of a space occupied by an enemy or if you attempt to perform an interact action while in a space with an enemy. In both cases, the enemies can only be provoked if they are not exhausted.
+An enemy is only provoked if you move out of their space or attempt an interact action while in their space, but only if they are not exhausted.
 
 [smith-card-2-and-3](https://boardgamegeek.com/thread/2616959/smith-card-2-and-3)
 
-> How should I handle this card. It’s says:
-> “You can strike with this skill
-> when another hero in your
-> space attacks.
-> Strike 2........”
-> Do I to an attack test or just apply the 2x strike on the card ?
+> How should I use this card? It says:
+“You can strike with this skill when another hero in your space attacks. Strike 2...”
+Do I need to make an attack test, or do I just apply the 2x Strike from the card?
 
-Just Strike 2. It is not an extra attack for you.
+Just apply the Strike 2. It’s not an additional attack for you.
 
 [is-a-counterattack-an-activation](https://boardgamegeek.com/thread/2565646/is-a-counterattack-an-activation)
 
@@ -751,9 +626,7 @@ During the shadow phase, each readied enemy group activates.
 
 [question-regarding-fight-sequence](https://boardgamegeek.com/thread/2575178/question-regarding-fight-sequence)
 
-> we are playing a 2-player campaign right now and we have encountered a question that we could not clarify.
-> If one attackes an enemy, can both actions be executed as attacks before the enemy can counter attack? Or do you finish one action attack, receive damage and then do the second attack afterwards?
-> At this time, we play it so that one player does both attacks before receiving damage. And when we have to attack with both heroes, then we stop the fight in between and receive the damage (or could we attack both before a counter attack is possible?)
+> Can both attacks be completed before the enemy counterattacks, or do you need to finish one attack, take damage, then perform the second attack?
 
 No, they counter after each action (if able).
 
@@ -777,7 +650,7 @@ You must have the title prepared for it to be in effect.
 
 [discard-question](https://boardgamegeek.com/thread/2188696/discard-question)
 
->If I have a card prepared and the card's description doesn't say anything about discarding it after using it's ability (for example Gimli's Fury card), does that mean I get to use the ability for the rest of the scenario if I want to and only discard the card to make room for some other cards I want to prepare? 
+>If I have a card prepared and the card's description doesn't say anything about discarding it after using it's ability (for example Gimli's Fury card), does that mean I get to use the ability for the rest of the scenario if I want to and only discard the card to make room for some other cards I want to prepare?
 
 Correct. Stays prepared unless you ditch it for being over the limit of 4.
 
@@ -789,47 +662,9 @@ No, they can't. If those tiles are not present, then they can't be used.
 
 [attacking-with-a-mount-spending-successes-on-attac](https://boardgamegeek.com/thread/3299967/attacking-with-a-mount-spending-successes-on-attac)
 
-> I have a mount. That mount gives me 2 hits on a success. okay.. what does that even mean? Does that mean If I somehow manage to get 4 successes on my attack card draw, I can use 3 of those successes to apply hits from my weapon, and then use the 4th success to apply two more hits with the mount? Like It's an addition to my weapon card as another option to choose from when applying successes to hits?
-> Or does that mean I can choose to attack with the mount instead of using my weapon? For two whole hits? 
-> when you have options for 1 success versus 1 success versus 2 successes all on the same weapon/card, does that mean when I get 2 successes on my card draw, I can either choose to take the two single 1 options OR take the 2 success option? I guess what I mean to ask is.. I don't have to take the successes in order of how they appear, top to bottom, on the card, right? As long as I can pay the proper number of successes, I can choose whichever I want on the card, right? One example I guess would be the hunter's bow where 1 success is 3 hits, or 1 success is 3 hits with pierce. If I only get 1 success, I'm going to take the 3 hits with pierce... I can do that, right? I don't have to take the topmost non-pierce attack?
-
-When you make an attack you choose a skill to test that matches at least one of your equipped items (usually a weapon). If you have more than one item that uses the same skill (e.g. two weapons, weapon and support item, weapon and mount) you can split your successes across the items in any order (up to the total number of successes)
-
-For example, let's say you have a sword and a war charger mount. You choose to test Might which applies to both items. The sword card is 1 Success 2 hits, 2 success 5 hits, while War Charger is 1 Success 2 hits. You get two successes on your test, so you can either use the sword 2 success line to do 5 hits, or choose the sword 1 Success line to do 2 hits and the War Charger 1 Success line to do 2 hits. Obviously you would choose the 5 hits in this case, but with keywords it isn't always obvious which is best (e.g. you may have a choice between doing more damage or applying stun).
-
-You definitely don't have to take the lines in order, but you can't apply any line more than once on a single attack.
-
-In theory you could choose to attack with a mount and no weapon (e.g. you have War Charger and a Great Bow and for some reason you choose to attack with Might) - it seems unlikely but if you had an enemy with only 2 health left and you had Undying Might prepared it may be the safest option to guarantee killing that enemy.
-
 [gimli-defense-ability-stacking-with-multiple-cards](https://boardgamegeek.com/thread/3254967/gimli-defense-ability-stacking-with-multiple-cards)
 
-> Gimli has several ability cards that let him add 1 success while defending to prevent 1 dmg or 1 fear. The question is, can he has multiple of this cards prepared and add the together to add successes to the defend check? Are the cards get discarded when he uses this ability? (Doesnt say anything on the cards). It does say though to discard it when he uses it as a Guard 2.
-
-This defender skill is strong as you don't have to discard it and it's cumulative. Although, keep in sight that it depletes your deck from its success symbols and future skill tests will be more difficult.
-
-> We have found the Extra Rations trinket. The trinket has some uses (i think 2). What happened when there are no depletion tokens left? Does it refill at the end of each chapter?
-
-Any trinket can be used until depleted, at which point it is turned over and does not apply again unless more depletion tokens are put on later. At the end of each scenario, you get to assign up to one trinket per character, fully recharged, and any character can use any trinket you've gained.
-
-> We have reached 20 lore, so as a result there is one trinker the handkerchief that needs 20 lore to unlock. How do we add this item to the party inventory? The app doesnt let us choose any of the items, apart from the starting ones. Does it just become available for the app to bring it in the next chapters?
-
-The beginning of the next chapter lets you upgrade gear and trinkets in the app, and it lets you know what is available for upgrade based on your lore.
-
 [timing-cannot](https://boardgamegeek.com/thread/2941464/timing-cannot)
-
-> Trickster's Merry Chase: before you sprint with this skill you may move an enemy 1 space.
-> Quickbeam: You cannot sprint.
-> Golden Rule: if a card ability uses the word "cannot" it is absolute and cannot be overridden by other abilities.
-> When does the Sprint on Merry Chase (which was prepared in setup the same as Quickbeam mount) fizzle?
-> Is it intended that the "before you sprint" is also part of the "cannot sprint"?
-> Is the timing such that a player can do the "before you sprint" part of the card, then attempt to Sprint, but that is prevented by the "cannot"?
-
-If you have Quickbeam equipped then you can never attempt to Sprint which means that “before you Sprint” effects can never be triggered. Pretend that the Sprint keyword isn’t even on the card.
-
-> When a card combo like Merry Chase/Quickbeam is in effect at the start of the game, does that mean the player has to wait till he/she prepares a 5th skill (or have some other game effect cost a prepared skill) before he/she can discard it?
-> If a player can do the "before you Sprint" and then try to sprint and it fizzles, May the player then discard that prepared card? (which otherwise would just sit there useless till I would gain a 5th prepared card or have to discard one.)
-
-if a card has no other way listed on the card to discard it then you must wait until you have another game effect to discard it. This could be over-prepared or it could be another game effect such as a Damage/Fear card or a skill card like Master Tactician. However, it is not a very big deal given that Merry Chase has no symbols and it’s not like having it prepared stops the player from preparing other cards. It’s probably better to have it prepared since it means a player can’t draw it in tests, same reason players need to regularly prepare their Weakness cards.
 
 [paths-unseen](https://boardgamegeek.com/thread/2732427/paths-unseen)
 
@@ -839,9 +674,7 @@ The person using the card is not being “placed.” They are moving normally so
 
 [trailblazer](https://boardgamegeek.com/thread/2713262/trailblazer)
 
-> Pathfinder #1: "Before you sprint, gain 1 inspiration. Sprint 1"
-> If I use this card as Sprint 1, do I get 1 inspiration due to the text above it "Before you sprint..." ?
-> Or is it a choice between on or the other?
+> If I use the Pathfinder #1 card for Sprint 1, do I automatically gain 1 inspiration from the "Before you sprint..." text, or is it a choice between gaining inspiration or sprinting?
 
 When the skill is prepared, the text is active, so gaining the inspiration applies to the same card too.
 
@@ -853,12 +686,6 @@ Yes, all shots are allowed if a path can be traced.
 
 [remove-from-adventure](https://boardgamegeek.com/thread/2491744/remove-from-adventure)
 
-> When a card is removed from the adventure. Does the card come back in the next scenario of the campaign? Two examples follow.
-> All titles seem to have the remove from adventure text.
-> I was playing in adventure mode and was told to remove a weakness from each character from the adventure.
-> So in the next scenario are these cards placed back in my decks?
+> When a card is removed from the adventure, does it return in the next scenario of the campaign? For example, I was instructed to remove a weakness from each character's deck, should these cards be placed back in the decks for the next scenario?
 
-That is correct. Officially, each "session" or chapter is called an adventure by the rules. The entire game is referred to as the "campaign."
-
-Unless told otherwise, you will begin every single adventure with exactly one weakness (no more, no less), all the titles you've earned, and your role's #1 card (the one with stars around the name) prepared.
-
+Yes, that's correct. Each "session" or chapter is considered an adventure in the rules, while the whole series of adventures is the campaign. Unless specified otherwise, you will start each adventure with one weakness, the titles you've earned, and your role's #1 card (the one with stars around the name) prepared.
