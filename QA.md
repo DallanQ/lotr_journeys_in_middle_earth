@@ -4,19 +4,80 @@
 
 No, you cannot discard a prepared skill card at any time, nor do you have to replace it with another prepared card. Also, you are not allowed to use Guard if there is no damage or fear to prevent.
 
+
+----
+Reference.md page 6
+
+A hero can only resolve an ability on a skill card while that skill card is prepared.
+
+----
+Reference.md page 6
+
+An ability that requires a card to be discarded cannot be resolved if the card is discarded by another game effect
+
+----
+Reference.md page 16
+
+Guard is a keyword that allows a hero to prevent damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns).
+
+43.1 Any hero that is in the same space as a hero who would suffer damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns) can discard a card that has the "Guard X" keyword to prevent an amount of that damage and fear equal to X.
+
+- A hero must choose to use the "Guard X" keyword before damage and fear cards are revealed.
+
+- A hero can use the "Guard X" keyword to prevent damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) to themselves.
+
+- A hero can prevent any combination of damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) that is equal to or less than X.
+
+----
+Reference page 16
+
+43.3 Multiple abilities that have the "Guard X" keyword can be used to prevent damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) from a single source. Multiple heroes can use abilities with the "Guard X" keyword to prevent damage and fear from the same source.
+
+- If multiple heroes suffer damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) while they are in the same space, a single ability that has the "Guard X" keyword can only prevent the damage and fear suffered by one of those heroes.
+
+----
+Reference.md page 32
+
+
+**Guard X:** When you or a hero in your space would suffer damage or fear, you may discard a card that has the Guard X keyword to prevent any combination of X damage and fear.
+
+----
+Reference.md page 20
+
+69.4 A hero can have up to four prepared cards at the same time.
+
+After a hero prepares one or more skill cards, if that hero has
+more than four prepared cards, they must discard any of their
+prepared cards until only four cards remain prepared
+
 [official-faq-errata-when](https://boardgamegeek.com/thread/2202786/official-faq-errata-when)
 
 [enemy-placed-during-shadow-phase-and-child-of-lhun](https://boardgamegeek.com/thread/2190815/enemy-placed-during-shadow-phase-and-child-of-lhun)
 
 > If the app instructs you to place an enemy figure during the Shadow phase and it’s in a space where someone has Child of Lhun prepared, can the damage be applied to the enemy as if they “moved” into the space?
 
-No, because "place" and "move" are different. From the rules, "60.5 If a game effect instructs a hero figure to be “placed” on the game map, that placement is not a move for purposes of game rules and interactions of game effects."
+ No, because "place" and "move" are different.
+
+----
+Manual.md page 13
+
+ **Interrupting Enemy Activations:** Some abilities, such as Elena’s 'Child of the Lhun' skill card, can interrupt an enemy’s activation to apply hits or modifiers. To resolve these abilities, the hero selects the enemy’s portrait, inputs and applies hits or modifiers indicated by the ability, then continues the enemy’s activation.
 
 [changing-characters](https://boardgamegeek.com/thread/3268871/changing-characters)
 
 > Can I change the characters in the middle of the campaign?
 
 No, you can't change characters in the middle of a game
+
+----
+Manual.md page 4
+
+Each player selects a hero in the app, takes their hero’s corresponding figure and hero card, and places them in their play area. These heroes will be used for the duration of the campaign, which spans several adventures
+
+---
+Reference.md page 3
+
+Heroes **cannot** trade items and purchased skills; however, trinkets can be equipped by different heroes during setup.
 
 [time-of-need-and-inspiration](https://boardgamegeek.com/thread/2194290/time-of-need-and-inspiration)
 
@@ -26,11 +87,49 @@ Once a fate (leaf icon) is converted to a success (snow icon), it can no longer 
 
 You can use either inspiration tokens or the Time of Need card to convert fate icons, but you can’t use both to double the successes.
 
+----
+Reference.md page 15
+
+38.1 Unlike success (a sunburst symbol) icons, fate (leaf) icons have no inherent effect. However, during a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
+
+- After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
+
+----
+Reference.md page 25
+
+95.3 During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
+
+----
+Reference.md page 6
+
+1.7 If multiple abilities resolve at the same time, the party determines the order in which those abilities resolve.
+
+Example: If a skill card has two abilities that require the skill card
+to be discarded—one text ability and one keyword—the hero cannot
+discard that card and resolve both of its abilities
+
 [attackstrike-question](https://boardgamegeek.com/thread/2207926/attackstrike-question)
 
 > I have two prepared cards that have the skill of Strike 2. The goblin I am attacking has a health meter of 4. Do I need to do an attack skill test using my weapon to kill him? Or can I use the two "Strike 2" cards without testing?
 
 The text on strike says "during an attack test" which means that you must be making the test. You are required to reveal cards for the test.
+
+----
+Reference.md page 24
+
+93.1 When a hero is performing **an attack test**, that hero can discard a card that has the "Strike X" keyword to add X hits to the enemy group that is the target of that attack.
+
+----
+Reference.md page 7
+
+5.2 Some abilities explicitly state to “apply” hits or modifiers—these
+abilities resolve outside of an attack. They are not attacks and
+cannot cause counterattacks
+
+----
+Reference.md page 32
+
+**Strike X:** During your attack test, you may discard a card that has the 'Strike X' keyword to add X hits to the attack.
 
 [around-every-corner-wall-streams-trench-fence](https://boardgamegeek.com/thread/3033503/around-every-corner-wall-streams-trench-fence)
 
@@ -38,11 +137,39 @@ The text on strike says "during an attack test" which means that you must be mak
 
 The terrain tokens are placed between spaces. They are not in any of the spaces that share that edge.
 
+----
+Reference.md page 24
+
+A stream is a terrain token that can be placed over a border on a battle map.(image of a blue flowing water in an horizontal form)
+
+----
+Reference.md page 24
+
+92.2 During the action phase, if a hero moves across a border that contains a stream token, that hero's turn ends immediately.
+
+The hero cannot perform any actions or resolve any game effects that occur during the current turn.
+
+----
+Reference.md page 3
+
+When setting up a battle map, the heroes place terrain tokens as indicated in the app. Some terrain tokens are placed in spaces and
+others are placed on borders, altering the rules of that border.
+
 [scout-action-must-you-prepare](https://boardgamegeek.com/thread/2594135/scout-action-must-you-prepare)
 
 > When you scout, do you have to prepare a card?
 
 You do not need to prepare a card when you Scout. The rules say "That hero may prepare one of those cards"
+
+----
+Reference.md page 32
+
+When an effect instructs you to "Scout X," reveal X cards from the top of your skill deck. **You may prepare** one of those cards (place it faceup under your hero card). Then, place each of the remaining revealed cards on the top or bottom of your skill deck in any order.
+
+----
+Reference.md page 21
+
+73.2 **Step 2—Scout**: Each hero scouts two cards by revealing two cards from the top of their skill deck. Then, they prepare up to one of those cards, placing each remaining card on the top or bottom of their skill deck in any order.
 
 [darkness-during-chapter-x](https://boardgamegeek.com/thread/2213871/darkness-during-chapter-x)
 
@@ -50,11 +177,55 @@ You do not need to prepare a card when you Scout. The rules say "That hero may p
 
 You'll have the Darkness token icon in front of the threat bar when it is (and an explicit "The map is in Darkness" type message will have announced it at some point).
 
+----
+Manual.md page 8
+
+A hero is in darkness if any of the following three conditions apply: 
+
+- They are in a space with a printed darkness icon.
+  
+- They are in a space with a darkness token.
+
+- The app states that they are in darkness.
+  
+----
+Reference.md page 11
+
+23.1 Some spaces on the map have a darkness icon printed on them. These spaces are always in darkness.
+
+23.2 Game effects can add darkness to specific spaces on the map. When this happens, a darkness token is placed on that space to represent that the space is in darkness.
+
+23.3 The app may indicate that the entire game map is in darkness. When this happens, there is a darkness icon on the screen in the app to indicate that all the spaces on the map are in darkness—it is not necessary to place a darkness token on each space of the game map.
+
+----
+Reference.md page 23
+
+83.2 **Step 2—Darkness:** Each hero that is in a space that contains darkness suffers an amount of fear (icon of a devil-like face with two curved horns) indicated by the app.
+
+If darkness is not present on the game map and if the app is not causing darkness, the app automatically skips the “Darkness” step.
+
 [combining-hits-vs-armor](https://boardgamegeek.com/thread/2366844/combining-hits-vs-armor)
 
 > If you achieve 4 successes with a staff that reads "1: 2 hits, 1: 2 hits, 2: 3 hits and a stun," do you deal 2 hits, 2 hits, and 3 hits with a stun as separate packets, or does it combine into a total of 7 hits and a stun? This distinction is important when considering armor effects.
 
 If you got 4 successes you would do one hit for 7 hits and Stun. Armor only applies once per attack. The same goes for any Strike keywords you use on the attack, they increase it and don't separately plink off the armor.
+
+----
+Reference.md page 9
+
+If the test produces at least two success (a sunburst symbol) icons, the hero passes the test and can apply four hits and stun to one nearby enemy group of their choice. Then, they discard the barrels token.
+
+If the test produces fewer than two success (a sunburst symbol) icons, the hero fails the test and nothing happens.
+
+----
+Reference.md page 7
+
+5.1 Some abilities, such as "Strike X," explicitly state to "add" hits or modifiers. These abilities alter an attack that is in progress.
+
+----
+Reference.md page 8
+
+Hits reduce an enemy’s armor or sorcery before they are able to reduce an enemy’s health.
 
 [combined-weapon-and-abilities](https://boardgamegeek.com/thread/3020254/combined-weapon-and-abilities)
 
@@ -70,9 +241,22 @@ Do I keep the top part prepared and only discard if I use the Hide effect?
 
 You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card.
 
-For Self-Sufficient, it's exactly like you think. The effect is persistent and you can keep using the top part so long as you meet the conditions. Only the bottom part discards.
+----
+Manual.md page 12
 
-For Quick-Snare it follows the same rules, you only discard if the card tells you to. However, Quick Snare is a bit sneaky about how it tells you to discard because of the word Strike. Strike, like all keywords, requires a discard. It's part of the definition of the word in this game. Even though the reminder text isn't present on Quick Snare, Strike still requires a discard whether the reminder text is present or not, and since the top ability of Quick Snare requires you to Strike with it, there's no way to use either of effects without discarding it.
+When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it faceup in their play area. Then, they resolve the card’s effect.**Many of these cards instruct the hero to flip the card facedown or discard it.**
+
+----
+Reference.md page 9
+
+If the test produces at least two success (a sunburst symbol) icons, the hero passes the test and can apply four hits and stun to one nearby enemy group of their choice. **Then, they discard the barrels token.**
+
+----
+Manual.md page 14
+
+Each card ability describes when the ability can be used. To use an
+ability, the hero resolves the ability’s text. Many skill card abilities
+instruct the hero to discard the card from their prepared area.
 
 [upgrading-equipment](https://boardgamegeek.com/thread/3075689/upgrading-equipment)
 
@@ -80,17 +264,50 @@ For Quick-Snare it follows the same rules, you only discard if the card tells yo
 
 A player doesn’t have to upgrade if he/she doesn’t want to. This is true for every upgrade level, so if a player wanted to remain at level 2 he/she could. A player isn’t able to downgrade once the selection is made, but nothing stops him/her from simply never upgrading in the first place.
 
+----
+Manual.md page 15
+
+During an adventure, the heroes may be rewarded with lore and experience. These resources are tracked in the app and allow the heroes to upgrade items and purchase new skills between adventures. Players can ignore lore and experience for their first adventure; 
+
+----
+Reference.md page 3
+
+While at camp, heroes **can** upgrade their items and purchase new skill cards.
+
+----
+Reference.md page 17
+
+51.6 Each item has a tier, represented as a roman numeral on its card. When upgrading an item, a hero always upgrades it to a card of the next higher tier.
+
+- A hero's starting items are tier "I."
+
+- If an item reaches the highest tier, heroes cannot upgrade that item further, even if there is a lore value printed on the card.
+
 [creatures-in-my-play-area-how](https://boardgamegeek.com/thread/3384120/creatures-in-my-play-area-how)
-
-> The app says that I gain 1 inspiration token for each creature in my play area. I have searched all the cards from the core box and only found 1 card with the creature keyword. How can I then get creatures in my play area?
-
-If you only own the base game, then there is only 1 card available with the creature trait, but there are expansions for the game and in particular, one of them has a new role that's based around creatures. So you'd have a lot more creatures available if you had those expansions.
 
 [can-i-use-all-4-prepped-cards-in-a-turn](https://boardgamegeek.com/thread/2507527/can-i-use-all-4-prepped-cards-in-a-turn)
 
 > If a player has 4 prepped cards that each gives him/her many Strikes. Can the player use all of them in an attack and add the hits together or are there some limits?
 
 Yes, that is allowed.
+
+----
+Reference.md page 20
+
+69.4 A hero can have up to four prepared cards at the same time.
+
+- After a hero prepares one or more skill cards, if that hero has more than four prepared cards, they must discard any of their prepared cards until only four cards remain prepared.
+
+69.5 When a skill card is prepared, a hero is able to use that card's ability.
+
+- To use a card's ability, a hero follows the instructions on the card.
+
+- A hero cannot use an ability on a skill card if that card is not prepared.
+
+----
+Reference.md page 32
+
+**Strike X:** During your attack test, you may discard a card that has the 'Strike X' keyword to add X hits to the attack.
 
 [limits-to-enemies-per-location](https://boardgamegeek.com/thread/2712638/limits-to-enemies-per-location)
 

@@ -491,9 +491,7 @@ Barrels are a type of terrain that can be placed on the battle map.(image of 3 b
 
 - If the test produces at least two success (a sunburst symbol) icons, the hero passes the test and can apply four hits and stun to one nearby enemy group of their choice. Then, they discard the barrels token.
 
-- If the test produces fewer than two success (a sunburst symbol) icons, the hero
-
-fails the test and nothing happens.
+- If the test produces fewer than two success (a sunburst symbol) icons, the hero fails the test and nothing happens.
 
 ### 14  BATTLE MAP (page 9)
 
@@ -653,7 +651,11 @@ Darkness is a property of some spaces on the map and it can cause heroes to suff
 
 23.3 The app may indicate that the entire game map is in darkness. When this happens, there is a darkness icon on the screen in the app to indicate that all the spaces on the map are in darkness—it is not necessary to place a darkness token on each space of the game map.
 
+<<<<<<< HEAD
+23.4 During the darkness step of the shadow phase, each hero that is in darkness suffers an amount of fear (Icon of devil-like face with two curved horns) indicated by the app.
+=======
 23.4 During the darkness step of the shadow phase, each hero that is in darkness suffers an amount of fear (icon of devil-like face with two curved horns) indicated by the app.
+>>>>>>> 09d2c21404f0706f5e6f1f73f6d550b0437fdb29
 
 - A hero is in darkness if that hero is in a space that contains either a darkness icon or a darkness token.
 
@@ -1739,9 +1741,7 @@ See "Modifiers" On Page 19
 
 - After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
 
-95.4 When a skill card is prepared, any success (a sunburst icon) icons on that card
-
-have no effect and are ignored.
+95.4 When a skill card is prepared, any success (a sunburst icon) icons on that card have no effect and are ignored.
 
 95.5 Success (a sunburst icon) icons that a test produces that are in excess of the
 
