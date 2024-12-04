@@ -580,7 +580,7 @@ No, Threat stays at zero. Any attempt to reduce Threat below that threshold is w
 
 [aragorns-ability-on-initial-draw](https://boardgamegeek.com/thread/2921365/aragorns-ability-on-initial-draw)
 
-> Does Aragorn's ability for heroes to draw one additional card trigger on the initial setup round each mission/adventure? Or is it only on subsequent "Rally" rounds?
+> Does Aragorn's ability for heroes to draw one additional card trigger on the initial setup round each mission/adventure? Or is it only on subsequent "Ral ly" rounds?
 
 Aragorn's ability to let heroes draw an additional card does not trigger during the initial setup round. It only applies during subsequent Rally phases, which occur after the action and shadow phases. The initial card preparation at the start of an adventure is a separate, hard-coded event specific to that adventure.
 
