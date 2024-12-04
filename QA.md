@@ -4,19 +4,18 @@
 
 No, you cannot discard a prepared skill card at any time, nor do you have to replace it with another prepared card. Also, you are not allowed to use Guard if there is no damage or fear to prevent.
 
-
 ----
-Reference.md page 6
+page 6 of Reference
 
 A hero can only resolve an ability on a skill card while that skill card is prepared.
 
 ----
-Reference.md page 6
+page 6 of Reference
 
 An ability that requires a card to be discarded cannot be resolved if the card is discarded by another game effect
 
 ----
-Reference.md page 16
+page 16 of Reference
 
 Guard is a keyword that allows a hero to prevent damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns).
 
@@ -29,20 +28,19 @@ Guard is a keyword that allows a hero to prevent damage (icon of 3 scratch claws
 - A hero can prevent any combination of damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) that is equal to or less than X.
 
 ----
-Reference page 16
+page 16 of Reference
 
 43.3 Multiple abilities that have the "Guard X" keyword can be used to prevent damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) from a single source. Multiple heroes can use abilities with the "Guard X" keyword to prevent damage and fear from the same source.
 
 - If multiple heroes suffer damage (icon of 3 scratch claws) and fear (icon of devil-like face with two curved horns) while they are in the same space, a single ability that has the "Guard X" keyword can only prevent the damage and fear suffered by one of those heroes.
 
 ----
-Reference.md page 32
-
+page 32 of Reference
 
 **Guard X:** When you or a hero in your space would suffer damage or fear, you may discard a card that has the Guard X keyword to prevent any combination of X damage and fear.
 
 ----
-Reference.md page 20
+page 20 of Reference
 
 69.4 A hero can have up to four prepared cards at the same time.
 
@@ -59,7 +57,7 @@ prepared cards until only four cards remain prepared
  No, because "place" and "move" are different.
 
 ----
-Manual.md page 13
+page 13 of manual
 
  **Interrupting Enemy Activations:** Some abilities, such as Elena’s 'Child of the Lhun' skill card, can interrupt an enemy’s activation to apply hits or modifiers. To resolve these abilities, the hero selects the enemy’s portrait, inputs and applies hits or modifiers indicated by the ability, then continues the enemy’s activation.
 
@@ -70,12 +68,12 @@ Manual.md page 13
 No, you can't change characters in the middle of a game
 
 ----
-Manual.md page 4
+page 4 of manual
 
 Each player selects a hero in the app, takes their hero’s corresponding figure and hero card, and places them in their play area. These heroes will be used for the duration of the campaign, which spans several adventures
 
----
-Reference.md page 3
+----
+page 3 of Reference
 
 Heroes **cannot** trade items and purchased skills; however, trinkets can be equipped by different heroes during setup.
 
@@ -88,19 +86,19 @@ Once a fate (leaf icon) is converted to a success (snow icon), it can no longer 
 You can use either inspiration tokens or the Time of Need card to convert fate icons, but you can’t use both to double the successes.
 
 ----
-Reference.md page 15
+page 15 of Reference
 
 38.1 Unlike success (a sunburst symbol) icons, fate (leaf) icons have no inherent effect. However, during a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
 
 - After a fate (leaf icon) icon is converted to a success (a sunburst symbol) icon, the fate (leaf icon) icon cannot be used for any other purpose and is no longer treated as a fate (leaf icon) icon.
 
 ----
-Reference.md page 25
+page 25 of Reference
 
 95.3 During a test, a hero can spend any number of their inspiration tokens. For each inspiration token they spend, they can convert one fate (leaf icon) icon on their revealed skill cards to one success (a sunburst symbol) icon.
 
 ----
-Reference.md page 6
+page 6 of Reference
 
 1.7 If multiple abilities resolve at the same time, the party determines the order in which those abilities resolve.
 
@@ -115,19 +113,19 @@ discard that card and resolve both of its abilities
 The text on strike says "during an attack test" which means that you must be making the test. You are required to reveal cards for the test.
 
 ----
-Reference.md page 24
+page 24 of Reference
 
 93.1 When a hero is performing **an attack test**, that hero can discard a card that has the "Strike X" keyword to add X hits to the enemy group that is the target of that attack.
 
 ----
-Reference.md page 7
+page 7 of Reference
 
 5.2 Some abilities explicitly state to “apply” hits or modifiers—these
 abilities resolve outside of an attack. They are not attacks and
 cannot cause counterattacks
 
 ----
-Reference.md page 32
+page 32 of Reference
 
 **Strike X:** During your attack test, you may discard a card that has the 'Strike X' keyword to add X hits to the attack.
 
@@ -138,19 +136,19 @@ Reference.md page 32
 The terrain tokens are placed between spaces. They are not in any of the spaces that share that edge.
 
 ----
-Reference.md page 24
+page 24 of Reference
 
 A stream is a terrain token that can be placed over a border on a battle map.(image of a blue flowing water in an horizontal form)
 
 ----
-Reference.md page 24
+page 24 of Reference
 
 92.2 During the action phase, if a hero moves across a border that contains a stream token, that hero's turn ends immediately.
 
 The hero cannot perform any actions or resolve any game effects that occur during the current turn.
 
 ----
-Reference.md page 3
+page 3 of Reference
 
 When setting up a battle map, the heroes place terrain tokens as indicated in the app. Some terrain tokens are placed in spaces and
 others are placed on borders, altering the rules of that border.
@@ -162,12 +160,12 @@ others are placed on borders, altering the rules of that border.
 You do not need to prepare a card when you Scout. The rules say "That hero may prepare one of those cards"
 
 ----
-Reference.md page 32
+page 32 of Reference
 
 When an effect instructs you to "Scout X," reveal X cards from the top of your skill deck. **You may prepare** one of those cards (place it faceup under your hero card). Then, place each of the remaining revealed cards on the top or bottom of your skill deck in any order.
 
 ----
-Reference.md page 21
+page 21 of Reference
 
 73.2 **Step 2—Scout**: Each hero scouts two cards by revealing two cards from the top of their skill deck. Then, they prepare up to one of those cards, placing each remaining card on the top or bottom of their skill deck in any order.
 
@@ -178,7 +176,7 @@ Reference.md page 21
 You'll have the Darkness token icon in front of the threat bar when it is (and an explicit "The map is in Darkness" type message will have announced it at some point).
 
 ----
-Manual.md page 8
+page 8 of manual
 
 A hero is in darkness if any of the following three conditions apply: 
 
@@ -189,7 +187,7 @@ A hero is in darkness if any of the following three conditions apply:
 - The app states that they are in darkness.
   
 ----
-Reference.md page 11
+page 11 of Reference
 
 23.1 Some spaces on the map have a darkness icon printed on them. These spaces are always in darkness.
 
@@ -198,7 +196,7 @@ Reference.md page 11
 23.3 The app may indicate that the entire game map is in darkness. When this happens, there is a darkness icon on the screen in the app to indicate that all the spaces on the map are in darkness—it is not necessary to place a darkness token on each space of the game map.
 
 ----
-Reference.md page 23
+page 23 of Reference
 
 83.2 **Step 2—Darkness:** Each hero that is in a space that contains darkness suffers an amount of fear (icon of a devil-like face with two curved horns) indicated by the app.
 
@@ -211,19 +209,19 @@ If darkness is not present on the game map and if the app is not causing darknes
 If you got 4 successes you would do one hit for 7 hits and Stun. Armor only applies once per attack. The same goes for any Strike keywords you use on the attack, they increase it and don't separately plink off the armor.
 
 ----
-Reference.md page 9
+page 9 of Reference
 
 If the test produces at least two success (a sunburst symbol) icons, the hero passes the test and can apply four hits and stun to one nearby enemy group of their choice. Then, they discard the barrels token.
 
 If the test produces fewer than two success (a sunburst symbol) icons, the hero fails the test and nothing happens.
 
 ----
-Reference.md page 7
+page 7 of Reference
 
 5.1 Some abilities, such as "Strike X," explicitly state to "add" hits or modifiers. These abilities alter an attack that is in progress.
 
 ----
-Reference.md page 8
+page 8 of Reference
 
 Hits reduce an enemy’s armor or sorcery before they are able to reduce an enemy’s health.
 
@@ -242,17 +240,17 @@ Do I keep the top part prepared and only discard if I use the Hide effect?
 You discard when the card specifically tells you to do so, or when you're using the card to perform a keyword whose instructions specifically tell you to discard the card.
 
 ----
-Manual.md page 12
+page 12 of manual
 
 When a hero suffers a damage or fear, they reveal a damage or fear card from the appropriate deck and place it faceup in their play area. Then, they resolve the card’s effect.**Many of these cards instruct the hero to flip the card facedown or discard it.**
 
 ----
-Reference.md page 9
+page 9 of Reference
 
 If the test produces at least two success (a sunburst symbol) icons, the hero passes the test and can apply four hits and stun to one nearby enemy group of their choice. **Then, they discard the barrels token.**
 
 ----
-Manual.md page 14
+page 14 of manual
 
 Each card ability describes when the ability can be used. To use an
 ability, the hero resolves the ability’s text. Many skill card abilities
@@ -265,17 +263,17 @@ instruct the hero to discard the card from their prepared area.
 A player doesn’t have to upgrade if he/she doesn’t want to. This is true for every upgrade level, so if a player wanted to remain at level 2 he/she could. A player isn’t able to downgrade once the selection is made, but nothing stops him/her from simply never upgrading in the first place.
 
 ----
-Manual.md page 15
+page 15 of manual
 
 During an adventure, the heroes may be rewarded with lore and experience. These resources are tracked in the app and allow the heroes to upgrade items and purchase new skills between adventures. Players can ignore lore and experience for their first adventure; 
 
 ----
-Reference.md page 3
+page 3 of Reference
 
 While at camp, heroes **can** upgrade their items and purchase new skill cards.
 
 ----
-Reference.md page 17
+page 17 of Reference
 
 51.6 Each item has a tier, represented as a roman numeral on its card. When upgrading an item, a hero always upgrades it to a card of the next higher tier.
 
@@ -292,7 +290,7 @@ Reference.md page 17
 Yes, that is allowed.
 
 ----
-Reference.md page 20
+page 20 of Reference
 
 69.4 A hero can have up to four prepared cards at the same time.
 
@@ -305,7 +303,7 @@ Reference.md page 20
 - A hero cannot use an ability on a skill card if that card is not prepared.
 
 ----
-Reference.md page 32
+page 32 of Reference
 
 **Strike X:** During your attack test, you may discard a card that has the 'Strike X' keyword to add X hits to the attack.
 
