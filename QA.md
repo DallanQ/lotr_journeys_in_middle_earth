@@ -313,21 +313,32 @@ page 32 of Reference
 
 Yes. The number of figures in the box.
 
+----
+page 13 of Reference
+
+When placing an enemy group on the game map that is the same type as another enemy group that is already on the game map, an enemy banner (in a plastic stand) is also placed on the map in the same space as the enemy group.
+
 [about-bounders-map-card](https://boardgamegeek.com/thread/2189608/about-bounders-map-card)
 
 > What does "deplete this item" mean?
 
 "Deplete this item" just means removing 1 depletion token from the item.
 
+----
+page 27 of Reference
+
+If a game effect instructs a hero to deplete a trinket, they remove one depletion token from that trinket.
+
 [hope-renewed-situations](https://boardgamegeek.com/thread/3168973/hope-renewed-situations)
-
-> When Using Hope Renewed, if I can get it back, can I use it again right away, or is the "end of your turn" window closed?
-
-As long as the means you had to get the card back was via an effect with "end of turn" timing, then yes, you may use it right away again.
 
 > If I am using the 2 actions from HR, and I cross a river, do I get to continue with my bonus actions, or am I finished?
 
 Since you were already at the end of your turn, you get to continue with the 2 additional actions from HR, even if you cross a stream with one of them.
+
+----
+page 13 of Reference
+
+If an enemy group moves across a border that is covered by a stream token to get into range of a hero, the enemy group’s activation ends immediately. When this happens, the “Cross Stream” button in the app is selected.
 
 [what-does-a-skull-counter-under-a-hero-signify-whe](https://boardgamegeek.com/thread/2188082/what-does-a-skull-counter-under-a-hero-signify-whe)
 
@@ -335,11 +346,21 @@ Since you were already at the end of your turn, you get to continue with the 2 a
 
 When you do your first last stand you need one success. The skull under the hero lets you know how many successes you will need for your next last-stand action to be successful.
 
+----
+page 12 of Reference
+
+After a hero fails a last stand, the app informs the hero that they are defeated
+
 [resourceful](https://boardgamegeek.com/thread/2924239/resourceful)
 
 > When I prep Resourceful for my Hunter at the start of a round, do they get one Inspiration?
 
 Yes, the hunter gets one inspiration.
+
+----
+page 3 of manual
+
+Before you sprint, gain 1 inspiration.
 
 [determined](https://boardgamegeek.com/thread/2248183/determined)
 
@@ -347,11 +368,21 @@ Yes, the hunter gets one inspiration.
 
 It is a Boon card. Has a green back.
 
+----
+page 10 of Reference
+
+If a game effect instructs a hero to become hidden, emboldened, or determined, that hero gains a hidden, emboldened, or determined boon card, as appropriate.
+
 [can-you-guard-before-testing-for-negate-dmgfear](https://boardgamegeek.com/thread/2195975/can-you-guard-before-testing-for-negate-dmgfear)
 
 > Do you think that you have to test when the app tells you to negate? Let's say you want to use a **Guard** ability instead, because you want your successes for later use. Can you then ignore the negate option?
 
 Abilities that explicitly use the word “prevent” always reduce damage or fear without the hero needing to perform a test. Guard is a keyword that allows a hero to **prevent** damage or fear. You're never required to perform a **'negate'** test if you'd rather keep successes on the top of your deck (i.e. for attacks). The Learn to Play rules clearly state that you **'may'** negate.
+
+----
+page 11 of Reference
+
+When a hero has an opportunity to negate damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns), the app provides the hero with a stat followed by the word "negates" (e.g., (icon of a 3-pointed spiral) negates).
 
 [breaking-up-a-sprint](https://boardgamegeek.com/thread/2781715/breaking-up-a-sprint)
 
@@ -359,11 +390,23 @@ Abilities that explicitly use the word “prevent” always reduce damage or fea
 
 You can break up sprint as well. Think about it like it adds movement points.
 
+----
+page 6 of manual
+
+The travel action allows a hero to move around the game map. The game map is composed of map tiles, each of which is divided into one or more spaces. A space is an area of the board enclosed by gray borders. Spaces that share a gray border are adjacent to each other.
+
+A hero can interrupt their two moves to perform the second action of their turn. For example, a hero can move one space, perform their second action, and then move one additional space.
+
 [seems-like-if-you-become-hidden-while-in-a-space-w](https://boardgamegeek.com/thread/2222224/seems-like-if-you-become-hidden-while-in-a-space-w)
 
 > If you become Hidden while in a space with enemies, you should be able to move out of that space without Provoking. Or at least test to skip Provoking?
 
 Being hidden in this game is not being invisible. Since the enemy can attack you, it is just reasonable to assume that the enemy knows you are around and is able to hunt/attack you. It’s just that they know you’re around but not precisely where you are. If they do attack, they guess where your location is and miss (hence no physical damage) but it was so close that it scares the hell out of you (therefore the fear).
+
+----
+page 4 of manual
+
+If you are attacked, before you test, prevent all (icon of 3 scratch claws) and discard this boon. When you attack, you may discard this boon to add 1 (icon of a sunshine).
 
 [does-negating-enemy-damage-also-negate-an-addition](https://boardgamegeek.com/thread/2301648/does-negating-enemy-damage-also-negate-an-addition)
 
@@ -372,6 +415,16 @@ Being hidden in this game is not being invisible. Since the enemy can attack you
 By negating all the damage from the original source (the attack), you do not have to discard any inspiration. The 1 damage from the fear is considered a separate source. 
 
 It depends on the exact wording. If it reads "Three damage, might negate. If you suffer any damage, discard all boons." then no, you will not suffer the effect if you negate all the damage. If it just reads "Three damage, might negate. Discard all boons." then they are two independent effects and you still lose all boons whether or not you take damage.
+
+----
+page 9 of Reference
+
+In addition to damage (icon of 3 scratches claw) and fear (icon of devil-like face with two curved horns) values, some enemy attacks have additional text, which describe when and how they are resolved.
+
+----
+page 11 of Reference
+
+When a hero has an opportunity to negate damage (icon of 3 scratch claws) or fear (icon of devil-like face with two curved horns), the app provides the hero with a stat followed by the word "negates" (e.g., (icon of a 3-pointed spiral) negates).
 
 [ways-of-old](https://boardgamegeek.com/thread/2220948/ways-of-old)
 
